@@ -1,0 +1,1 @@
+{"flow_id": "TrainTestFlow", "run_number": "1660329951175058", "step_name": "feature_encoding_scaling__", "task_id": "4", "field_name": "metaflow_version", "type": "metaflow_version", "value": "2.7.2", "tags": ["attempt_id:0"], "user_name": "skyolia", "ts_epoch": 1660329954463}

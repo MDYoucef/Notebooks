@@ -1,0 +1,883 @@
+Avg,Age,Attrition,BusinessTravel,Department,DistanceFromHome,Education,EducationField,Gender,JobLevel,JobRole,MaritalStatus,MonthlyIncome,NumCompaniesWorked,PercentSalaryHike,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,YearsAtCompany,YearsSinceLastPromotion,YearsWithCurrManager,EnvironmentSatisfaction,JobSatisfaction,WorkLifeBalance,JobInvolvement,PerformanceRating
+7.8925,35.0,0,Travel_Rarely,Sales,16.0,2.0,Technical Degree,1,3.0,Manager,Single,25440.0,0.0,13.0,1.0,17.0,3.0,16.0000000001,0.0,13.0,3.0,2.0,3.0,4.0,3.0
+8.9325,33.0,0,Travel_Frequently,Sales,1.0,3.0,Marketing,1,2.0,Human Resources,Married,21760.0,1.0,14.0,1.0,6.0,2.0,6.0000000001,1.0,2.0,3.0,2.0,3.0,2.0,3.0
+9.944444444444445,39.0,1,Travel_Rarely,Research & Development,1.0,1.0,Medical,0,1.0,Laboratory Technician,Married,42840.0,4.0,17.0,1.0,12.0,0.0,1.0000000001,0.0,0.0,4.0,3.0,2.0,3.0,3.0
+6.2508333333333335,43.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,1,1.0,Manufacturing Director,Married,73790.0,7.0,13.0,2.0,21.0,3.0,16.0000000001,6.0,14.0,1.0,3.0,3.0,2.0,3.0
+8.594444444444445,29.0,1,Travel_Frequently,Sales,3.0,2.0,Marketing,0,2.0,Laboratory Technician,Single,68110.0,0.0,15.0,1.0,9.0,2.0,8.0000000001,7.0,7.0,3.0,4.0,3.0,3.0,3.0
+6.808055555555556,33.0,0,Travel_Rarely,Research & Development,2.0,2.0,Medical,1,1.0,Sales Executive,Single,24400.0,0.0,18.0,3.0,4.0,4.0,3.0000000001,0.0,2.0,3.0,4.0,4.0,3.0,3.0
+6.874444444444444,29.0,0,Travel_Rarely,Human Resources,8.0,3.0,Medical,1,3.0,Sales Representative,Single,25870.0,0.0,22.0,2.0,4.0,3.0,3.0000000001,2.0,2.0,2.0,4.0,3.0,3.0,4.0
+6.251111111111111,38.0,0,Travel_Rarely,Sales,8.0,2.0,Marketing,1,5.0,Research Scientist,Married,49300.0,9.0,14.0,0.0,14.0,0.0,1.0000000001,0.0,0.0,4.0,3.0,3.0,3.0,3.0
+8.845555555555556,35.0,0,Travel_Rarely,Research & Development,12.0,2.0,Medical,0,2.0,Sales Representative,Married,28090.0,4.0,23.0,1.0,10.0,2.0,8.0000000001,0.0,0.0,4.0,3.0,3.0,1.0,4.0
+6.812222222222222,31.0,0,Travel_Rarely,Sales,7.0,4.0,Marketing,1,2.0,Sales Executive,Married,132250.0,3.0,21.0,1.0,9.0,2.0,2.0000000001,1.0,0.0,1.0,1.0,3.0,3.0,4.0
+7.589444444444444,38.0,0,Travel_Rarely,Research & Development,3.0,4.0,Life Sciences,0,1.0,Sales Representative,Divorced,44900.0,2.0,21.0,1.0,10.0,1.0,5.0000000001,0.0,3.0,2.0,4.0,4.0,3.0,4.0
+7.52,30.0,0,Travel_Rarely,Sales,5.0,4.0,Medical,0,2.0,Manufacturing Director,Single,54100.0,0.0,17.0,1.0,6.0,2.0,5.0000000001,4.0,4.0,2.0,3.0,3.0,3.0,3.0
+7.677777777777778,41.0,0,Travel_Frequently,Sales,1.0,4.0,Other,0,2.0,Healthcare Representative,Divorced,55610.0,0.0,11.0,0.0,10.0,2.0,9.0000000001,1.0,7.0,3.0,1.0,3.0,2.0,3.0
+9.516111111111112,37.0,0,Travel_Rarely,Sales,2.0,4.0,Technical Degree,1,2.0,Manufacturing Director,Divorced,61720.0,0.0,11.0,0.0,6.0,1.0,5.0000000001,4.0,3.0,4.0,1.0,2.0,3.0,3.0
+10.942777777777778,41.0,0,Travel_Rarely,Research & Development,24.0,4.0,Life Sciences,0,4.0,Manager,Single,137260.0,3.0,12.0,0.0,21.0,6.0,2.0000000001,0.0,2.0,4.0,3.0,3.0,4.0,3.0
+7.334444444444444,42.0,0,Travel_Rarely,Research & Development,17.0,1.0,Life Sciences,1,3.0,Research Scientist,Married,99980.0,5.0,24.0,2.0,24.0,3.0,22.0000000001,4.0,14.0,1.0,3.0,2.0,2.0,4.0
+6.566388888888889,42.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,0,1.0,Manufacturing Director,Married,106850.0,4.0,11.0,3.0,4.0,2.0,1.0000000001,0.0,0.0,3.0,2.0,3.0,3.0,3.0
+6.4675,30.0,0,Travel_Rarely,Research & Development,14.0,3.0,Technical Degree,1,5.0,Research Director,Married,27950.0,3.0,13.0,0.0,9.0,4.0,4.0000000001,1.0,3.0,3.0,2.0,3.0,3.0,3.0
+7.663888888888889,31.0,1,Travel_Frequently,Research & Development,10.0,1.0,Life Sciences,0,1.0,Research Scientist,Single,41890.0,0.0,23.0,1.0,6.0,3.0,5.0000000001,1.0,4.0,3.0,2.0,4.0,2.0,4.0
+6.3675,43.0,0,Travel_Rarely,Research & Development,7.0,2.0,Medical,0,1.0,Laboratory Technician,Single,195020.0,3.0,18.0,2.0,23.0,3.0,21.0000000001,15.0,17.0,4.0,4.0,4.0,4.0,3.0
+6.997777777777777,46.0,0,Travel_Rarely,Research & Development,4.0,2.0,Life Sciences,1,3.0,Manufacturing Director,Married,138260.0,8.0,11.0,0.0,23.0,1.0,13.0000000001,5.0,1.0,3.0,2.0,4.0,2.0,3.0
+6.931111111111111,43.0,0,Travel_Frequently,Sales,8.0,3.0,Medical,1,1.0,Research Director,Married,36000.0,1.0,23.0,0.0,7.0,2.0,7.0000000001,7.0,7.0,1.0,4.0,3.0,3.0,4.0
+10.901666666666667,53.0,0,Travel_Rarely,Sales,14.0,2.0,Life Sciences,0,5.0,Manufacturing Director,Married,35170.0,2.0,12.0,1.0,13.0,1.0,7.0000000001,4.0,5.0,2.0,3.0,1.0,2.0,3.0
+6.67,30.0,0,Travel_Rarely,Sales,13.0,3.0,Marketing,0,2.0,Laboratory Technician,Single,57700.0,1.0,16.0,1.0,5.0,2.0,5.0000000001,0.0,4.0,1.0,3.0,2.0,4.0,3.0
+6.339444444444444,22.0,0,Travel_Rarely,Sales,29.0,4.0,Technical Degree,1,1.0,Sales Executive,Married,46630.0,0.0,13.0,1.0,3.0,1.0,2.0000000001,2.0,1.0,3.0,4.0,3.0,3.0,3.0
+5.963333333333333,36.0,0,Travel_Rarely,Sales,15.0,2.0,Life Sciences,1,1.0,Sales Executive,Married,96790.0,4.0,12.0,0.0,6.0,1.0,2.0000000001,2.0,2.0,4.0,3.0,3.0,3.0,3.0
+9.456111111111111,50.0,0,Travel_Rarely,Research & Development,1.0,3.0,Technical Degree,0,2.0,Sales Executive,Married,134960.0,3.0,18.0,1.0,22.0,3.0,12.0000000001,1.0,5.0,4.0,3.0,3.0,3.0,3.0
+7.2675,38.0,0,Travel_Rarely,Research & Development,5.0,3.0,Technical Degree,1,1.0,Sales Executive,Married,63490.0,2.0,11.0,0.0,20.0,3.0,19.0000000001,1.0,9.0,3.0,3.0,2.0,3.0,3.0
+8.451666666666666,35.0,0,Travel_Rarely,Sales,4.0,4.0,Marketing,1,1.0,Laboratory Technician,Married,180410.0,3.0,20.0,1.0,15.0,3.0,7.0000000001,1.0,7.0,3.0,1.0,3.0,2.0,4.0
+9.363055555555556,28.0,1,Travel_Rarely,Research & Development,25.0,3.0,Technical Degree,1,1.0,Research Director,Single,187890.0,3.0,16.0,1.0,6.0,4.0,2.0000000001,2.0,2.0,4.0,3.0,3.0,3.0,3.0
+5.983333333333333,34.0,0,Travel_Rarely,Sales,2.0,3.0,Marketing,1,4.0,Healthcare Representative,Single,46950.0,1.0,16.0,1.0,14.0,2.0,14.0000000001,2.0,1.0,1.0,4.0,2.0,3.0,3.0
+6.008611111111111,31.0,1,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,3.0,Laboratory Technician,Married,21680.0,0.0,14.0,1.0,2.0,2.0,1.0000000001,0.0,0.0,4.0,1.0,3.0,3.0,3.0
+7.072777777777778,27.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,0,2.0,Laboratory Technician,Married,48510.0,8.0,18.0,0.0,5.0,2.0,1.0000000001,0.0,0.0,3.0,4.0,3.0,3.0,3.0
+7.247777777777777,33.0,0,Travel_Rarely,Sales,13.0,4.0,Marketing,0,2.0,Manufacturing Director,Divorced,45680.0,0.0,18.0,1.0,6.0,2.0,5.0000000001,1.0,2.0,3.0,3.0,3.0,3.0,3.0
+7.795277777777778,36.0,1,Travel_Rarely,Sales,2.0,4.0,Technical Degree,1,4.0,Sales Executive,Single,54820.0,1.0,18.0,0.0,18.0,3.0,17.0000000001,15.0,14.0,3.0,1.0,3.0,3.0,3.0
+8.78,52.0,0,Non-Travel,Research & Development,2.0,3.0,Technical Degree,1,1.0,Sales Executive,Single,45070.0,1.0,14.0,0.0,33.0,3.0,33.0000000001,15.0,12.0,1.0,3.0,4.0,2.0,3.0
+7.754722222222222,36.0,0,Non-Travel,Research & Development,5.0,4.0,Life Sciences,1,1.0,Sales Executive,Married,85780.0,7.0,21.0,0.0,10.0,4.0,9.0000000001,0.0,8.0,2.0,2.0,3.0,3.0,4.0
+6.698888888888889,31.0,1,Travel_Rarely,Research & Development,9.0,1.0,Medical,0,1.0,Sales Representative,Divorced,189470.0,2.0,12.0,2.0,9.0,2.0,3.0000000001,1.0,2.0,2.0,1.0,1.0,2.0,3.0
+6.257222222222223,28.0,1,Travel_Rarely,Sales,7.0,5.0,Life Sciences,0,2.0,Sales Representative,Divorced,171230.0,5.0,15.0,1.0,6.0,2.0,4.0000000001,0.0,3.0,3.0,4.0,2.0,2.0,3.0
+6.045,29.0,0,Travel_Rarely,Research & Development,5.0,3.0,Medical,1,2.0,Sales Representative,Single,75530.0,1.0,19.0,0.0,5.0,3.0,5.0000000001,0.0,4.0,4.0,1.0,1.0,3.0,3.0
+7.751111111111111,34.0,1,Travel_Rarely,Sales,15.0,2.0,Marketing,0,2.0,Research Scientist,Single,84630.0,2.0,13.0,0.0,8.0,2.0,4.0000000001,1.0,3.0,2.0,1.0,3.0,1.0,3.0
+7.869722222222222,27.0,0,Travel_Rarely,Sales,2.0,3.0,Life Sciences,0,1.0,Manager,Single,39040.0,1.0,15.0,0.0,7.0,2.0,7.0000000001,0.0,7.0,4.0,4.0,3.0,3.0,3.0
+10.270277777777778,31.0,1,Travel_Frequently,Research & Development,2.0,1.0,Other,1,3.0,Sales Executive,Married,70940.0,1.0,14.0,1.0,10.0,2.0,10.0000000001,0.0,8.0,1.0,4.0,3.0,3.0,3.0
+6.925277777777778,39.0,0,Travel_Rarely,Research & Development,1.0,3.0,Other,0,1.0,Laboratory Technician,Married,105120.0,1.0,12.0,1.0,10.0,2.0,10.0000000001,7.0,9.0,1.0,1.0,3.0,3.0,3.0
+6.404166666666667,29.0,0,Travel_Rarely,Research & Development,5.0,4.0,Life Sciences,0,4.0,Healthcare Representative,Divorced,66730.0,6.0,12.0,1.0,8.0,2.0,4.0000000001,0.0,3.0,1.0,4.0,3.0,4.0,3.0
+8.680277777777778,43.0,0,Travel_Rarely,Research & Development,10.0,5.0,Technical Degree,0,2.0,Sales Executive,Divorced,26830.0,4.0,11.0,0.0,21.0,3.0,1.0000000001,0.0,0.0,2.0,4.0,2.0,3.0,3.0
+6.334722222222222,25.0,0,Travel_Rarely,Research & Development,6.0,2.0,Medical,0,4.0,Research Scientist,Married,20450.0,3.0,19.0,0.0,7.0,3.0,3.0000000001,1.0,2.0,4.0,4.0,2.0,3.0,3.0
+7.276944444444444,45.0,0,Travel_Frequently,Research & Development,3.0,1.0,Medical,0,1.0,Sales Executive,Divorced,35400.0,1.0,13.0,0.0,24.0,6.0,24.0000000001,9.0,11.0,1.0,1.0,3.0,3.0,3.0
+5.970277777777778,34.0,0,Travel_Frequently,Research & Development,25.0,1.0,Life Sciences,0,1.0,Manager,Married,22590.0,1.0,14.0,0.0,8.0,2.0,8.0000000001,7.0,7.0,4.0,3.0,2.0,3.0,3.0
+6.070555555555556,35.0,0,Travel_Frequently,Research & Development,1.0,3.0,Other,1,2.0,Research Director,Single,22750.0,5.0,13.0,0.0,10.0,2.0,6.0000000001,1.0,2.0,2.0,2.0,3.0,4.0,3.0
+6.790277777777778,40.0,0,Non-Travel,Research & Development,1.0,4.0,Technical Degree,0,2.0,Laboratory Technician,Divorced,30680.0,3.0,19.0,0.0,20.0,3.0,1.0000000001,0.0,1.0,3.0,1.0,3.0,2.0,3.0
+7.405833333333334,33.0,0,Non-Travel,Research & Development,2.0,4.0,Medical,1,1.0,Sales Representative,Single,25960.0,8.0,14.0,1.0,13.0,4.0,11.0000000001,1.0,7.0,4.0,2.0,2.0,3.0,3.0
+7.516944444444444,57.0,0,Travel_Rarely,Sales,2.0,1.0,Life Sciences,1,3.0,Research Scientist,Married,61620.0,0.0,14.0,0.0,13.0,5.0,12.0000000001,2.0,8.0,2.0,3.0,2.0,2.0,3.0
+7.843055555555556,41.0,0,Travel_Frequently,Sales,11.0,3.0,Other,1,1.0,Laboratory Technician,Divorced,168720.0,2.0,15.0,1.0,21.0,2.0,18.0000000001,0.0,11.0,1.0,3.0,4.0,3.0,3.0
+9.520277777777778,50.0,1,Travel_Rarely,Research & Development,17.0,3.0,Medical,1,1.0,Research Scientist,Divorced,173280.0,4.0,15.0,2.0,20.0,1.0,3.0000000001,2.0,0.0,4.0,1.0,3.0,3.0,3.0
+6.569444444444445,35.0,0,Travel_Frequently,Research & Development,9.0,2.0,Other,0,1.0,Manufacturing Director,Divorced,104960.0,1.0,13.0,1.0,5.0,2.0,5.0000000001,0.0,2.0,4.0,4.0,3.0,3.0,3.0
+6.699166666666667,24.0,0,Non-Travel,Sales,1.0,5.0,Marketing,0,1.0,Manufacturing Director,Divorced,81890.0,1.0,14.0,1.0,1.0,3.0,1.0000000001,0.0,0.0,3.0,2.0,3.0,3.0,3.0
+6.558888888888889,43.0,0,Travel_Rarely,Sales,7.0,4.0,Marketing,1,2.0,Sales Executive,Divorced,48760.0,4.0,16.0,2.0,4.0,4.0,1.0000000001,0.0,0.0,1.0,2.0,4.0,3.0,3.0
+7.575555555555556,52.0,0,Travel_Frequently,Research & Development,1.0,1.0,Life Sciences,1,2.0,Laboratory Technician,Married,50060.0,3.0,16.0,1.0,31.0,2.0,9.0000000001,0.0,0.0,3.0,4.0,3.0,3.0,3.0
+8.20138888888889,33.0,0,Travel_Frequently,Sales,29.0,4.0,Life Sciences,0,1.0,Human Resources,Single,31800.0,1.0,14.0,1.0,15.0,2.0,15.0000000001,8.0,12.0,1.0,4.0,3.0,3.0,3.0
+6.245277777777778,31.0,0,Travel_Rarely,Sales,1.0,3.0,Marketing,0,2.0,Sales Executive,Divorced,64650.0,4.0,17.0,0.0,13.0,3.0,7.0000000001,5.0,7.0,1.0,4.0,4.0,3.0,3.0
+6.324722222222222,40.0,0,Travel_Rarely,Sales,10.0,1.0,Life Sciences,0,1.0,Manufacturing Director,Married,65240.0,0.0,13.0,1.0,9.0,2.0,8.0000000001,7.0,1.0,1.0,1.0,4.0,4.0,3.0
+10.388333333333334,50.0,0,Travel_Rarely,Research & Development,20.0,2.0,Medical,0,5.0,Laboratory Technician,Married,154020.0,4.0,21.0,0.0,25.0,3.0,3.0000000001,1.0,2.0,4.0,1.0,3.0,2.0,4.0
+5.928333333333334,35.0,1,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,3.0,Healthcare Representative,Married,23210.0,9.0,12.0,1.0,15.0,0.0,13.0000000001,6.0,0.0,4.0,1.0,3.0,3.0,3.0
+7.964722222222222,30.0,0,Non-Travel,Research & Development,17.0,4.0,Life Sciences,1,2.0,Healthcare Representative,Single,64300.0,1.0,12.0,1.0,12.0,2.0,11.0000000001,5.0,8.0,3.0,3.0,3.0,2.0,3.0
+7.567777777777778,29.0,0,Travel_Frequently,Research & Development,29.0,1.0,Life Sciences,1,1.0,Sales Representative,Married,192020.0,1.0,12.0,0.0,3.0,5.0,3.0000000001,0.0,2.0,3.0,3.0,3.0,3.0,3.0
+10.619722222222222,29.0,1,Travel_Rarely,Sales,2.0,4.0,Marketing,0,4.0,Research Scientist,Married,106500.0,1.0,13.0,2.0,1.0,2.0,1.0000000001,0.0,0.0,2.0,1.0,3.0,4.0,3.0
+6.713055555555556,51.0,0,Travel_Rarely,Research & Development,29.0,4.0,Life Sciences,0,5.0,Manufacturing Director,Married,24510.0,3.0,17.0,0.0,10.0,2.0,4.0000000001,0.0,3.0,4.0,4.0,3.0,2.0,3.0
+7.290277777777778,52.0,0,Travel_Rarely,Research & Development,12.0,3.0,Medical,1,2.0,Research Scientist,Married,48780.0,2.0,11.0,1.0,31.0,3.0,5.0000000001,1.0,4.0,4.0,4.0,1.0,3.0,3.0
+6.339166666666666,41.0,0,Travel_Rarely,Research & Development,5.0,3.0,Life Sciences,0,1.0,Sales Executive,Married,66230.0,5.0,18.0,0.0,14.0,3.0,5.0000000001,1.0,4.0,3.0,2.0,3.0,3.0,3.0
+7.567222222222222,38.0,0,Travel_Frequently,Sales,4.0,3.0,Medical,1,2.0,Research Scientist,Divorced,23060.0,2.0,19.0,1.0,13.0,5.0,4.0000000001,1.0,2.0,1.0,1.0,2.0,3.0,3.0
+5.9775,32.0,0,Non-Travel,Research & Development,10.0,4.0,Life Sciences,0,1.0,Laboratory Technician,Single,87400.0,2.0,11.0,1.0,12.0,2.0,7.0000000001,0.0,7.0,2.0,2.0,3.0,3.0,3.0
+6.3675,34.0,0,Travel_Rarely,Research & Development,26.0,3.0,Other,0,1.0,Sales Executive,Married,190380.0,6.0,13.0,0.0,13.0,3.0,11.0000000001,5.0,9.0,4.0,1.0,3.0,2.0,3.0
+7.166388888888889,60.0,0,Travel_Frequently,Research & Development,16.0,3.0,Life Sciences,0,4.0,Laboratory Technician,Married,23390.0,4.0,20.0,0.0,22.0,4.0,18.0000000001,13.0,11.0,3.0,1.0,4.0,3.0,4.0
+6.235,26.0,0,Travel_Rarely,Research & Development,3.0,2.0,Medical,0,4.0,Healthcare Representative,Divorced,24360.0,1.0,24.0,0.0,3.0,2.0,3.0000000001,0.0,2.0,1.0,4.0,1.0,4.0,4.0
+10.772777777777778,31.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,1,4.0,Human Resources,Single,28670.0,0.0,24.0,0.0,3.0,5.0,2.0000000001,2.0,2.0,3.0,2.0,3.0,3.0,4.0
+8.575555555555555,41.0,1,Travel_Rarely,Research & Development,7.0,2.0,Life Sciences,0,1.0,Research Scientist,Single,20990.0,8.0,12.0,1.0,8.0,2.0,6.0000000001,0.0,5.0,2.0,4.0,1.0,3.0,3.0
+8.258888888888889,37.0,0,Non-Travel,Research & Development,1.0,5.0,Medical,0,2.0,Research Scientist,Single,62610.0,1.0,12.0,0.0,10.0,1.0,10.0000000001,0.0,9.0,1.0,2.0,3.0,3.0,3.0
+6.318333333333333,30.0,0,Travel_Rarely,Sales,9.0,3.0,Medical,1,2.0,Research Scientist,Single,39360.0,0.0,11.0,1.0,6.0,3.0,5.0000000001,1.0,2.0,2.0,4.0,3.0,3.0,3.0
+6.231111111111111,28.0,1,Travel_Rarely,Sales,7.0,5.0,Life Sciences,0,2.0,Sales Representative,Divorced,171230.0,5.0,15.0,1.0,6.0,2.0,4.0000000001,0.0,3.0,3.0,4.0,2.0,2.0,3.0
+7.358611111111111,45.0,0,Travel_Rarely,Research & Development,2.0,1.0,Medical,0,4.0,Sales Executive,Married,44040.0,0.0,23.0,0.0,9.0,2.0,8.0000000001,3.0,7.0,4.0,2.0,4.0,3.0,4.0
+5.954166666666667,40.0,0,Travel_Rarely,Sales,26.0,4.0,Marketing,0,1.0,Sales Executive,Married,34820.0,0.0,18.0,1.0,21.0,2.0,20.0000000001,1.0,12.0,3.0,3.0,3.0,2.0,3.0
+8.066944444444445,41.0,0,Travel_Rarely,Research & Development,17.0,2.0,Other,1,1.0,Manufacturing Director,Divorced,52080.0,3.0,11.0,3.0,12.0,2.0,9.0000000001,0.0,7.0,3.0,3.0,3.0,1.0,3.0
+7.43,32.0,1,Travel_Rarely,Sales,1.0,3.0,Life Sciences,1,2.0,Research Scientist,Single,27430.0,1.0,19.0,1.0,1.0,2.0,1.0000000001,0.0,0.0,4.0,2.0,3.0,3.0,3.0
+9.6625,42.0,0,Non-Travel,Research & Development,4.0,3.0,Life Sciences,1,2.0,Laboratory Technician,Married,20830.0,0.0,12.0,2.0,21.0,3.0,20.0000000001,2.0,10.0,3.0,3.0,2.0,2.0,3.0
+7.954444444444444,21.0,0,Non-Travel,Research & Development,1.0,5.0,Life Sciences,0,2.0,Manager,Single,28630.0,1.0,14.0,0.0,3.0,2.0,3.0000000001,2.0,2.0,1.0,4.0,2.0,1.0,3.0
+9.214166666666667,27.0,0,Non-Travel,Research & Development,2.0,3.0,Life Sciences,1,1.0,Research Director,Married,168230.0,0.0,17.0,0.0,6.0,3.0,5.0000000001,1.0,4.0,3.0,2.0,3.0,3.0,3.0
+5.934166666666667,39.0,0,Travel_Rarely,Research & Development,26.0,1.0,Medical,1,2.0,Healthcare Representative,Single,34470.0,0.0,14.0,0.0,9.0,5.0,8.0000000001,1.0,7.0,1.0,3.0,3.0,3.0,3.0
+6.840277777777778,35.0,0,Travel_Rarely,Sales,24.0,3.0,Medical,1,5.0,Sales Executive,Divorced,57450.0,1.0,17.0,3.0,3.0,4.0,3.0000000001,1.0,2.0,2.0,4.0,2.0,3.0,3.0
+8.368611111111111,29.0,1,Travel_Rarely,Research & Development,7.0,1.0,Life Sciences,0,1.0,Research Scientist,Single,21800.0,1.0,21.0,0.0,4.0,2.0,4.0000000001,0.0,1.0,3.0,4.0,2.0,3.0,4.0
+6.647222222222222,31.0,0,Travel_Rarely,Research & Development,2.0,4.0,Life Sciences,0,1.0,Sales Executive,Divorced,29090.0,9.0,14.0,2.0,10.0,2.0,5.0000000001,0.0,1.0,3.0,4.0,2.0,3.0,3.0
+6.866388888888889,53.0,0,Travel_Rarely,Research & Development,2.0,4.0,Technical Degree,1,2.0,Manager,Single,116910.0,4.0,20.0,0.0,35.0,2.0,9.0000000001,8.0,8.0,4.0,2.0,2.0,3.0,4.0
+6.765833333333333,45.0,0,Travel_Rarely,Sales,1.0,4.0,Technical Degree,1,1.0,Research Scientist,Divorced,25800.0,8.0,17.0,3.0,20.0,3.0,17.0000000001,0.0,15.0,2.0,2.0,3.0,3.0,3.0
+7.361111111111111,40.0,0,Travel_Frequently,Research & Development,6.0,3.0,Medical,1,1.0,Healthcare Representative,Married,60770.0,1.0,16.0,2.0,22.0,2.0,22.0000000001,11.0,11.0,3.0,2.0,2.0,2.0,3.0
+6.442777777777778,40.0,0,Travel_Frequently,Research & Development,10.0,4.0,Medical,1,2.0,Manufacturing Director,Married,65670.0,1.0,13.0,1.0,8.0,3.0,8.0000000001,3.0,7.0,3.0,2.0,3.0,4.0,3.0
+7.975833333333333,38.0,0,Travel_Frequently,Research & Development,2.0,5.0,Medical,0,4.0,Sales Executive,Married,84460.0,0.0,14.0,0.0,7.0,3.0,6.0000000001,1.0,2.0,4.0,2.0,3.0,2.0,3.0
+7.739722222222222,32.0,1,Travel_Rarely,Research & Development,5.0,3.0,Medical,1,1.0,Healthcare Representative,Married,34770.0,1.0,11.0,0.0,14.0,2.0,14.0000000001,9.0,8.0,4.0,4.0,2.0,4.0,3.0
+8.093333333333334,45.0,0,Travel_Rarely,Research & Development,24.0,2.0,Medical,1,2.0,Sales Executive,Divorced,54760.0,4.0,13.0,1.0,9.0,3.0,5.0000000001,0.0,3.0,3.0,1.0,4.0,3.0,3.0
+6.924722222222222,30.0,1,Travel_Frequently,Research & Development,9.0,3.0,Other,1,2.0,Healthcare Representative,Married,68250.0,1.0,14.0,0.0,1.0,2.0,1.0000000001,0.0,0.0,2.0,1.0,4.0,3.0,3.0
+6.196944444444444,30.0,0,Non-Travel,Sales,10.0,2.0,Life Sciences,1,3.0,Laboratory Technician,Single,188800.0,0.0,22.0,1.0,12.0,3.0,11.0000000001,6.0,7.0,3.0,4.0,2.0,3.0,4.0
+7.355277777777777,36.0,0,Non-Travel,Research & Development,7.0,2.0,Life Sciences,1,5.0,Sales Executive,Single,116310.0,1.0,18.0,1.0,10.0,2.0,10.0000000001,0.0,9.0,1.0,1.0,3.0,1.0,3.0
+8.674166666666666,55.0,0,Travel_Rarely,Sales,26.0,3.0,Marketing,1,1.0,Laboratory Technician,Single,104480.0,2.0,13.0,0.0,30.0,3.0,5.0000000001,1.0,2.0,3.0,4.0,3.0,3.0,3.0
+7.795277777777778,47.0,0,Travel_Frequently,Sales,1.0,3.0,Medical,0,2.0,Laboratory Technician,Single,68340.0,3.0,16.0,1.0,5.0,2.0,1e-10,0.0,0.0,2.0,3.0,3.0,4.0,3.0
+6.630277777777778,29.0,1,Travel_Rarely,Research & Development,19.0,4.0,Life Sciences,1,3.0,Research Scientist,Married,17900.0,5.0,16.0,1.0,6.0,4.0,2.0000000001,1.0,1.0,3.0,2.0,4.0,2.0,3.0
+6.914444444444444,32.0,0,Travel_Rarely,Sales,2.0,3.0,Marketing,1,2.0,Laboratory Technician,Married,27060.0,1.0,21.0,1.0,13.0,4.0,13.0000000001,4.0,8.0,4.0,3.0,2.0,3.0,4.0
+6.060555555555555,31.0,0,Travel_Rarely,Sales,10.0,2.0,Life Sciences,0,2.0,Research Scientist,Divorced,112440.0,3.0,12.0,1.0,10.0,3.0,7.0000000001,1.0,7.0,4.0,4.0,2.0,3.0,3.0
+7.0625,53.0,0,Travel_Rarely,Research & Development,24.0,3.0,Other,0,3.0,Manager,Single,22690.0,7.0,11.0,1.0,18.0,2.0,14.0000000001,8.0,10.0,4.0,1.0,4.0,2.0,3.0
+7.573611111111111,33.0,0,Non-Travel,Sales,9.0,2.0,Technical Degree,1,5.0,Sales Representative,Single,12000.0,0.0,11.0,1.0,3.0,3.0,2.0000000001,2.0,2.0,2.0,4.0,2.0,3.0,3.0
+10.663333333333334,37.0,0,Non-Travel,Research & Development,1.0,3.0,Medical,1,3.0,Laboratory Technician,Married,20080.0,3.0,22.0,0.0,15.0,5.0,13.0000000001,10.0,7.0,2.0,3.0,3.0,2.0,4.0
+7.533611111111111,35.0,0,Travel_Rarely,Research & Development,2.0,3.0,Medical,0,2.0,Sales Executive,Married,21570.0,1.0,25.0,0.0,16.0,1.0,16.0000000001,1.0,10.0,2.0,1.0,3.0,2.0,4.0
+7.986944444444444,37.0,0,Travel_Rarely,Research & Development,23.0,3.0,Life Sciences,1,3.0,Manufacturing Director,Divorced,166590.0,7.0,16.0,1.0,10.0,2.0,6.0000000001,1.0,3.0,3.0,4.0,3.0,3.0,3.0
+8.105833333333333,21.0,0,Travel_Rarely,Sales,10.0,5.0,Medical,1,3.0,Research Scientist,Single,66870.0,1.0,19.0,3.0,2.0,0.0,2.0000000001,1.0,2.0,3.0,1.0,3.0,3.0,3.0
+7.348888888888889,56.0,0,Travel_Frequently,Research & Development,20.0,4.0,Life Sciences,0,3.0,Sales Executive,Married,53210.0,9.0,14.0,0.0,36.0,1.0,7.0000000001,7.0,7.0,3.0,1.0,2.0,3.0,3.0
+6.459722222222222,31.0,0,Travel_Frequently,Sales,3.0,3.0,Marketing,1,2.0,Sales Executive,Single,46210.0,2.0,18.0,1.0,9.0,3.0,5.0000000001,1.0,4.0,4.0,4.0,2.0,3.0,3.0
+6.2025,41.0,0,Travel_Rarely,Research & Development,3.0,3.0,Medical,1,1.0,Manufacturing Director,Married,72600.0,1.0,16.0,0.0,22.0,2.0,22.0000000001,2.0,10.0,4.0,3.0,3.0,3.0,3.0
+7.845555555555555,54.0,0,Travel_Rarely,Research & Development,14.0,3.0,Other,1,3.0,Research Scientist,Married,66740.0,3.0,17.0,1.0,9.0,2.0,4.0000000001,2.0,3.0,1.0,3.0,2.0,3.0,3.0
+9.885833333333334,45.0,1,Travel_Rarely,Human Resources,12.0,3.0,Human Resources,1,2.0,Laboratory Technician,Single,43060.0,2.0,11.0,2.0,26.0,3.0,24.0000000001,1.0,11.0,1.0,2.0,3.0,3.0,3.0
+8.662777777777778,45.0,0,Non-Travel,Sales,2.0,3.0,Medical,0,1.0,Sales Executive,Married,66440.0,1.0,12.0,0.0,9.0,3.0,9.0000000001,0.0,8.0,4.0,1.0,3.0,4.0,3.0
+6.769722222222223,24.0,0,Travel_Rarely,Sales,7.0,3.0,Medical,0,1.0,Laboratory Technician,Married,12320.0,1.0,12.0,0.0,1.0,4.0,1.0000000001,0.0,0.0,4.0,2.0,3.0,1.0,3.0
+10.481666666666667,35.0,0,Travel_Rarely,Sales,2.0,1.0,Technical Degree,1,2.0,Laboratory Technician,Married,18590.0,0.0,25.0,1.0,4.0,2.0,3.0000000001,0.0,2.0,4.0,2.0,3.0,2.0,4.0
+7.4447222222222225,37.0,0,Travel_Rarely,Research & Development,20.0,5.0,Life Sciences,1,2.0,Manager,Single,68040.0,4.0,13.0,1.0,8.0,1.0,3.0000000001,0.0,2.0,1.0,3.0,3.0,3.0,3.0
+7.731111111111111,39.0,0,Travel_Rarely,Sales,2.0,2.0,Medical,0,1.0,Sales Executive,Married,20080.0,2.0,12.0,0.0,11.0,3.0,7.0000000001,7.0,6.0,4.0,3.0,3.0,3.0,3.0
+7.155277777777778,32.0,0,Non-Travel,Research & Development,15.0,3.0,Medical,1,2.0,Manager,Single,69290.0,9.0,20.0,0.0,10.0,6.0,8.0000000001,7.0,7.0,4.0,3.0,3.0,1.0,4.0
+7.146944444444444,41.0,1,Non-Travel,Research & Development,12.0,3.0,Life Sciences,1,2.0,Sales Representative,Divorced,195660.0,6.0,16.0,0.0,5.0,2.0,1.0000000001,0.0,0.0,1.0,1.0,1.0,4.0,3.0
+10.38111111111111,31.0,0,Travel_Rarely,Sales,2.0,5.0,Life Sciences,1,2.0,Sales Representative,Married,27280.0,8.0,11.0,0.0,7.0,3.0,4.0000000001,0.0,2.0,3.0,4.0,3.0,4.0,3.0
+9.585277777777778,50.0,0,Travel_Rarely,Research & Development,5.0,4.0,Life Sciences,1,1.0,Sales Executive,Married,118780.0,2.0,13.0,1.0,29.0,2.0,8.0000000001,7.0,7.0,2.0,3.0,2.0,3.0,3.0
+7.565,48.0,0,Travel_Rarely,Research & Development,2.0,1.0,Life Sciences,1,2.0,Research Scientist,Single,28190.0,1.0,20.0,0.0,11.0,2.0,10.0000000001,0.0,8.0,4.0,4.0,3.0,2.0,4.0
+6.639722222222222,46.0,1,Travel_Rarely,Research & Development,18.0,1.0,Medical,1,1.0,Manufacturing Director,Divorced,59800.0,4.0,11.0,1.0,28.0,2.0,7.0000000001,4.0,3.0,1.0,4.0,4.0,3.0,3.0
+10.66638888888889,32.0,0,Travel_Rarely,Human Resources,22.0,3.0,Human Resources,0,2.0,Research Director,Divorced,74460.0,0.0,19.0,0.0,7.0,3.0,6.0000000001,0.0,5.0,1.0,2.0,2.0,3.0,3.0
+7.334722222222222,34.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,2.0,Laboratory Technician,Married,53430.0,1.0,14.0,0.0,10.0,5.0,10.0000000001,4.0,8.0,2.0,3.0,3.0,2.0,3.0
+8.103055555555555,55.0,0,Travel_Rarely,Sales,9.0,3.0,Marketing,1,2.0,Laboratory Technician,Married,119160.0,4.0,15.0,1.0,35.0,3.0,10.0000000001,1.0,4.0,3.0,2.0,3.0,2.0,3.0
+7.244166666666667,36.0,0,Non-Travel,Human Resources,28.0,3.0,Human Resources,1,2.0,Laboratory Technician,Single,24320.0,4.0,22.0,0.0,7.0,4.0,1.0000000001,0.0,0.0,4.0,4.0,3.0,1.0,4.0
+8.470833333333333,47.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,2.0,Manufacturing Director,Single,99810.0,1.0,21.0,1.0,3.0,3.0,3.0000000001,1.0,2.0,4.0,4.0,2.0,3.0,4.0
+7.663611111111111,23.0,0,Travel_Rarely,Research & Development,2.0,4.0,Medical,0,2.0,Manager,Single,49360.0,0.0,19.0,1.0,5.0,2.0,4.0000000001,1.0,2.0,1.0,3.0,3.0,2.0,3.0
+8.335277777777778,29.0,1,Travel_Rarely,Research & Development,7.0,1.0,Life Sciences,0,1.0,Research Scientist,Single,21800.0,1.0,21.0,0.0,4.0,2.0,4.0000000001,0.0,1.0,3.0,4.0,2.0,3.0,4.0
+6.595833333333333,31.0,0,Travel_Frequently,Research & Development,9.0,4.0,Medical,1,1.0,Sales Executive,Divorced,46840.0,1.0,16.0,1.0,2.0,4.0,2.0000000001,2.0,2.0,4.0,2.0,2.0,3.0,3.0
+8.976666666666667,24.0,0,Travel_Rarely,Sales,1.0,3.0,Marketing,0,1.0,Sales Executive,Married,34070.0,1.0,15.0,2.0,6.0,2.0,6.0000000001,1.0,4.0,2.0,4.0,3.0,2.0,3.0
+9.78111111111111,40.0,0,Travel_Rarely,Research & Development,22.0,2.0,Technical Degree,1,1.0,Healthcare Representative,Married,23230.0,2.0,16.0,1.0,18.0,2.0,1.0000000001,0.0,0.0,2.0,1.0,3.0,3.0,3.0
+6.888333333333334,42.0,0,Travel_Rarely,Research & Development,10.0,3.0,Technical Degree,1,2.0,Laboratory Technician,Married,66510.0,0.0,20.0,0.0,10.0,5.0,9.0000000001,4.0,2.0,3.0,2.0,3.0,2.0,4.0
+7.807777777777778,32.0,1,Travel_Rarely,Research & Development,2.0,4.0,Life Sciences,0,2.0,Research Director,Single,41480.0,7.0,15.0,0.0,10.0,0.0,5.0000000001,0.0,4.0,1.0,1.0,4.0,2.0,3.0
+6.696666666666666,27.0,0,Travel_Frequently,Sales,24.0,3.0,Life Sciences,1,4.0,Healthcare Representative,Single,31720.0,1.0,20.0,1.0,9.0,1.0,9.0000000001,1.0,7.0,4.0,3.0,3.0,3.0,4.0
+7.938055555555556,27.0,0,Non-Travel,Sales,11.0,3.0,Technical Degree,0,2.0,Laboratory Technician,Married,99850.0,1.0,14.0,1.0,3.0,3.0,3.0000000001,1.0,2.0,1.0,3.0,3.0,2.0,3.0
+10.978055555555557,41.0,0,Travel_Rarely,Research & Development,24.0,4.0,Life Sciences,0,4.0,Manager,Single,137260.0,3.0,12.0,0.0,21.0,6.0,2.0000000001,0.0,2.0,4.0,3.0,3.0,4.0,3.0
+5.964166666666666,23.0,0,Travel_Rarely,Sales,6.0,4.0,Life Sciences,1,3.0,Manufacturing Director,Single,103220.0,1.0,14.0,2.0,3.0,2.0,3.0000000001,1.0,2.0,3.0,2.0,1.0,3.0,3.0
+6.823611111111111,31.0,0,Travel_Frequently,Research & Development,25.0,5.0,Technical Degree,0,2.0,Human Resources,Married,180610.0,1.0,14.0,1.0,10.0,2.0,10.0000000001,8.0,7.0,4.0,1.0,3.0,3.0,3.0
+6.461666666666667,39.0,1,Travel_Rarely,Human Resources,1.0,4.0,Medical,1,1.0,Sales Executive,Married,36730.0,3.0,14.0,1.0,19.0,3.0,1.0000000001,0.0,0.0,4.0,4.0,4.0,3.0,3.0
+7.3675,46.0,0,Travel_Rarely,Research & Development,2.0,1.0,Medical,0,3.0,Research Scientist,Divorced,49410.0,9.0,13.0,2.0,23.0,2.0,2.0000000001,2.0,2.0,4.0,4.0,3.0,2.0,3.0
+6.961111111111111,29.0,0,Travel_Rarely,Sales,10.0,2.0,Life Sciences,0,1.0,Sales Executive,Divorced,128080.0,1.0,13.0,0.0,10.0,6.0,10.0000000001,0.0,4.0,3.0,3.0,3.0,3.0,3.0
+6.839166666666666,42.0,0,Travel_Rarely,Sales,11.0,1.0,Technical Degree,1,2.0,Human Resources,Single,59400.0,7.0,16.0,0.0,10.0,2.0,5.0000000001,0.0,3.0,3.0,3.0,3.0,2.0,3.0
+7.706111111111111,38.0,0,Non-Travel,Sales,6.0,4.0,Marketing,1,3.0,Sales Executive,Divorced,73360.0,5.0,11.0,0.0,13.0,3.0,11.0000000001,3.0,8.0,1.0,2.0,3.0,3.0,3.0
+6.17,28.0,1,Travel_Rarely,Research & Development,19.0,4.0,Medical,0,2.0,Sales Executive,Single,32040.0,6.0,16.0,1.0,5.0,4.0,2.0000000001,2.0,1.0,3.0,3.0,2.0,2.0,3.0
+7.991666666666666,43.0,0,Non-Travel,Research & Development,6.0,2.0,Medical,1,1.0,Healthcare Representative,Divorced,20280.0,4.0,20.0,1.0,7.0,2.0,5.0000000001,2.0,2.0,4.0,4.0,4.0,2.0,4.0
+7.010277777777778,48.0,0,Travel_Frequently,Sales,10.0,4.0,Marketing,0,3.0,Manager,Married,22700.0,2.0,14.0,3.0,23.0,2.0,2.0000000001,2.0,2.0,3.0,4.0,3.0,3.0,3.0
+7.371111111111111,51.0,0,Travel_Rarely,Sales,6.0,2.0,Life Sciences,0,1.0,Healthcare Representative,Married,131160.0,1.0,11.0,0.0,1.0,6.0,1.0000000001,0.0,0.0,3.0,4.0,2.0,3.0,3.0
+6.990277777777778,54.0,0,Travel_Rarely,Sales,27.0,4.0,Medical,1,1.0,Research Scientist,Married,31310.0,4.0,14.0,0.0,14.0,3.0,7.0000000001,1.0,7.0,4.0,4.0,2.0,2.0,3.0
+6.073611111111111,53.0,0,Travel_Rarely,Sales,1.0,2.0,Life Sciences,1,1.0,Manager,Divorced,39890.0,1.0,13.0,0.0,5.0,2.0,4.0000000001,1.0,3.0,4.0,1.0,3.0,3.0,3.0
+7.045277777777778,34.0,0,Travel_Rarely,Sales,6.0,4.0,Marketing,1,2.0,Research Director,Divorced,96130.0,0.0,12.0,1.0,16.0,5.0,15.0000000001,0.0,9.0,2.0,4.0,2.0,2.0,3.0
+7.931388888888889,43.0,0,Travel_Frequently,Sales,2.0,2.0,Life Sciences,1,1.0,Sales Executive,Single,32110.0,4.0,13.0,0.0,18.0,2.0,3.0000000001,1.0,2.0,2.0,3.0,3.0,4.0,3.0
+7.5777777777777775,34.0,0,Travel_Frequently,Sales,2.0,1.0,Marketing,0,5.0,Manager,Divorced,26860.0,5.0,11.0,0.0,10.0,3.0,4.0000000001,1.0,3.0,4.0,1.0,3.0,4.0,3.0
+6.688888888888889,47.0,0,Travel_Rarely,Research & Development,1.0,4.0,Medical,1,3.0,Laboratory Technician,Divorced,183030.0,6.0,22.0,1.0,29.0,2.0,3.0000000001,1.0,2.0,2.0,2.0,3.0,2.0,4.0
+7.818333333333333,34.0,0,Travel_Rarely,Sales,9.0,2.0,Medical,1,2.0,Healthcare Representative,Single,48760.0,2.0,21.0,1.0,14.0,3.0,11.0000000001,5.0,8.0,3.0,1.0,3.0,3.0,4.0
+8.653055555555556,31.0,0,Travel_Rarely,Research & Development,1.0,4.0,Life Sciences,1,3.0,Research Director,Single,61420.0,4.0,13.0,2.0,10.0,2.0,6.0000000001,0.0,5.0,2.0,4.0,4.0,2.0,3.0
+6.349444444444444,33.0,0,Travel_Rarely,Sales,23.0,4.0,Marketing,0,4.0,Sales Executive,Divorced,39830.0,4.0,12.0,0.0,9.0,3.0,3.0000000001,1.0,2.0,4.0,4.0,3.0,3.0,3.0
+7.5875,39.0,0,Travel_Rarely,Sales,5.0,4.0,Marketing,0,2.0,Human Resources,Divorced,21050.0,0.0,20.0,0.0,19.0,3.0,18.0000000001,3.0,7.0,3.0,4.0,2.0,3.0,4.0
+7.974444444444444,36.0,0,Travel_Frequently,Human Resources,7.0,3.0,Medical,1,1.0,Research Scientist,Married,26900.0,0.0,11.0,0.0,10.0,1.0,9.0000000001,2.0,8.0,2.0,4.0,3.0,3.0,3.0
+6.6802777777777775,44.0,0,Non-Travel,Research & Development,23.0,2.0,Medical,0,1.0,Research Scientist,Married,195860.0,4.0,16.0,0.0,17.0,3.0,3.0000000001,1.0,2.0,2.0,2.0,4.0,2.0,3.0
+8.63888888888889,26.0,1,Travel_Rarely,Human Resources,2.0,1.0,Technical Degree,0,3.0,Sales Executive,Married,65780.0,0.0,15.0,2.0,6.0,3.0,5.0000000001,1.0,4.0,4.0,2.0,3.0,2.0,3.0
+7.911666666666667,32.0,0,Travel_Rarely,Human Resources,12.0,2.0,Human Resources,0,1.0,Sales Representative,Single,20610.0,1.0,15.0,1.0,1.0,2.0,1.0000000001,0.0,0.0,4.0,1.0,3.0,2.0,3.0
+10.668611111111112,41.0,0,Travel_Rarely,Research & Development,1.0,4.0,Medical,1,1.0,Research Scientist,Single,195170.0,2.0,13.0,0.0,20.0,5.0,18.0000000001,2.0,17.0,4.0,1.0,3.0,3.0,3.0
+6.464722222222222,39.0,0,Travel_Rarely,Research & Development,2.0,3.0,Technical Degree,1,3.0,Healthcare Representative,Divorced,102520.0,8.0,13.0,1.0,7.0,3.0,2.0000000001,2.0,2.0,4.0,4.0,3.0,3.0,3.0
+9.145555555555555,30.0,0,Travel_Rarely,Sales,9.0,3.0,Marketing,0,1.0,Research Scientist,Married,90710.0,0.0,19.0,1.0,12.0,2.0,11.0000000001,5.0,7.0,4.0,2.0,3.0,2.0,3.0
+7.934166666666667,37.0,0,Travel_Rarely,Research & Development,22.0,3.0,Life Sciences,0,2.0,Healthcare Representative,Married,174440.0,1.0,14.0,0.0,8.0,4.0,8.0000000001,7.0,7.0,2.0,2.0,1.0,3.0,3.0
+10.761388888888888,38.0,0,Travel_Frequently,Sales,2.0,4.0,Life Sciences,0,2.0,Research Scientist,Single,23680.0,6.0,11.0,1.0,17.0,3.0,15.0000000001,4.0,12.0,1.0,1.0,3.0,3.0,3.0
+8.73638888888889,35.0,0,Travel_Rarely,Research & Development,9.0,2.0,Life Sciences,0,1.0,Healthcare Representative,Married,31400.0,1.0,13.0,1.0,17.0,2.0,17.0000000001,5.0,15.0,4.0,3.0,3.0,2.0,3.0
+8.671666666666667,26.0,1,Travel_Rarely,Sales,1.0,3.0,Marketing,0,2.0,Manufacturing Director,Single,24260.0,1.0,22.0,0.0,1.0,3.0,1.0000000001,0.0,0.0,3.0,4.0,1.0,1.0,4.0
+7.312222222222222,45.0,0,Travel_Rarely,Research & Development,28.0,3.0,Life Sciences,0,2.0,Laboratory Technician,Divorced,50670.0,1.0,11.0,2.0,10.0,3.0,10.0000000001,3.0,9.0,4.0,4.0,3.0,2.0,3.0
+7.756666666666667,38.0,0,Travel_Frequently,Sales,29.0,2.0,Medical,0,1.0,Sales Executive,Single,39170.0,1.0,15.0,3.0,4.0,2.0,4.0000000001,3.0,3.0,4.0,2.0,3.0,3.0,3.0
+9.676111111111112,41.0,0,Travel_Rarely,Research & Development,9.0,2.0,Life Sciences,0,1.0,Laboratory Technician,Single,54870.0,6.0,19.0,2.0,8.0,0.0,5.0000000001,1.0,2.0,4.0,2.0,3.0,3.0,3.0
+7.533611111111111,40.0,0,Travel_Rarely,Research & Development,22.0,1.0,Life Sciences,1,1.0,Laboratory Technician,Married,56660.0,1.0,14.0,1.0,18.0,2.0,18.0000000001,14.0,12.0,1.0,3.0,3.0,3.0,3.0
+9.538055555555555,50.0,0,Travel_Rarely,Research & Development,5.0,4.0,Life Sciences,1,1.0,Sales Executive,Married,118780.0,2.0,13.0,1.0,29.0,2.0,8.0000000001,7.0,7.0,2.0,3.0,2.0,3.0,3.0
+6.639444444444444,23.0,0,Travel_Rarely,Research & Development,7.0,2.0,Life Sciences,0,3.0,Manager,Married,105520.0,2.0,11.0,0.0,4.0,2.0,2.0000000001,2.0,2.0,4.0,3.0,3.0,3.0,3.0
+6.044722222222222,42.0,0,Travel_Rarely,Sales,2.0,2.0,Medical,0,1.0,Laboratory Technician,Single,21330.0,3.0,13.0,2.0,14.0,2.0,1.0000000001,0.0,0.0,1.0,4.0,3.0,3.0,3.0
+6.120833333333334,31.0,1,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,3.0,Laboratory Technician,Married,21680.0,0.0,14.0,1.0,2.0,2.0,1.0000000001,0.0,0.0,4.0,1.0,3.0,3.0,3.0
+7.951944444444444,56.0,0,Travel_Rarely,Sales,3.0,2.0,Medical,0,3.0,Manufacturing Director,Single,26910.0,6.0,16.0,1.0,36.0,6.0,7.0000000001,7.0,7.0,4.0,2.0,3.0,3.0,3.0
+10.78472222222222,46.0,0,Travel_Rarely,Research & Development,8.0,3.0,Life Sciences,0,4.0,Research Director,Married,40710.0,3.0,13.0,0.0,28.0,5.0,7.0000000001,7.0,7.0,3.0,2.0,2.0,3.0,3.0
+6.224444444444444,36.0,0,Travel_Rarely,Sales,1.0,3.0,Marketing,1,2.0,Research Scientist,Single,35050.0,1.0,12.0,2.0,10.0,2.0,10.0000000001,1.0,8.0,1.0,4.0,2.0,2.0,3.0
+7.934444444444445,25.0,0,Travel_Rarely,Research & Development,2.0,4.0,Medical,0,2.0,Manufacturing Director,Divorced,27850.0,0.0,21.0,0.0,6.0,2.0,5.0000000001,0.0,4.0,1.0,3.0,2.0,3.0,4.0
+7.794722222222222,23.0,0,Travel_Rarely,Sales,13.0,3.0,Marketing,1,5.0,Sales Executive,Married,42210.0,1.0,11.0,1.0,5.0,4.0,4.0000000001,0.0,2.0,2.0,1.0,4.0,3.0,3.0
+10.356111111111112,56.0,0,Travel_Rarely,Research & Development,24.0,4.0,Life Sciences,1,2.0,Laboratory Technician,Married,32210.0,4.0,15.0,2.0,33.0,2.0,19.0000000001,15.0,9.0,4.0,2.0,3.0,3.0,3.0
+9.152222222222225,26.0,1,Travel_Frequently,Research & Development,2.0,1.0,Life Sciences,0,2.0,Laboratory Technician,Divorced,59930.0,0.0,12.0,0.0,8.0,3.0,7.0000000001,1.0,0.0,2.0,3.0,2.0,3.0,3.0
+7.644444444444445,30.0,1,Travel_Rarely,Sales,12.0,4.0,Life Sciences,0,2.0,Sales Executive,Single,49500.0,1.0,12.0,2.0,1.0,3.0,1.0000000001,0.0,0.0,2.0,4.0,2.0,3.0,3.0
+6.935555555555555,18.0,1,Non-Travel,Research & Development,2.0,4.0,Medical,1,3.0,Laboratory Technician,Single,109650.0,1.0,18.0,0.0,0.0,5.0,1e-10,0.0,0.0,3.0,3.0,3.0,4.0,3.0
+6.955555555555556,40.0,0,Travel_Frequently,Research & Development,26.0,4.0,Medical,1,2.0,Manufacturing Director,Divorced,54400.0,1.0,12.0,1.0,20.0,2.0,20.0000000001,2.0,13.0,2.0,2.0,3.0,3.0,3.0
+8.098888888888888,45.0,0,Travel_Rarely,Research & Development,24.0,2.0,Medical,1,2.0,Sales Executive,Divorced,54760.0,4.0,13.0,1.0,9.0,3.0,5.0000000001,0.0,3.0,3.0,1.0,4.0,3.0,3.0
+6.629166666666666,51.0,0,Travel_Rarely,Research & Development,29.0,4.0,Life Sciences,0,5.0,Manufacturing Director,Married,24510.0,3.0,17.0,0.0,10.0,2.0,4.0000000001,0.0,3.0,4.0,4.0,3.0,2.0,3.0
+6.93,32.0,0,Travel_Rarely,Sales,2.0,3.0,Marketing,1,2.0,Laboratory Technician,Married,27060.0,1.0,21.0,1.0,13.0,4.0,13.0000000001,4.0,8.0,4.0,3.0,2.0,3.0,4.0
+9.250555555555556,55.0,0,Travel_Rarely,Research & Development,14.0,4.0,Life Sciences,0,1.0,Sales Executive,Single,55380.0,0.0,17.0,0.0,37.0,2.0,36.0000000001,4.0,13.0,4.0,1.0,3.0,3.0,3.0
+6.239166666666667,31.0,0,Travel_Rarely,Research & Development,2.0,2.0,Medical,1,2.0,Laboratory Technician,Divorced,39750.0,1.0,15.0,1.0,5.0,3.0,5.0000000001,4.0,3.0,1.0,3.0,2.0,3.0,3.0
+7.914444444444444,38.0,0,Travel_Rarely,Sales,20.0,4.0,Medical,0,2.0,Research Director,Married,20290.0,3.0,11.0,1.0,20.0,3.0,18.0000000001,1.0,11.0,2.0,3.0,3.0,2.0,3.0
+7.175555555555556,27.0,0,Travel_Rarely,Human Resources,11.0,4.0,Medical,1,4.0,Sales Executive,Married,66320.0,0.0,16.0,0.0,6.0,3.0,5.0000000001,1.0,4.0,2.0,1.0,4.0,3.0,3.0
+10.4075,44.0,1,Travel_Rarely,Human Resources,6.0,2.0,Human Resources,1,3.0,Sales Executive,Single,45580.0,1.0,13.0,1.0,6.0,2.0,6.0000000001,0.0,2.0,3.0,3.0,3.0,1.0,3.0
+6.945555555555556,35.0,0,Travel_Rarely,Research & Development,1.0,3.0,Medical,1,1.0,Research Director,Single,108550.0,3.0,13.0,1.0,17.0,2.0,8.0000000001,1.0,6.0,3.0,3.0,4.0,3.0,3.0
+6.765555555555555,42.0,0,Travel_Rarely,Research & Development,11.0,1.0,Life Sciences,1,4.0,Research Scientist,Married,60320.0,0.0,14.0,0.0,23.0,2.0,22.0000000001,13.0,7.0,4.0,1.0,3.0,2.0,3.0
+5.948333333333333,35.0,0,Travel_Rarely,Research & Development,22.0,3.0,Medical,0,1.0,Sales Representative,Married,29660.0,9.0,18.0,0.0,15.0,2.0,11.0000000001,6.0,9.0,2.0,3.0,3.0,2.0,3.0
+6.093055555555556,33.0,0,Travel_Rarely,Sales,26.0,2.0,Marketing,1,1.0,Research Scientist,Married,42300.0,0.0,12.0,0.0,15.0,0.0,14.0000000001,4.0,10.0,1.0,4.0,3.0,3.0,3.0
+9.650555555555556,36.0,0,Travel_Rarely,Sales,10.0,4.0,Marketing,1,3.0,Manager,Married,86860.0,1.0,13.0,0.0,18.0,2.0,18.0000000001,4.0,11.0,2.0,4.0,2.0,3.0,3.0
+8.016388888888889,33.0,0,Travel_Frequently,Sales,9.0,3.0,Medical,0,2.0,Research Scientist,Married,46490.0,0.0,12.0,0.0,4.0,2.0,3.0000000001,0.0,2.0,4.0,2.0,3.0,2.0,3.0
+7.356666666666666,35.0,0,Travel_Rarely,Research & Development,8.0,1.0,Technical Degree,0,3.0,Manufacturing Director,Married,53460.0,0.0,14.0,0.0,6.0,3.0,5.0000000001,0.0,3.0,2.0,3.0,4.0,2.0,3.0
+6.438611111111111,50.0,0,Non-Travel,Human Resources,2.0,2.0,Life Sciences,1,1.0,Laboratory Technician,Married,36880.0,0.0,11.0,0.0,19.0,3.0,18.0000000001,0.0,13.0,4.0,3.0,3.0,2.0,3.0
+6.783055555555555,32.0,0,Travel_Frequently,Research & Development,12.0,5.0,Medical,1,1.0,Research Scientist,Married,95470.0,1.0,13.0,1.0,10.0,3.0,10.0000000001,5.0,3.0,2.0,2.0,3.0,2.0,3.0
+10.64638888888889,35.0,1,Travel_Rarely,Research & Development,9.0,3.0,Life Sciences,1,2.0,Manager,Divorced,173990.0,6.0,12.0,0.0,7.0,3.0,2.0000000001,2.0,2.0,3.0,4.0,2.0,1.0,3.0
+7.449166666666667,51.0,0,Travel_Frequently,Research & Development,1.0,3.0,Life Sciences,0,1.0,Sales Executive,Single,20730.0,3.0,14.0,1.0,23.0,4.0,13.0000000001,12.0,8.0,1.0,1.0,2.0,3.0,3.0
+6.581944444444445,36.0,0,Travel_Rarely,Research & Development,9.0,2.0,Medical,1,2.0,Sales Executive,Divorced,119350.0,1.0,11.0,3.0,7.0,6.0,7.0000000001,1.0,7.0,3.0,3.0,3.0,4.0,3.0
+8.22861111111111,37.0,0,Non-Travel,Research & Development,1.0,5.0,Medical,0,2.0,Research Scientist,Single,62610.0,1.0,12.0,0.0,10.0,1.0,10.0000000001,0.0,9.0,1.0,2.0,3.0,3.0,3.0
+7.861111111111111,33.0,0,Travel_Rarely,Research & Development,7.0,2.0,Life Sciences,1,2.0,Research Scientist,Married,37370.0,8.0,22.0,2.0,8.0,2.0,5.0000000001,0.0,2.0,1.0,2.0,3.0,3.0,4.0
+7.881111111111111,40.0,0,Travel_Rarely,Sales,6.0,3.0,Life Sciences,1,3.0,Manufacturing Director,Single,104820.0,1.0,11.0,1.0,21.0,6.0,21.0000000001,12.0,8.0,2.0,2.0,2.0,2.0,3.0
+7.866388888888889,21.0,1,Travel_Rarely,Research & Development,1.0,3.0,Medical,1,2.0,Sales Executive,Single,104000.0,1.0,13.0,1.0,1.0,2.0,1.0000000001,0.0,0.0,4.0,4.0,2.0,3.0,3.0
+7.606111111111111,38.0,0,Travel_Frequently,Research & Development,13.0,3.0,Technical Degree,1,1.0,Manufacturing Director,Married,32100.0,0.0,17.0,2.0,3.0,5.0,2.0000000001,0.0,2.0,3.0,3.0,2.0,2.0,3.0
+6.897222222222222,26.0,1,Travel_Frequently,Sales,14.0,3.0,Life Sciences,1,2.0,Manager,Single,75100.0,0.0,18.0,3.0,7.0,3.0,6.0000000001,0.0,4.0,3.0,1.0,3.0,3.0,3.0
+7.636388888888889,28.0,0,Non-Travel,Research & Development,7.0,3.0,Life Sciences,1,1.0,Sales Executive,Divorced,89660.0,1.0,16.0,1.0,3.0,3.0,3.0000000001,2.0,2.0,3.0,4.0,3.0,2.0,3.0
+6.1025,26.0,1,Travel_Rarely,Research & Development,15.0,2.0,Life Sciences,1,2.0,Laboratory Technician,Single,26130.0,6.0,19.0,1.0,6.0,2.0,4.0000000001,1.0,2.0,4.0,1.0,2.0,3.0,3.0
+10.352222222222222,35.0,0,Travel_Rarely,Research & Development,4.0,3.0,Life Sciences,1,2.0,Healthcare Representative,Married,78980.0,7.0,15.0,0.0,5.0,2.0,2.0000000001,2.0,2.0,4.0,3.0,3.0,2.0,3.0
+5.944166666666667,35.0,1,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,3.0,Healthcare Representative,Married,23210.0,9.0,12.0,1.0,15.0,0.0,13.0000000001,6.0,0.0,4.0,1.0,3.0,3.0,3.0
+6.943611111111111,40.0,0,Travel_Rarely,Research & Development,28.0,3.0,Medical,1,2.0,Laboratory Technician,Divorced,54680.0,0.0,12.0,0.0,10.0,6.0,21.0000000001,3.0,9.0,1.0,3.0,3.0,4.0,3.0
+7.010833333333333,36.0,0,Travel_Frequently,Research & Development,6.0,3.0,Life Sciences,0,2.0,Research Scientist,Married,47710.0,4.0,13.0,1.0,16.0,2.0,13.0000000001,1.0,12.0,1.0,4.0,3.0,3.0,3.0
+6.743333333333333,38.0,0,Travel_Rarely,Sales,2.0,3.0,Marketing,0,1.0,Manager,Divorced,44480.0,9.0,12.0,0.0,10.0,3.0,2.0000000001,1.0,2.0,4.0,4.0,3.0,2.0,3.0
+7.143611111111111,45.0,0,Non-Travel,Sales,1.0,4.0,Technical Degree,1,1.0,Research Scientist,Married,170480.0,4.0,15.0,0.0,10.0,3.0,8.0000000001,5.0,7.0,3.0,3.0,4.0,2.0,3.0
+8.09361111111111,40.0,0,Travel_Frequently,Sales,1.0,3.0,Marketing,1,1.0,Research Scientist,Divorced,39310.0,8.0,19.0,0.0,3.0,2.0,1.0000000001,0.0,0.0,4.0,2.0,3.0,2.0,3.0
+7.775277777777778,29.0,0,Travel_Rarely,Research & Development,28.0,4.0,Life Sciences,0,1.0,Sales Representative,Married,48410.0,0.0,11.0,0.0,6.0,3.0,5.0000000001,0.0,4.0,3.0,2.0,3.0,3.0,3.0
+6.9591666666666665,49.0,0,Travel_Rarely,Research & Development,25.0,2.0,Life Sciences,0,2.0,Sales Executive,Married,43450.0,4.0,15.0,0.0,29.0,3.0,26.0000000001,1.0,7.0,1.0,2.0,2.0,2.0,3.0
+6.345555555555555,38.0,0,Travel_Frequently,Research & Development,7.0,3.0,Medical,0,2.0,Sales Representative,Divorced,76250.0,1.0,15.0,0.0,4.0,2.0,4.0000000001,0.0,3.0,4.0,3.0,3.0,2.0,3.0
+10.063611111111111,26.0,1,Travel_Rarely,Research & Development,4.0,3.0,Medical,1,3.0,Research Scientist,Divorced,68540.0,2.0,11.0,0.0,5.0,5.0,3.0000000001,0.0,2.0,1.0,2.0,3.0,2.0,3.0
+6.475,24.0,0,Travel_Rarely,Research & Development,2.0,1.0,Life Sciences,1,2.0,Laboratory Technician,Married,34070.0,0.0,13.0,1.0,6.0,4.0,5.0000000001,1.0,2.0,2.0,3.0,3.0,3.0,3.0
+6.370555555555556,22.0,1,Travel_Frequently,Research & Development,7.0,3.0,Medical,0,2.0,Laboratory Technician,Single,37850.0,5.0,13.0,2.0,4.0,2.0,2.0000000001,1.0,2.0,3.0,3.0,3.0,3.0,3.0
+9.393333333333333,33.0,0,Travel_Rarely,Sales,7.0,3.0,Life Sciences,1,2.0,Manufacturing Director,Divorced,38150.0,3.0,11.0,1.0,7.0,3.0,4.0000000001,0.0,3.0,4.0,2.0,4.0,3.0,3.0
+5.957777777777777,37.0,0,Travel_Rarely,Sales,1.0,4.0,Life Sciences,1,2.0,Healthcare Representative,Divorced,133480.0,7.0,14.0,0.0,8.0,4.0,6.0000000001,0.0,4.0,4.0,4.0,2.0,3.0,3.0
+10.58361111111111,58.0,0,Travel_Rarely,Sales,22.0,3.0,Life Sciences,0,2.0,Laboratory Technician,Married,24500.0,3.0,12.0,1.0,32.0,2.0,9.0000000001,1.0,5.0,4.0,1.0,3.0,3.0,3.0
+7.191111111111111,38.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,0,1.0,Manufacturing Director,Single,27780.0,2.0,13.0,0.0,8.0,5.0,3.0000000001,1.0,2.0,2.0,2.0,4.0,2.0,3.0
+7.405555555555556,43.0,0,Travel_Rarely,Sales,10.0,2.0,Life Sciences,0,1.0,Sales Executive,Divorced,46170.0,1.0,11.0,0.0,25.0,2.0,25.0000000001,3.0,9.0,1.0,2.0,3.0,3.0,3.0
+6.746388888888889,40.0,0,Travel_Frequently,Sales,9.0,3.0,Medical,1,1.0,Manufacturing Director,Married,45230.0,5.0,16.0,1.0,5.0,5.0,1e-10,0.0,0.0,2.0,2.0,3.0,4.0,3.0
+7.365277777777778,35.0,0,Travel_Rarely,Sales,8.0,4.0,Life Sciences,1,1.0,Laboratory Technician,Married,24610.0,2.0,20.0,1.0,17.0,4.0,7.0000000001,0.0,7.0,4.0,3.0,3.0,3.0,4.0
+6.265555555555555,27.0,0,Travel_Rarely,Sales,3.0,3.0,Life Sciences,1,1.0,Manager,Single,66940.0,1.0,13.0,1.0,6.0,2.0,6.0000000001,1.0,4.0,3.0,4.0,2.0,2.0,3.0
+8.846111111111112,22.0,1,Travel_Rarely,Research & Development,1.0,3.0,Other,1,4.0,Research Scientist,Married,49680.0,1.0,14.0,0.0,1.0,3.0,1.0000000001,0.0,0.0,3.0,1.0,3.0,3.0,3.0
+8.452222222222222,49.0,0,Travel_Rarely,Human Resources,6.0,2.0,Life Sciences,0,2.0,Research Scientist,Married,107390.0,2.0,11.0,3.0,30.0,3.0,15.0000000001,2.0,12.0,3.0,3.0,3.0,3.0,3.0
+7.8375,38.0,0,Travel_Frequently,Research & Development,28.0,3.0,Medical,1,1.0,Healthcare Representative,Married,29790.0,4.0,12.0,1.0,9.0,3.0,6.0000000001,0.0,5.0,3.0,2.0,2.0,3.0,3.0
+6.530277777777778,36.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,2.0,Healthcare Representative,Married,27200.0,4.0,14.0,1.0,8.0,3.0,5.0000000001,0.0,4.0,3.0,2.0,3.0,3.0,3.0
+7.695277777777778,49.0,0,Travel_Rarely,Sales,3.0,4.0,Marketing,1,1.0,Sales Executive,Single,47280.0,3.0,11.0,1.0,8.0,4.0,5.0000000001,0.0,4.0,4.0,4.0,4.0,3.0,3.0
+10.231111111111112,29.0,1,Travel_Rarely,Human Resources,3.0,5.0,Life Sciences,1,1.0,Sales Executive,Single,27230.0,6.0,11.0,1.0,3.0,2.0,1e-10,0.0,0.0,4.0,1.0,3.0,2.0,3.0
+7.888611111111111,37.0,0,Travel_Rarely,Research & Development,22.0,3.0,Life Sciences,0,2.0,Healthcare Representative,Married,174440.0,1.0,14.0,0.0,8.0,4.0,8.0000000001,7.0,7.0,2.0,2.0,1.0,3.0,3.0
+7.423055555555556,33.0,0,Travel_Frequently,Research & Development,8.0,3.0,Technical Degree,1,2.0,Laboratory Technician,Divorced,90690.0,3.0,25.0,1.0,15.0,3.0,13.0000000001,4.0,7.0,3.0,4.0,1.0,3.0,4.0
+8.000555555555556,42.0,1,Travel_Frequently,Sales,2.0,4.0,Life Sciences,1,1.0,Laboratory Technician,Single,22850.0,0.0,16.0,0.0,22.0,3.0,21.0000000001,13.0,14.0,3.0,1.0,2.0,1.0,3.0
+7.566944444444444,58.0,1,Travel_Rarely,Sales,2.0,2.0,Medical,0,1.0,Research Scientist,Married,43850.0,1.0,13.0,1.0,40.0,2.0,40.0000000001,15.0,6.0,4.0,4.0,2.0,2.0,3.0
+9.535,38.0,0,Travel_Rarely,Research & Development,2.0,4.0,Life Sciences,0,3.0,Sales Executive,Married,50790.0,3.0,11.0,0.0,10.0,3.0,5.0000000001,0.0,2.0,4.0,3.0,4.0,3.0,3.0
+7.8725,18.0,0,Non-Travel,Research & Development,1.0,4.0,Medical,1,2.0,Sales Executive,Single,27200.0,1.0,22.0,1.0,0.0,2.0,1e-10,0.0,0.0,4.0,4.0,4.0,3.0,4.0
+6.8308333333333335,56.0,1,Travel_Rarely,Human Resources,1.0,2.0,Medical,0,5.0,Sales Executive,Single,25590.0,1.0,21.0,0.0,5.0,3.0,4.0000000001,1.0,0.0,1.0,4.0,3.0,3.0,4.0
+7.3125,42.0,0,Travel_Rarely,Research & Development,17.0,1.0,Life Sciences,1,3.0,Research Scientist,Married,99980.0,5.0,24.0,2.0,24.0,3.0,22.0000000001,4.0,14.0,1.0,3.0,2.0,2.0,4.0
+7.305833333333333,27.0,0,Travel_Frequently,Research & Development,29.0,1.0,Life Sciences,1,2.0,Manufacturing Director,Divorced,43250.0,1.0,14.0,0.0,9.0,2.0,9.0000000001,1.0,7.0,4.0,1.0,2.0,2.0,3.0
+5.937777777777778,46.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,2.0,Research Scientist,Married,165550.0,8.0,14.0,2.0,28.0,4.0,26.0000000001,15.0,9.0,3.0,1.0,3.0,3.0,3.0
+6.243055555555555,25.0,0,Travel_Rarely,Research & Development,6.0,2.0,Medical,0,4.0,Research Scientist,Married,20450.0,3.0,19.0,0.0,7.0,3.0,3.0000000001,1.0,2.0,4.0,4.0,2.0,3.0,3.0
+7.1225,38.0,0,Travel_Rarely,Research & Development,9.0,4.0,Life Sciences,1,1.0,Sales Executive,Single,43120.0,0.0,12.0,1.0,10.0,2.0,9.0000000001,1.0,8.0,2.0,4.0,2.0,2.0,3.0
+10.685,47.0,0,Travel_Rarely,Research & Development,19.0,5.0,Medical,0,2.0,Research Scientist,Divorced,28270.0,8.0,14.0,1.0,28.0,3.0,22.0000000001,14.0,10.0,3.0,2.0,3.0,3.0,3.0
+10.288055555555555,46.0,0,Travel_Rarely,Research & Development,9.0,3.0,Medical,1,3.0,Manager,Divorced,164370.0,8.0,15.0,1.0,16.0,0.0,4.0000000001,0.0,2.0,2.0,2.0,3.0,3.0,3.0
+7.548055555555556,27.0,0,Travel_Rarely,Research & Development,4.0,3.0,Technical Degree,1,2.0,Manufacturing Director,Single,51710.0,0.0,20.0,1.0,9.0,1.0,8.0000000001,0.0,7.0,1.0,3.0,2.0,2.0,4.0
+8.846666666666666,22.0,0,Non-Travel,Sales,17.0,2.0,Marketing,1,3.0,Sales Executive,Married,97050.0,1.0,18.0,2.0,4.0,3.0,4.0000000001,1.0,3.0,2.0,3.0,2.0,2.0,3.0
+7.131944444444445,30.0,0,Travel_Rarely,Research & Development,20.0,3.0,Medical,1,1.0,Laboratory Technician,Married,25230.0,3.0,13.0,1.0,7.0,2.0,2.0000000001,0.0,2.0,4.0,3.0,3.0,3.0,3.0
+6.05,55.0,0,Travel_Rarely,Research & Development,6.0,1.0,Life Sciences,0,2.0,Laboratory Technician,Single,26550.0,8.0,17.0,0.0,36.0,0.0,24.0000000001,2.0,15.0,3.0,2.0,3.0,2.0,3.0
+6.765833333333333,35.0,0,Travel_Rarely,Sales,7.0,2.0,Life Sciences,1,1.0,Sales Executive,Single,22770.0,1.0,12.0,1.0,3.0,2.0,3.0000000001,1.0,2.0,4.0,1.0,3.0,3.0,3.0
+6.296388888888889,18.0,0,Non-Travel,Sales,5.0,4.0,Other,1,2.0,Manager,Single,32300.0,1.0,12.0,1.0,0.0,3.0,1e-10,0.0,0.0,2.0,4.0,3.0,3.0,3.0
+7.875833333333333,35.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,0,5.0,Sales Executive,Single,24960.0,4.0,17.0,3.0,9.0,3.0,3.0000000001,0.0,2.0,1.0,4.0,3.0,3.0,3.0
+8.446944444444444,37.0,1,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,1.0,Sales Executive,Single,56470.0,6.0,19.0,0.0,7.0,2.0,1e-10,0.0,0.0,4.0,3.0,3.0,3.0,3.0
+6.757777777777778,29.0,1,Travel_Rarely,Sales,4.0,3.0,Marketing,1,5.0,Research Scientist,Single,36910.0,1.0,13.0,0.0,2.0,3.0,2.0000000001,2.0,2.0,2.0,2.0,3.0,3.0,3.0
+10.458333333333334,30.0,1,Travel_Rarely,Sales,2.0,3.0,Life Sciences,1,2.0,Healthcare Representative,Married,40000.0,4.0,12.0,0.0,7.0,5.0,5.0000000001,0.0,1.0,1.0,3.0,3.0,2.0,3.0
+6.334722222222222,40.0,0,Non-Travel,Sales,3.0,2.0,Life Sciences,1,1.0,Sales Executive,Divorced,43420.0,3.0,11.0,1.0,11.0,6.0,8.0000000001,0.0,7.0,3.0,3.0,4.0,2.0,3.0
+8.776666666666667,35.0,0,Travel_Rarely,Human Resources,3.0,2.0,Life Sciences,0,1.0,Laboratory Technician,Married,63880.0,3.0,13.0,0.0,4.0,6.0,2.0000000001,2.0,2.0,3.0,1.0,3.0,2.0,3.0
+7.3825,35.0,0,Travel_Rarely,Sales,8.0,1.0,Marketing,0,3.0,Laboratory Technician,Married,37600.0,1.0,14.0,3.0,10.0,2.0,10.0000000001,0.0,6.0,3.0,2.0,3.0,3.0,3.0
+6.163888888888889,34.0,0,Travel_Rarely,Sales,9.0,3.0,Marketing,0,2.0,Manager,Single,53680.0,2.0,14.0,1.0,9.0,2.0,3.0000000001,1.0,2.0,4.0,2.0,3.0,3.0,3.0
+7.725555555555555,24.0,0,Travel_Rarely,Sales,6.0,2.0,Marketing,1,2.0,Research Scientist,Married,40870.0,0.0,20.0,3.0,4.0,1.0,3.0000000001,0.0,2.0,1.0,3.0,2.0,3.0,4.0
+5.9325,31.0,0,Non-Travel,Sales,4.0,1.0,Medical,0,3.0,Research Scientist,Married,96100.0,0.0,11.0,1.0,6.0,2.0,5.0000000001,1.0,4.0,3.0,3.0,3.0,2.0,3.0
+9.240833333333333,44.0,1,Travel_Frequently,Sales,10.0,4.0,Life Sciences,1,1.0,Research Scientist,Divorced,28440.0,1.0,12.0,0.0,6.0,2.0,5.0000000001,2.0,3.0,3.0,2.0,2.0,4.0,3.0
+7.375,24.0,0,Non-Travel,Research & Development,10.0,3.0,Life Sciences,0,2.0,Manager,Married,51600.0,1.0,17.0,1.0,1.0,3.0,1.0000000001,0.0,0.0,4.0,2.0,3.0,1.0,3.0
+6.9875,46.0,0,Travel_Rarely,Research & Development,4.0,2.0,Life Sciences,1,3.0,Manufacturing Director,Married,138260.0,8.0,11.0,0.0,23.0,1.0,13.0000000001,5.0,1.0,3.0,2.0,4.0,2.0,3.0
+6.170555555555556,33.0,0,Non-Travel,Research & Development,1.0,3.0,Life Sciences,1,2.0,Research Scientist,Divorced,140260.0,1.0,12.0,0.0,1.0,4.0,1.0000000001,0.0,0.0,2.0,3.0,2.0,3.0,3.0
+11.015833333333331,51.0,0,Travel_Frequently,Research & Development,14.0,3.0,Life Sciences,1,2.0,Research Director,Divorced,105270.0,4.0,14.0,0.0,31.0,3.0,29.0000000001,11.0,10.0,4.0,2.0,2.0,3.0,3.0
+10.87111111111111,25.0,0,Travel_Rarely,Human Resources,7.0,2.0,Human Resources,1,1.0,Manufacturing Director,Single,86330.0,1.0,19.0,1.0,5.0,2.0,5.0000000001,1.0,3.0,2.0,4.0,3.0,4.0,3.0
+7.969444444444444,25.0,0,Travel_Rarely,Research & Development,6.0,2.0,Medical,0,1.0,Laboratory Technician,Single,27680.0,0.0,22.0,1.0,5.0,0.0,4.0000000001,1.0,1.0,3.0,4.0,3.0,3.0,4.0
+7.411666666666667,59.0,0,Travel_Rarely,Research & Development,3.0,4.0,Technical Degree,1,1.0,Research Scientist,Single,40510.0,5.0,16.0,3.0,13.0,3.0,6.0000000001,0.0,5.0,3.0,4.0,3.0,3.0,3.0
+7.154722222222222,50.0,0,Travel_Rarely,Sales,10.0,4.0,Life Sciences,0,3.0,Manager,Married,47870.0,0.0,12.0,0.0,28.0,3.0,27.0000000001,15.0,7.0,2.0,3.0,3.0,3.0,3.0
+7.068055555555556,50.0,0,Travel_Frequently,Research & Development,19.0,4.0,Life Sciences,1,2.0,Sales Executive,Single,53770.0,4.0,14.0,1.0,16.0,3.0,2.0000000001,2.0,1.0,3.0,4.0,3.0,4.0,3.0
+6.685833333333333,49.0,0,Travel_Frequently,Sales,1.0,4.0,Life Sciences,0,2.0,Manufacturing Director,Married,58100.0,1.0,21.0,1.0,10.0,2.0,10.0000000001,1.0,7.0,3.0,2.0,3.0,3.0,4.0
+6.880555555555556,46.0,0,Travel_Rarely,Research & Development,1.0,4.0,Life Sciences,1,1.0,Manufacturing Director,Married,23400.0,2.0,13.0,1.0,26.0,2.0,11.0000000001,0.0,8.0,4.0,2.0,3.0,1.0,3.0
+8.55861111111111,41.0,1,Travel_Rarely,Research & Development,7.0,2.0,Life Sciences,0,1.0,Research Scientist,Single,20990.0,8.0,12.0,1.0,8.0,2.0,6.0000000001,0.0,5.0,2.0,4.0,1.0,3.0,3.0
+7.745,49.0,0,Travel_Rarely,Sales,2.0,3.0,Technical Degree,1,2.0,Manufacturing Director,Single,52040.0,8.0,14.0,1.0,26.0,3.0,5.0000000001,0.0,0.0,2.0,3.0,3.0,3.0,3.0
+7.960555555555556,43.0,0,Non-Travel,Research & Development,6.0,2.0,Medical,1,1.0,Healthcare Representative,Divorced,20280.0,4.0,20.0,1.0,7.0,2.0,5.0000000001,2.0,2.0,4.0,3.0,4.0,2.0,4.0
+7.660833333333334,50.0,0,Travel_Rarely,Research & Development,11.0,2.0,Life Sciences,1,2.0,Sales Executive,Divorced,62940.0,3.0,23.0,1.0,32.0,2.0,7.0000000001,0.0,6.0,4.0,4.0,2.0,4.0,4.0
+8.054444444444444,29.0,0,Travel_Rarely,Research & Development,10.0,3.0,Life Sciences,1,1.0,Sales Representative,Single,24040.0,1.0,17.0,0.0,10.0,3.0,10.0000000001,1.0,5.0,2.0,1.0,3.0,2.0,3.0
+6.959444444444444,27.0,0,Travel_Rarely,Sales,9.0,3.0,Marketing,1,5.0,Research Director,Single,59930.0,0.0,14.0,1.0,5.0,3.0,4.0000000001,1.0,1.0,1.0,4.0,3.0,1.0,3.0
+6.263055555555556,56.0,0,Travel_Rarely,Research & Development,3.0,2.0,Other,1,2.0,Healthcare Representative,Divorced,44490.0,2.0,15.0,0.0,28.0,3.0,5.0000000001,4.0,2.0,4.0,1.0,3.0,1.0,3.0
+7.459722222222222,40.0,0,Travel_Rarely,Sales,6.0,2.0,Life Sciences,0,1.0,Laboratory Technician,Married,26470.0,6.0,13.0,0.0,20.0,2.0,1.0000000001,0.0,0.0,2.0,3.0,3.0,2.0,3.0
+6.1433333333333335,27.0,0,Travel_Frequently,Research & Development,18.0,2.0,Medical,0,1.0,Laboratory Technician,Single,65160.0,1.0,19.0,1.0,7.0,4.0,7.0000000001,0.0,7.0,4.0,3.0,3.0,3.0,3.0
+6.965833333333333,49.0,0,Travel_Rarely,Research & Development,25.0,2.0,Life Sciences,0,2.0,Sales Executive,Married,43450.0,4.0,15.0,0.0,29.0,3.0,26.0000000001,1.0,7.0,1.0,2.0,2.0,2.0,3.0
+7.145833333333333,38.0,0,Non-Travel,Research & Development,2.0,5.0,Life Sciences,1,3.0,Human Resources,Married,83210.0,3.0,11.0,3.0,13.0,5.0,8.0000000001,7.0,5.0,4.0,4.0,3.0,2.0,3.0
+6.682222222222222,28.0,0,Travel_Rarely,Human Resources,1.0,1.0,Human Resources,1,2.0,Research Scientist,Divorced,63470.0,1.0,15.0,1.0,4.0,2.0,4.0000000001,2.0,2.0,1.0,3.0,2.0,3.0,3.0
+10.130277777777778,34.0,1,Non-Travel,Research & Development,27.0,2.0,Life Sciences,0,1.0,Sales Representative,Married,36920.0,1.0,12.0,1.0,5.0,5.0,5.0000000001,3.0,0.0,4.0,1.0,3.0,3.0,3.0
+6.274722222222223,29.0,0,Travel_Rarely,Research & Development,10.0,2.0,Medical,1,3.0,Manufacturing Director,Married,169590.0,4.0,14.0,3.0,11.0,5.0,8.0000000001,1.0,1.0,2.0,3.0,2.0,3.0,3.0
+7.236944444444444,46.0,0,Travel_Rarely,Research & Development,8.0,4.0,Other,1,3.0,Manager,Married,17020.0,5.0,21.0,0.0,25.0,2.0,4.0000000001,0.0,3.0,4.0,2.0,3.0,3.0,4.0
+8.15,52.0,0,Travel_Rarely,Research & Development,26.0,2.0,Life Sciences,0,2.0,Sales Representative,Married,33750.0,2.0,21.0,0.0,28.0,2.0,5.0000000001,0.0,4.0,4.0,3.0,3.0,2.0,4.0
+9.309166666666666,46.0,0,Travel_Frequently,Research & Development,20.0,3.0,Technical Degree,1,3.0,Sales Executive,Single,40350.0,4.0,14.0,1.0,14.0,2.0,9.0000000001,0.0,8.0,1.0,4.0,3.0,3.0,3.0
+9.573333333333334,42.0,0,Travel_Rarely,Research & Development,18.0,1.0,Technical Degree,0,2.0,Research Scientist,Married,199990.0,2.0,23.0,1.0,17.0,6.0,5.0000000001,1.0,3.0,3.0,4.0,2.0,3.0,4.0
+6.9425,51.0,0,Travel_Frequently,Sales,21.0,4.0,Medical,1,2.0,Research Scientist,Single,182000.0,0.0,17.0,0.0,8.0,3.0,7.0000000001,7.0,7.0,2.0,3.0,2.0,3.0,3.0
+7.461944444444445,26.0,0,Travel_Rarely,Research & Development,5.0,4.0,Medical,0,2.0,Sales Executive,Married,46820.0,1.0,11.0,1.0,6.0,3.0,5.0000000001,1.0,3.0,1.0,1.0,3.0,1.0,3.0
+6.573055555555555,35.0,0,Travel_Rarely,Research & Development,25.0,1.0,Medical,1,1.0,Sales Executive,Married,54100.0,0.0,18.0,0.0,6.0,4.0,5.0000000001,0.0,4.0,2.0,1.0,1.0,3.0,3.0
+7.570277777777778,46.0,0,Travel_Rarely,Sales,19.0,4.0,Marketing,0,1.0,Sales Executive,Divorced,41080.0,2.0,14.0,0.0,19.0,5.0,10.0000000001,0.0,8.0,3.0,3.0,2.0,2.0,3.0
+7.77,28.0,0,Travel_Rarely,Research & Development,10.0,3.0,Other,1,2.0,Sales Representative,Married,52100.0,1.0,15.0,0.0,1.0,1.0,1.0000000001,0.0,0.0,4.0,2.0,3.0,4.0,3.0
+7.221111111111111,29.0,0,Travel_Rarely,Research & Development,20.0,1.0,Medical,0,2.0,Manager,Single,41630.0,9.0,15.0,1.0,8.0,4.0,5.0000000001,1.0,4.0,3.0,3.0,3.0,2.0,3.0
+8.86,27.0,0,Travel_Rarely,Research & Development,5.0,4.0,Medical,1,2.0,Healthcare Representative,Married,47350.0,0.0,13.0,0.0,6.0,2.0,5.0000000001,1.0,1.0,3.0,2.0,2.0,3.0,3.0
+7.995555555555556,55.0,1,Travel_Rarely,Human Resources,7.0,3.0,Human Resources,1,4.0,Laboratory Technician,Married,74280.0,5.0,12.0,0.0,24.0,2.0,5.0000000001,1.0,4.0,4.0,1.0,3.0,3.0,3.0
+7.695555555555556,36.0,0,Non-Travel,Sales,1.0,1.0,Medical,0,1.0,Human Resources,Divorced,132470.0,1.0,14.0,0.0,15.0,3.0,15.0000000001,11.0,11.0,4.0,4.0,2.0,3.0,3.0
+7.451388888888889,55.0,0,Travel_Rarely,Research & Development,7.0,3.0,Life Sciences,0,3.0,Research Scientist,Divorced,50930.0,2.0,16.0,1.0,31.0,3.0,7.0000000001,0.0,0.0,2.0,4.0,4.0,3.0,3.0
+6.091388888888889,31.0,0,Travel_Rarely,Research & Development,10.0,4.0,Life Sciences,1,3.0,Sales Executive,Married,21870.0,1.0,15.0,1.0,13.0,2.0,13.0000000001,3.0,12.0,2.0,1.0,1.0,2.0,3.0
+10.611666666666666,36.0,0,Travel_Rarely,Sales,2.0,3.0,Technical Degree,0,5.0,Laboratory Technician,Married,22900.0,4.0,11.0,0.0,15.0,5.0,1.0000000001,0.0,0.0,4.0,2.0,3.0,3.0,3.0
+7.394722222222223,28.0,0,Travel_Rarely,Research & Development,23.0,3.0,Life Sciences,1,3.0,Manufacturing Director,Divorced,46010.0,0.0,15.0,2.0,6.0,2.0,5.0000000001,0.0,0.0,2.0,1.0,2.0,3.0,3.0
+7.826944444444444,46.0,0,Travel_Rarely,Research & Development,23.0,1.0,Life Sciences,1,2.0,Laboratory Technician,Divorced,34910.0,2.0,14.0,0.0,25.0,0.0,19.0000000001,2.0,8.0,1.0,1.0,3.0,3.0,3.0
+7.3630555555555555,29.0,0,Travel_Rarely,Research & Development,5.0,3.0,Medical,1,1.0,Research Scientist,Divorced,51300.0,4.0,11.0,0.0,8.0,3.0,3.0000000001,1.0,2.0,4.0,4.0,4.0,2.0,3.0
+6.874722222222222,35.0,0,Travel_Rarely,Research & Development,8.0,4.0,Medical,0,3.0,Research Scientist,Married,38380.0,1.0,16.0,1.0,1.0,2.0,1.0000000001,0.0,1.0,4.0,4.0,3.0,3.0,3.0
+6.721666666666667,37.0,0,Travel_Rarely,Research & Development,14.0,4.0,Life Sciences,1,3.0,Research Scientist,Married,65770.0,1.0,13.0,0.0,14.0,1.0,14.0000000001,3.0,11.0,4.0,4.0,2.0,1.0,3.0
+6.6963888888888885,33.0,0,Non-Travel,Sales,7.0,3.0,Life Sciences,1,2.0,Sales Executive,Married,112450.0,0.0,21.0,0.0,8.0,3.0,7.0000000001,0.0,7.0,3.0,2.0,4.0,3.0,4.0
+5.965277777777778,36.0,0,Travel_Rarely,Research & Development,2.0,2.0,Technical Degree,1,3.0,Sales Executive,Married,199730.0,6.0,12.0,0.0,10.0,2.0,3.0000000001,0.0,2.0,1.0,3.0,2.0,3.0,3.0
+10.229722222222222,26.0,1,Travel_Rarely,Research & Development,8.0,3.0,Medical,1,2.0,Manager,Single,157870.0,1.0,12.0,2.0,8.0,5.0,8.0000000001,7.0,4.0,4.0,4.0,3.0,3.0,3.0
+7.0675,56.0,0,Travel_Rarely,Research & Development,2.0,4.0,Medical,1,1.0,Manager,Married,20420.0,7.0,12.0,0.0,30.0,6.0,10.0000000001,1.0,1.0,3.0,4.0,2.0,3.0,3.0
+7.072777777777778,45.0,0,Travel_Rarely,Research & Development,3.0,3.0,Medical,0,2.0,Sales Executive,Married,37600.0,0.0,14.0,1.0,10.0,2.0,9.0000000001,3.0,8.0,2.0,4.0,2.0,2.0,3.0
+8.111666666666666,53.0,0,Non-Travel,Research & Development,10.0,4.0,Medical,1,2.0,Healthcare Representative,Married,20700.0,4.0,13.0,2.0,27.0,2.0,3.0000000001,0.0,2.0,1.0,3.0,2.0,4.0,3.0
+7.66,26.0,0,Travel_Rarely,Sales,17.0,3.0,Medical,0,2.0,Manager,Married,57690.0,1.0,19.0,0.0,5.0,4.0,5.0000000001,4.0,3.0,3.0,2.0,2.0,2.0,3.0
+10.016944444444444,32.0,1,Travel_Rarely,Research & Development,9.0,1.0,Medical,0,1.0,Laboratory Technician,Single,27410.0,1.0,15.0,1.0,1.0,5.0,1.0000000001,0.0,1.0,1.0,4.0,1.0,2.0,3.0
+7.034722222222222,32.0,0,Non-Travel,Sales,18.0,3.0,Marketing,1,1.0,Laboratory Technician,Married,23890.0,6.0,12.0,1.0,5.0,4.0,3.0000000001,0.0,2.0,3.0,2.0,3.0,2.0,3.0
+6.5825,31.0,0,Travel_Frequently,Research & Development,2.0,1.0,Life Sciences,0,1.0,Manager,Married,97130.0,1.0,17.0,0.0,10.0,5.0,10.0000000001,8.0,9.0,3.0,3.0,3.0,2.0,3.0
+6.521111111111111,60.0,0,Travel_Rarely,Research & Development,8.0,2.0,Life Sciences,0,5.0,Laboratory Technician,Single,53290.0,8.0,20.0,0.0,10.0,3.0,2.0000000001,2.0,2.0,1.0,1.0,3.0,4.0,4.0
+10.429444444444444,33.0,1,Travel_Rarely,Human Resources,28.0,2.0,Human Resources,0,5.0,Manager,Single,55610.0,1.0,21.0,1.0,1.0,3.0,1.0000000001,0.0,0.0,4.0,3.0,3.0,1.0,4.0
+7.985,25.0,0,Travel_Rarely,Research & Development,6.0,2.0,Medical,0,1.0,Laboratory Technician,Single,27680.0,0.0,22.0,1.0,5.0,0.0,4.0000000001,1.0,1.0,3.0,4.0,3.0,3.0,4.0
+7.653888888888889,39.0,1,Travel_Rarely,Research & Development,18.0,2.0,Life Sciences,1,2.0,Laboratory Technician,Single,28360.0,0.0,20.0,0.0,6.0,3.0,5.0000000001,0.0,3.0,3.0,1.0,3.0,2.0,4.0
+7.959722222222222,37.0,0,Travel_Rarely,Research & Development,24.0,1.0,Life Sciences,1,2.0,Sales Executive,Married,32910.0,1.0,16.0,3.0,5.0,2.0,5.0000000001,0.0,3.0,2.0,2.0,3.0,2.0,3.0
+10.47,29.0,1,Travel_Rarely,Research & Development,29.0,3.0,Medical,0,1.0,Research Scientist,Married,23070.0,1.0,13.0,1.0,7.0,0.0,7.0000000001,0.0,7.0,2.0,1.0,2.0,3.0,3.0
+7.549722222222222,30.0,1,Travel_Frequently,Research & Development,8.0,4.0,Medical,1,1.0,Sales Executive,Single,191440.0,0.0,11.0,0.0,4.0,3.0,3.0000000001,1.0,2.0,2.0,2.0,3.0,3.0,3.0
+7.829722222222222,56.0,0,Travel_Rarely,Research & Development,4.0,3.0,Technical Degree,0,2.0,Sales Executive,Married,198470.0,4.0,14.0,0.0,6.0,6.0,1e-10,0.0,0.0,4.0,1.0,3.0,3.0,3.0
+10.885555555555555,29.0,1,Travel_Rarely,Research & Development,9.0,4.0,Medical,1,2.0,Sales Representative,Married,29960.0,9.0,25.0,0.0,4.0,4.0,2.0000000001,2.0,2.0,1.0,4.0,4.0,3.0,4.0
+6.209444444444444,41.0,0,Non-Travel,Research & Development,19.0,1.0,Life Sciences,1,2.0,Research Scientist,Divorced,58280.0,1.0,13.0,0.0,21.0,0.0,21.0000000001,5.0,10.0,2.0,3.0,3.0,3.0,3.0
+9.163333333333334,23.0,1,Travel_Rarely,Research & Development,12.0,2.0,Medical,1,2.0,Research Scientist,Divorced,75250.0,1.0,14.0,2.0,3.0,2.0,3.0000000001,0.0,2.0,3.0,4.0,3.0,3.0,3.0
+6.134722222222222,41.0,0,Non-Travel,Research & Development,3.0,2.0,Life Sciences,0,2.0,Research Scientist,Single,99360.0,7.0,17.0,1.0,16.0,2.0,14.0000000001,1.0,10.0,4.0,4.0,3.0,2.0,3.0
+7.775833333333333,32.0,0,Travel_Rarely,Research & Development,3.0,4.0,Medical,0,4.0,Sales Executive,Divorced,30380.0,2.0,20.0,0.0,8.0,3.0,5.0000000001,0.0,3.0,2.0,4.0,2.0,3.0,4.0
+6.8902777777777775,46.0,0,Travel_Rarely,Research & Development,28.0,3.0,Medical,0,3.0,Human Resources,Divorced,190450.0,6.0,11.0,3.0,13.0,2.0,8.0000000001,0.0,7.0,4.0,3.0,3.0,3.0,3.0
+8.561388888888889,38.0,0,Travel_Frequently,Sales,3.0,3.0,Marketing,0,2.0,Sales Executive,Married,49070.0,1.0,11.0,1.0,1.0,3.0,1.0000000001,0.0,0.0,4.0,4.0,3.0,3.0,3.0
+8.9525,39.0,0,Travel_Frequently,Research & Development,26.0,4.0,Technical Degree,0,1.0,Sales Executive,Divorced,30670.0,1.0,20.0,1.0,21.0,5.0,21.0000000001,1.0,6.0,2.0,3.0,3.0,1.0,4.0
+10.599722222222224,33.0,0,Travel_Rarely,Research & Development,9.0,3.0,Medical,0,2.0,Manufacturing Director,Married,28990.0,1.0,17.0,0.0,15.0,3.0,15.0000000001,5.0,7.0,2.0,3.0,3.0,2.0,3.0
+10.270555555555555,44.0,0,Travel_Frequently,Research & Development,5.0,2.0,Medical,0,2.0,Research Scientist,Single,171590.0,5.0,22.0,1.0,16.0,1.0,2.0000000001,2.0,2.0,2.0,3.0,2.0,2.0,4.0
+7.749722222222222,35.0,0,Travel_Rarely,Research & Development,5.0,4.0,Medical,1,3.0,Manager,Married,16750.0,1.0,16.0,0.0,3.0,6.0,3.0000000001,0.0,2.0,1.0,4.0,2.0,2.0,3.0
+6.560833333333333,31.0,0,Travel_Frequently,Research & Development,7.0,3.0,Life Sciences,1,1.0,Sales Executive,Married,52580.0,0.0,14.0,3.0,3.0,5.0,2.0000000001,2.0,2.0,3.0,4.0,3.0,3.0,3.0
+10.819166666666666,49.0,0,Travel_Rarely,Sales,21.0,1.0,Life Sciences,1,1.0,Sales Executive,Divorced,40110.0,1.0,18.0,2.0,31.0,2.0,31.0000000001,0.0,9.0,4.0,3.0,3.0,1.0,3.0
+6.733055555555556,31.0,0,Travel_Rarely,Sales,25.0,2.0,Life Sciences,0,3.0,Manufacturing Director,Divorced,182130.0,8.0,21.0,2.0,4.0,3.0,2.0000000001,2.0,2.0,1.0,3.0,2.0,4.0,4.0
+6.288055555555555,26.0,0,Travel_Rarely,Research & Development,2.0,2.0,Other,1,3.0,Laboratory Technician,Single,53040.0,0.0,20.0,1.0,5.0,2.0,4.0000000001,1.0,1.0,1.0,4.0,3.0,3.0,4.0
+6.288611111111111,39.0,0,Travel_Rarely,Sales,26.0,4.0,Life Sciences,1,2.0,Research Director,Divorced,81610.0,7.0,12.0,1.0,7.0,2.0,3.0000000001,1.0,2.0,3.0,3.0,3.0,4.0,3.0
+9.523888888888887,55.0,0,Non-Travel,Research & Development,27.0,3.0,Life Sciences,0,2.0,Manager,Divorced,48590.0,1.0,24.0,1.0,34.0,3.0,33.0000000001,15.0,0.0,4.0,2.0,3.0,4.0,4.0
+7.573333333333333,45.0,1,Travel_Frequently,Research & Development,19.0,4.0,Life Sciences,1,3.0,Research Director,Married,34410.0,2.0,13.0,1.0,5.0,5.0,1.0000000001,0.0,0.0,1.0,1.0,3.0,3.0,3.0
+6.583333333333333,45.0,0,Travel_Rarely,Research & Development,10.0,4.0,Life Sciences,1,1.0,Research Director,Single,56050.0,1.0,12.0,2.0,1.0,2.0,1.0000000001,0.0,0.0,2.0,3.0,3.0,3.0,3.0
+10.139166666666666,32.0,1,Travel_Rarely,Sales,23.0,1.0,Life Sciences,1,3.0,Healthcare Representative,Single,24680.0,0.0,11.0,0.0,4.0,2.0,3.0000000001,1.0,2.0,4.0,3.0,1.0,3.0,3.0
+6.161944444444444,37.0,1,Travel_Rarely,Research & Development,24.0,3.0,Life Sciences,1,1.0,Laboratory Technician,Single,137580.0,1.0,11.0,1.0,10.0,5.0,10.0000000001,0.0,8.0,4.0,1.0,1.0,3.0,3.0
+7.750277777777778,40.0,0,Travel_Frequently,Research & Development,21.0,3.0,Medical,0,3.0,Research Scientist,Married,197170.0,1.0,21.0,0.0,10.0,1.0,10.0000000001,9.0,4.0,4.0,3.0,4.0,2.0,4.0
+10.980277777777776,44.0,1,Travel_Frequently,Research & Development,1.0,2.0,Medical,1,2.0,Research Scientist,Divorced,103330.0,3.0,14.0,1.0,19.0,2.0,1.0000000001,0.0,0.0,4.0,3.0,1.0,2.0,3.0
+7.6369444444444445,26.0,0,Travel_Rarely,Research & Development,9.0,1.0,Medical,1,1.0,Sales Executive,Married,106860.0,1.0,14.0,1.0,3.0,2.0,3.0000000001,0.0,2.0,4.0,3.0,4.0,3.0,3.0
+10.641666666666667,41.0,0,Travel_Rarely,Research & Development,1.0,4.0,Medical,1,1.0,Research Scientist,Single,195170.0,2.0,13.0,0.0,20.0,5.0,18.0000000001,2.0,17.0,4.0,1.0,3.0,3.0,3.0
+10.145555555555555,37.0,1,Travel_Rarely,Human Resources,9.0,3.0,Human Resources,1,2.0,Healthcare Representative,Divorced,54840.0,2.0,17.0,0.0,7.0,4.0,3.0000000001,0.0,2.0,3.0,1.0,3.0,3.0,3.0
+6.156666666666666,60.0,0,Travel_Rarely,Sales,17.0,4.0,Medical,1,1.0,Manager,Divorced,40250.0,3.0,13.0,1.0,19.0,5.0,1.0000000001,0.0,0.0,3.0,4.0,4.0,2.0,3.0
+6.603055555555556,28.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,0,2.0,Healthcare Representative,Married,111590.0,1.0,12.0,0.0,5.0,2.0,5.0000000001,0.0,4.0,3.0,1.0,3.0,3.0,3.0
+7.395555555555555,37.0,0,Travel_Rarely,Research & Development,20.0,5.0,Life Sciences,1,2.0,Manager,Single,68040.0,4.0,13.0,1.0,8.0,1.0,3.0000000001,0.0,2.0,1.0,3.0,3.0,3.0,3.0
+6.179722222222222,39.0,0,Travel_Frequently,Research & Development,2.0,1.0,Medical,1,2.0,Healthcare Representative,Divorced,51550.0,2.0,18.0,1.0,7.0,3.0,2.0000000001,2.0,2.0,3.0,4.0,3.0,2.0,3.0
+7.825833333333334,27.0,0,Travel_Rarely,Sales,22.0,4.0,Medical,1,1.0,Sales Representative,Divorced,22060.0,0.0,14.0,1.0,6.0,4.0,5.0000000001,0.0,3.0,1.0,3.0,2.0,3.0,3.0
+6.178888888888889,35.0,0,Travel_Rarely,Research & Development,23.0,4.0,Life Sciences,1,2.0,Research Scientist,Single,63340.0,1.0,14.0,0.0,11.0,2.0,11.0000000001,3.0,3.0,4.0,2.0,1.0,4.0,3.0
+6.343611111111112,30.0,0,Travel_Rarely,Research & Development,11.0,4.0,Medical,1,2.0,Laboratory Technician,Divorced,171690.0,1.0,17.0,2.0,1.0,2.0,1.0000000001,0.0,0.0,4.0,3.0,3.0,3.0,3.0
+6.460277777777778,27.0,1,Travel_Frequently,Sales,8.0,1.0,Life Sciences,1,4.0,Laboratory Technician,Married,102310.0,1.0,13.0,1.0,1.0,2.0,1.0000000001,0.0,0.0,1.0,2.0,3.0,3.0,3.0
+10.975277777777778,44.0,0,Travel_Rarely,Research & Development,22.0,3.0,Medical,0,1.0,Laboratory Technician,Married,104530.0,2.0,11.0,1.0,10.0,2.0,3.0000000001,0.0,2.0,1.0,4.0,2.0,3.0,3.0
+6.405,34.0,0,Travel_Rarely,Sales,4.0,3.0,Medical,0,1.0,Sales Executive,Married,12610.0,2.0,14.0,1.0,6.0,6.0,4.0000000001,1.0,2.0,2.0,3.0,4.0,3.0,3.0
+9.930555555555555,52.0,1,Travel_Rarely,Research & Development,3.0,2.0,Technical Degree,1,3.0,Laboratory Technician,Single,25790.0,9.0,19.0,1.0,10.0,1.0,8.0000000001,7.0,7.0,2.0,2.0,2.0,3.0,3.0
+6.595277777777778,58.0,0,Non-Travel,Research & Development,2.0,4.0,Medical,1,1.0,Laboratory Technician,Divorced,23760.0,4.0,12.0,1.0,37.0,3.0,16.0000000001,14.0,14.0,2.0,2.0,2.0,3.0,3.0
+7.832222222222223,36.0,0,Travel_Rarely,Research & Development,23.0,3.0,Life Sciences,0,3.0,Sales Executive,Married,21320.0,4.0,20.0,0.0,9.0,1.0,3.0000000001,0.0,2.0,2.0,1.0,3.0,2.0,4.0
+9.457777777777778,36.0,0,Travel_Rarely,Research & Development,11.0,3.0,Life Sciences,1,1.0,Sales Executive,Married,131910.0,1.0,14.0,1.0,10.0,2.0,10.0000000001,1.0,7.0,2.0,3.0,3.0,2.0,3.0
+9.060833333333331,52.0,0,Travel_Frequently,Research & Development,2.0,1.0,Life Sciences,1,2.0,Sales Executive,Married,117130.0,2.0,14.0,0.0,24.0,2.0,5.0000000001,0.0,2.0,4.0,3.0,2.0,3.0,3.0
+6.975555555555555,28.0,0,Travel_Rarely,Research & Development,29.0,2.0,Life Sciences,1,2.0,Laboratory Technician,Married,68520.0,1.0,18.0,1.0,1.0,2.0,1.0000000001,0.0,0.0,2.0,2.0,3.0,4.0,3.0
+7.772777777777778,29.0,1,Travel_Frequently,Research & Development,28.0,3.0,Medical,0,5.0,Research Scientist,Single,44340.0,2.0,17.0,3.0,7.0,1.0,5.0000000001,0.0,0.0,1.0,2.0,1.0,3.0,3.0
+6.095,37.0,0,Travel_Rarely,Sales,24.0,2.0,Life Sciences,0,4.0,Laboratory Technician,Divorced,42570.0,4.0,15.0,0.0,9.0,2.0,1.0000000001,0.0,0.0,4.0,3.0,3.0,3.0,3.0
+7.502777777777778,37.0,0,Non-Travel,Research & Development,7.0,2.0,Medical,1,1.0,Sales Executive,Divorced,20280.0,1.0,16.0,1.0,9.0,3.0,9.0000000001,7.0,7.0,1.0,2.0,3.0,3.0,3.0
+9.245555555555557,41.0,0,Non-Travel,Research & Development,23.0,3.0,Life Sciences,1,2.0,Manufacturing Director,Single,26700.0,2.0,15.0,2.0,10.0,2.0,8.0000000001,0.0,7.0,1.0,3.0,3.0,2.0,3.0
+5.915,58.0,0,Travel_Rarely,Research & Development,27.0,3.0,Other,1,2.0,Laboratory Technician,Divorced,21870.0,1.0,18.0,1.0,2.0,1.0,2.0000000001,2.0,2.0,1.0,3.0,3.0,1.0,3.0
+6.485277777777778,38.0,0,Travel_Frequently,Research & Development,1.0,4.0,Other,1,2.0,Research Scientist,Married,36690.0,2.0,19.0,0.0,10.0,2.0,8.0000000001,7.0,7.0,1.0,3.0,3.0,3.0,3.0
+7.748333333333333,23.0,0,Travel_Rarely,Sales,13.0,3.0,Marketing,1,5.0,Sales Executive,Married,42210.0,1.0,11.0,1.0,5.0,4.0,4.0000000001,0.0,2.0,2.0,1.0,4.0,3.0,3.0
+10.827777777777778,47.0,0,Travel_Rarely,Research & Development,8.0,4.0,Medical,0,2.0,Sales Representative,Married,23660.0,3.0,17.0,0.0,11.0,5.0,5.0000000001,1.0,2.0,3.0,3.0,2.0,2.0,3.0
+6.588055555555556,56.0,0,Travel_Rarely,Research & Development,10.0,4.0,Other,1,2.0,Sales Representative,Married,42580.0,2.0,16.0,0.0,5.0,2.0,3.0000000001,1.0,0.0,1.0,1.0,4.0,3.0,3.0
+6.458611111111111,36.0,0,Travel_Rarely,Human Resources,2.0,4.0,Technical Degree,1,1.0,Sales Executive,Single,79180.0,2.0,12.0,2.0,8.0,3.0,6.0000000001,0.0,1.0,2.0,4.0,3.0,2.0,3.0
+7.050833333333333,37.0,1,Travel_Frequently,Sales,2.0,3.0,Marketing,1,1.0,Laboratory Technician,Divorced,40010.0,6.0,11.0,1.0,17.0,2.0,1.0000000001,0.0,0.0,1.0,3.0,3.0,3.0,3.0
+7.863611111111111,39.0,0,Travel_Rarely,Research & Development,7.0,3.0,Life Sciences,0,1.0,Research Scientist,Married,196580.0,4.0,13.0,1.0,17.0,3.0,15.0000000001,5.0,9.0,4.0,3.0,4.0,4.0,3.0
+6.116944444444444,41.0,0,Travel_Rarely,Sales,7.0,4.0,Marketing,1,4.0,Laboratory Technician,Divorced,68420.0,4.0,12.0,1.0,13.0,3.0,9.0000000001,1.0,8.0,1.0,3.0,3.0,3.0,3.0
+7.443888888888889,34.0,0,Travel_Frequently,Sales,1.0,3.0,Life Sciences,1,2.0,Sales Executive,Married,24000.0,4.0,18.0,1.0,14.0,3.0,10.0000000001,1.0,8.0,3.0,2.0,4.0,3.0,3.0
+5.956666666666667,54.0,0,Travel_Rarely,Human Resources,9.0,3.0,Life Sciences,0,2.0,Manufacturing Director,Married,63230.0,4.0,23.0,1.0,24.0,2.0,4.0000000001,1.0,2.0,1.0,1.0,2.0,2.0,4.0
+7.556111111111111,34.0,0,Travel_Rarely,Research & Development,28.0,3.0,Technical Degree,1,1.0,Laboratory Technician,Divorced,107930.0,0.0,11.0,3.0,3.0,1.0,2.0000000001,1.0,2.0,2.0,4.0,3.0,2.0,3.0
+7.073888888888889,36.0,0,Non-Travel,Research & Development,1.0,3.0,Life Sciences,1,2.0,Research Scientist,Married,28380.0,1.0,19.0,2.0,5.0,5.0,5.0000000001,0.0,2.0,1.0,2.0,3.0,1.0,3.0
+10.276388888888889,46.0,0,Travel_Rarely,Research & Development,9.0,3.0,Medical,1,3.0,Manager,Divorced,164370.0,8.0,15.0,1.0,16.0,0.0,4.0000000001,0.0,2.0,2.0,2.0,3.0,3.0,3.0
+6.735833333333333,59.0,0,Travel_Frequently,Research & Development,10.0,4.0,Life Sciences,1,3.0,Research Scientist,Single,23080.0,7.0,19.0,1.0,20.0,4.0,4.0000000001,1.0,3.0,1.0,3.0,2.0,2.0,3.0
+10.468333333333334,54.0,0,Travel_Rarely,Research & Development,1.0,3.0,Medical,0,2.0,Human Resources,Single,23620.0,6.0,13.0,1.0,9.0,2.0,5.0000000001,1.0,4.0,3.0,1.0,3.0,4.0,3.0
+9.250833333333333,41.0,0,Non-Travel,Research & Development,23.0,3.0,Life Sciences,1,2.0,Manufacturing Director,Single,26700.0,2.0,15.0,2.0,10.0,2.0,8.0000000001,0.0,7.0,1.0,3.0,3.0,2.0,3.0
+7.918611111111111,30.0,0,Travel_Rarely,Sales,3.0,4.0,Marketing,1,1.0,Sales Executive,Divorced,64340.0,5.0,14.0,1.0,10.0,3.0,8.0000000001,7.0,7.0,3.0,3.0,4.0,2.0,3.0
+7.742222222222222,29.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,0,2.0,Research Director,Single,66670.0,9.0,12.0,1.0,6.0,6.0,3.0000000001,1.0,2.0,4.0,4.0,3.0,4.0,3.0
+10.158888888888889,32.0,1,Travel_Rarely,Sales,23.0,1.0,Life Sciences,1,3.0,Healthcare Representative,Single,24680.0,0.0,11.0,0.0,4.0,2.0,3.0000000001,1.0,2.0,4.0,3.0,1.0,3.0,3.0
+7.9225,43.0,0,Travel_Rarely,Sales,25.0,2.0,Life Sciences,1,3.0,Research Scientist,Divorced,50550.0,5.0,22.0,0.0,18.0,2.0,1.0000000001,0.0,0.0,3.0,4.0,3.0,2.0,4.0
+7.411111111111111,27.0,0,Travel_Frequently,Research & Development,26.0,4.0,Medical,0,1.0,Research Director,Single,46470.0,3.0,17.0,0.0,8.0,3.0,6.0000000001,0.0,0.0,4.0,4.0,3.0,4.0,3.0
+7.693333333333333,47.0,0,Non-Travel,Research & Development,3.0,2.0,Life Sciences,0,2.0,Sales Executive,Married,39550.0,7.0,12.0,1.0,4.0,5.0,1.0000000001,0.0,0.0,3.0,2.0,1.0,3.0,3.0
+7.559444444444445,51.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,2.0,Laboratory Technician,Divorced,56750.0,5.0,13.0,0.0,13.0,2.0,4.0000000001,1.0,2.0,4.0,2.0,3.0,2.0,3.0
+6.410277777777778,49.0,0,Travel_Rarely,Research & Development,21.0,3.0,Medical,1,2.0,Manufacturing Director,Single,23800.0,4.0,13.0,0.0,23.0,3.0,8.0000000001,0.0,0.0,3.0,3.0,3.0,1.0,3.0
+7.924722222222222,27.0,0,Travel_Rarely,Research & Development,6.0,4.0,Life Sciences,1,2.0,Laboratory Technician,Divorced,37550.0,1.0,19.0,0.0,5.0,2.0,5.0000000001,0.0,3.0,1.0,3.0,3.0,3.0,3.0
+6.286111111111111,53.0,0,Travel_Rarely,Research & Development,9.0,3.0,Life Sciences,0,3.0,Laboratory Technician,Single,48090.0,2.0,18.0,0.0,19.0,2.0,2.0000000001,2.0,2.0,4.0,4.0,3.0,3.0,3.0
+6.128888888888889,38.0,0,Travel_Frequently,Research & Development,25.0,3.0,Medical,1,2.0,Manufacturing Director,Single,163280.0,1.0,17.0,3.0,10.0,2.0,10.0000000001,9.0,9.0,4.0,4.0,3.0,3.0,3.0
+7.776666666666666,36.0,0,Travel_Rarely,Research & Development,24.0,3.0,Life Sciences,0,2.0,Laboratory Technician,Married,61200.0,0.0,19.0,0.0,10.0,2.0,9.0000000001,3.0,4.0,1.0,4.0,3.0,3.0,3.0
+6.5775,42.0,0,Travel_Rarely,Sales,2.0,4.0,Medical,0,2.0,Research Director,Single,45390.0,4.0,17.0,1.0,8.0,5.0,1e-10,0.0,0.0,4.0,3.0,3.0,3.0,3.0
+6.058055555555556,36.0,0,Travel_Frequently,Sales,5.0,2.0,Marketing,0,1.0,Laboratory Technician,Married,47170.0,1.0,19.0,1.0,12.0,3.0,11.0000000001,0.0,7.0,3.0,2.0,2.0,3.0,3.0
+6.509444444444444,50.0,0,Non-Travel,Research & Development,17.0,3.0,Medical,0,1.0,Laboratory Technician,Divorced,42980.0,1.0,20.0,1.0,31.0,6.0,31.0000000001,14.0,7.0,1.0,1.0,3.0,3.0,4.0
+10.73277777777778,19.0,0,Travel_Rarely,Sales,2.0,4.0,Marketing,1,3.0,Laboratory Technician,Single,115570.0,1.0,22.0,0.0,1.0,0.0,1.0000000001,0.0,1.0,2.0,4.0,3.0,3.0,4.0
+7.878333333333333,38.0,0,Travel_Rarely,Research & Development,19.0,3.0,Life Sciences,0,2.0,Sales Executive,Married,68930.0,0.0,17.0,0.0,16.0,3.0,15.0000000001,5.0,8.0,4.0,2.0,3.0,3.0,3.0
+5.988333333333333,30.0,0,Travel_Rarely,Sales,29.0,3.0,Marketing,1,1.0,Sales Executive,Divorced,25460.0,1.0,14.0,1.0,10.0,2.0,10.0000000001,8.0,9.0,3.0,3.0,2.0,3.0,3.0
+8.065833333333334,54.0,0,Non-Travel,Research & Development,9.0,3.0,Life Sciences,1,1.0,Laboratory Technician,Single,196130.0,2.0,17.0,0.0,23.0,5.0,5.0000000001,4.0,4.0,4.0,4.0,3.0,3.0,3.0
+9.938333333333333,27.0,1,Travel_Rarely,Research & Development,2.0,5.0,Life Sciences,0,1.0,Research Scientist,Single,137700.0,1.0,18.0,1.0,8.0,3.0,8.0000000001,7.0,7.0,4.0,3.0,3.0,4.0,3.0
+6.835833333333333,34.0,0,Travel_Rarely,Research & Development,10.0,4.0,Life Sciences,0,1.0,Sales Representative,Single,192460.0,3.0,15.0,1.0,15.0,5.0,13.0000000001,3.0,12.0,4.0,1.0,3.0,3.0,3.0
+7.501666666666667,33.0,0,Travel_Rarely,Research & Development,2.0,2.0,Technical Degree,1,2.0,Laboratory Technician,Single,34790.0,3.0,12.0,0.0,5.0,3.0,3.0000000001,0.0,2.0,2.0,4.0,3.0,3.0,3.0
+9.938611111111111,46.0,0,Travel_Rarely,Sales,3.0,4.0,Marketing,0,1.0,Sales Representative,Divorced,42720.0,7.0,13.0,0.0,24.0,3.0,2.0000000001,2.0,2.0,3.0,4.0,3.0,4.0,3.0
+7.735277777777778,29.0,0,Travel_Frequently,Sales,2.0,4.0,Life Sciences,1,4.0,Healthcare Representative,Divorced,64990.0,1.0,18.0,3.0,10.0,3.0,10.0000000001,2.0,8.0,2.0,4.0,3.0,2.0,3.0
+10.445277777777775,22.0,1,Travel_Rarely,Research & Development,16.0,2.0,Life Sciences,0,2.0,Laboratory Technician,Single,35790.0,1.0,19.0,3.0,1.0,3.0,1.0000000001,0.0,0.0,4.0,2.0,3.0,3.0,3.0
+10.059166666666666,37.0,0,Travel_Rarely,Research & Development,7.0,3.0,Life Sciences,0,1.0,Research Scientist,Married,29290.0,1.0,12.0,0.0,8.0,2.0,8.0000000001,1.0,7.0,2.0,1.0,2.0,1.0,3.0
+7.362222222222222,27.0,0,Travel_Rarely,Research & Development,6.0,2.0,Medical,0,1.0,Healthcare Representative,Married,42600.0,1.0,11.0,2.0,4.0,2.0,4.0000000001,2.0,2.0,4.0,3.0,3.0,3.0,3.0
+10.868611111111113,58.0,0,Non-Travel,Research & Development,2.0,3.0,Life Sciences,1,2.0,Manufacturing Director,Divorced,39680.0,2.0,13.0,2.0,12.0,3.0,5.0000000001,1.0,2.0,4.0,3.0,3.0,2.0,3.0
+6.113333333333333,37.0,0,Travel_Rarely,Research & Development,19.0,2.0,Technical Degree,1,2.0,Sales Executive,Divorced,27030.0,2.0,14.0,0.0,19.0,2.0,10.0000000001,4.0,7.0,3.0,2.0,2.0,3.0,3.0
+7.552222222222222,27.0,0,Travel_Rarely,Sales,8.0,2.0,Marketing,0,3.0,Research Scientist,Divorced,45990.0,1.0,15.0,1.0,1.0,3.0,1.0000000001,0.0,0.0,4.0,1.0,3.0,2.0,3.0
+6.550833333333333,55.0,0,Travel_Rarely,Sales,11.0,3.0,Technical Degree,1,2.0,Manufacturing Director,Married,83810.0,4.0,15.0,1.0,23.0,3.0,19.0000000001,9.0,11.0,4.0,3.0,3.0,3.0,3.0
+7.098055555555556,35.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,1,3.0,Healthcare Representative,Married,167920.0,3.0,12.0,1.0,16.0,3.0,13.0000000001,4.0,8.0,4.0,2.0,3.0,4.0,3.0
+10.63111111111111,28.0,1,Travel_Rarely,Research & Development,10.0,1.0,Medical,1,1.0,Sales Executive,Single,25610.0,1.0,22.0,1.0,2.0,3.0,2.0000000001,2.0,2.0,3.0,3.0,2.0,3.0,4.0
+7.354444444444445,55.0,0,Travel_Rarely,Research & Development,1.0,3.0,Medical,0,1.0,Sales Executive,Single,120310.0,3.0,11.0,0.0,37.0,5.0,10.0000000001,7.0,7.0,1.0,2.0,3.0,3.0,3.0
+7.359166666666667,38.0,0,Travel_Rarely,Research & Development,7.0,4.0,Medical,1,1.0,Sales Executive,Single,66530.0,7.0,20.0,1.0,10.0,2.0,1.0000000001,0.0,0.0,4.0,2.0,3.0,3.0,4.0
+7.038055555555555,31.0,0,Non-Travel,Research & Development,1.0,2.0,Technical Degree,0,2.0,Sales Executive,Married,27930.0,1.0,16.0,0.0,9.0,4.0,9.0000000001,0.0,0.0,4.0,3.0,2.0,3.0,3.0
+10.515,33.0,0,Travel_Rarely,Sales,2.0,3.0,Marketing,0,1.0,Sales Executive,Single,59140.0,3.0,16.0,1.0,6.0,4.0,3.0000000001,0.0,2.0,3.0,1.0,3.0,3.0,3.0
+10.460277777777778,34.0,0,Travel_Frequently,Research & Development,7.0,2.0,Medical,1,4.0,Sales Representative,Divorced,29740.0,1.0,23.0,0.0,5.0,2.0,5.0000000001,2.0,0.0,4.0,3.0,4.0,3.0,4.0
+6.667222222222223,53.0,0,Travel_Rarely,Research & Development,1.0,1.0,Medical,1,1.0,Sales Executive,Single,44250.0,6.0,22.0,1.0,33.0,2.0,12.0000000001,3.0,8.0,4.0,4.0,3.0,4.0,4.0
+6.4783333333333335,22.0,0,Travel_Rarely,Research & Development,2.0,2.0,Life Sciences,1,1.0,Sales Representative,Married,11020.0,6.0,19.0,0.0,4.0,3.0,2.0000000001,2.0,2.0,4.0,4.0,1.0,2.0,3.0
+10.381944444444445,25.0,0,Travel_Rarely,Sales,11.0,3.0,Life Sciences,0,1.0,Laboratory Technician,Married,23110.0,1.0,11.0,1.0,5.0,2.0,5.0000000001,0.0,3.0,3.0,1.0,3.0,3.0,3.0
+9.28138888888889,35.0,1,Travel_Rarely,Sales,24.0,3.0,Medical,1,3.0,Healthcare Representative,Divorced,20700.0,1.0,13.0,3.0,5.0,1.0,4.0000000001,0.0,2.0,3.0,2.0,1.0,2.0,3.0
+7.235555555555556,49.0,0,Travel_Rarely,Research & Development,1.0,4.0,Life Sciences,1,3.0,Healthcare Representative,Married,69490.0,1.0,14.0,1.0,10.0,2.0,9.0000000001,1.0,4.0,3.0,1.0,2.0,3.0,3.0
+7.095555555555555,39.0,0,Travel_Rarely,Sales,2.0,3.0,Life Sciences,1,3.0,Human Resources,Married,21150.0,1.0,18.0,0.0,21.0,3.0,21.0000000001,11.0,8.0,4.0,4.0,3.0,4.0,3.0
+6.999722222222222,39.0,0,Travel_Frequently,Research & Development,12.0,1.0,Medical,1,1.0,Research Scientist,Married,99910.0,1.0,16.0,1.0,8.0,3.0,8.0000000001,0.0,7.0,3.0,3.0,3.0,3.0,3.0
+7.131111111111111,36.0,0,Travel_Frequently,Research & Development,8.0,3.0,Other,0,3.0,Sales Executive,Married,69620.0,4.0,12.0,2.0,4.0,2.0,1.0000000001,0.0,0.0,3.0,4.0,3.0,2.0,3.0
+6.26,29.0,0,Travel_Rarely,Research & Development,3.0,4.0,Other,0,2.0,Sales Representative,Divorced,55930.0,1.0,13.0,1.0,1.0,3.0,1.0000000001,0.0,0.0,4.0,1.0,3.0,3.0,3.0
+7.5744444444444445,32.0,0,Travel_Rarely,Research & Development,6.0,3.0,Technical Degree,1,1.0,Research Scientist,Married,36600.0,3.0,11.0,2.0,10.0,0.0,4.0000000001,0.0,2.0,4.0,3.0,1.0,2.0,3.0
+6.331666666666667,35.0,0,Travel_Rarely,Human Resources,1.0,3.0,Human Resources,1,3.0,Laboratory Technician,Married,136750.0,1.0,15.0,3.0,5.0,5.0,5.0000000001,1.0,0.0,3.0,3.0,3.0,2.0,3.0
+6.149722222222223,25.0,0,Travel_Rarely,Sales,20.0,5.0,Medical,0,2.0,Laboratory Technician,Married,85000.0,4.0,12.0,0.0,6.0,2.0,2.0000000001,1.0,2.0,3.0,2.0,3.0,3.0,3.0
+6.3502777777777775,38.0,0,Travel_Rarely,Research & Development,8.0,2.0,Life Sciences,0,2.0,Sales Executive,Married,32010.0,1.0,11.0,1.0,5.0,3.0,5.0000000001,0.0,4.0,4.0,3.0,3.0,2.0,3.0
+6.078055555555555,27.0,0,Travel_Rarely,Research & Development,2.0,1.0,Life Sciences,1,4.0,Research Scientist,Divorced,44470.0,1.0,13.0,0.0,7.0,4.0,7.0000000001,0.0,7.0,4.0,1.0,3.0,3.0,3.0
+7.328611111111111,33.0,0,Travel_Frequently,Sales,4.0,2.0,Life Sciences,1,4.0,Research Scientist,Single,47880.0,3.0,11.0,1.0,9.0,0.0,7.0000000001,0.0,1.0,2.0,4.0,2.0,3.0,3.0
+6.905833333333334,38.0,0,Travel_Frequently,Sales,9.0,3.0,Marketing,1,1.0,Manufacturing Director,Married,52040.0,3.0,13.0,1.0,10.0,2.0,6.0000000001,1.0,2.0,3.0,3.0,3.0,3.0,3.0
+7.739166666666667,25.0,0,Travel_Rarely,Sales,5.0,3.0,Marketing,0,4.0,Research Scientist,Married,27560.0,1.0,12.0,2.0,5.0,2.0,5.0000000001,0.0,3.0,3.0,1.0,4.0,3.0,3.0
+6.895,34.0,0,Travel_Rarely,Sales,2.0,3.0,Marketing,1,1.0,Sales Representative,Single,103120.0,1.0,12.0,0.0,6.0,2.0,6.0000000001,1.0,3.0,3.0,1.0,3.0,3.0,3.0
+7.63,22.0,0,Travel_Rarely,Research & Development,3.0,3.0,Medical,1,1.0,Laboratory Technician,Married,132690.0,1.0,25.0,1.0,2.0,2.0,2.0000000001,2.0,2.0,3.0,4.0,3.0,3.0,4.0
+7.77,45.0,0,Travel_Rarely,Research & Development,19.0,4.0,Medical,1,1.0,Sales Representative,Married,71190.0,4.0,15.0,0.0,9.0,2.0,5.0000000001,0.0,3.0,3.0,3.0,4.0,3.0,3.0
+8.972777777777777,35.0,1,Travel_Rarely,Research & Development,2.0,4.0,Life Sciences,0,2.0,Research Director,Married,108830.0,3.0,12.0,0.0,8.0,3.0,1.0000000001,0.0,1.0,2.0,3.0,3.0,4.0,3.0
+6.625,28.0,0,Non-Travel,Research & Development,21.0,1.0,Medical,1,3.0,Research Scientist,Single,79780.0,1.0,16.0,2.0,5.0,2.0,5.0000000001,1.0,4.0,3.0,3.0,2.0,3.0,3.0
+10.946388888888889,44.0,1,Travel_Frequently,Research & Development,1.0,2.0,Medical,1,2.0,Research Scientist,Divorced,103330.0,3.0,14.0,1.0,19.0,2.0,1.0000000001,0.0,0.0,4.0,3.0,1.0,2.0,3.0
+7.597222222222222,38.0,1,Travel_Rarely,Research & Development,2.0,3.0,Medical,0,3.0,Sales Executive,Married,49080.0,4.0,19.0,1.0,7.0,3.0,5.0000000001,1.0,4.0,3.0,2.0,3.0,2.0,3.0
+7.949166666666667,27.0,0,Travel_Rarely,Research & Development,6.0,4.0,Life Sciences,1,2.0,Laboratory Technician,Divorced,37550.0,1.0,19.0,0.0,5.0,2.0,5.0000000001,0.0,3.0,1.0,3.0,3.0,3.0,3.0
+8.79,40.0,0,Travel_Rarely,Sales,9.0,3.0,Marketing,1,2.0,Research Scientist,Single,20730.0,0.0,14.0,0.0,5.0,3.0,4.0000000001,2.0,3.0,4.0,4.0,2.0,3.0,3.0
+7.9725,36.0,0,Travel_Rarely,Sales,3.0,2.0,Marketing,1,4.0,Healthcare Representative,Divorced,178610.0,2.0,18.0,0.0,17.0,2.0,7.0000000001,7.0,7.0,3.0,1.0,3.0,2.0,3.0
+6.620555555555556,31.0,1,Travel_Rarely,Research & Development,9.0,1.0,Medical,0,1.0,Sales Representative,Divorced,189470.0,2.0,12.0,2.0,9.0,2.0,3.0000000001,1.0,2.0,2.0,1.0,1.0,2.0,3.0
+5.95,42.0,0,Travel_Frequently,Sales,2.0,2.0,Marketing,1,3.0,Research Director,Married,29560.0,5.0,13.0,0.0,23.0,2.0,20.0000000001,4.0,8.0,3.0,2.0,4.0,3.0,3.0
+10.739722222222222,42.0,0,Travel_Rarely,Research & Development,5.0,3.0,Medical,1,3.0,Sales Executive,Married,53900.0,1.0,14.0,0.0,10.0,3.0,10.0000000001,5.0,8.0,4.0,1.0,2.0,3.0,3.0
+6.368611111111111,31.0,1,Travel_Frequently,Research & Development,29.0,3.0,Life Sciences,0,2.0,Healthcare Representative,Single,25150.0,1.0,14.0,0.0,7.0,3.0,7.0000000001,7.0,7.0,4.0,3.0,1.0,2.0,3.0
+6.177222222222222,40.0,0,Travel_Rarely,Research & Development,11.0,2.0,Technical Degree,1,4.0,Laboratory Technician,Married,52950.0,7.0,18.0,0.0,15.0,4.0,12.0000000001,2.0,11.0,3.0,4.0,2.0,3.0,3.0
+9.948888888888888,35.0,1,Travel_Frequently,Sales,8.0,2.0,Marketing,0,1.0,Laboratory Technician,Divorced,36900.0,1.0,13.0,1.0,10.0,2.0,10.0000000001,7.0,8.0,4.0,2.0,2.0,4.0,3.0
+7.344166666666666,50.0,0,Travel_Rarely,Sales,9.0,3.0,Life Sciences,1,2.0,Research Scientist,Married,23220.0,7.0,25.0,1.0,4.0,0.0,2.0000000001,2.0,2.0,4.0,2.0,3.0,4.0,4.0
+10.3975,36.0,1,Travel_Rarely,Research & Development,1.0,3.0,Medical,1,2.0,Manufacturing Director,Divorced,33760.0,5.0,20.0,0.0,16.0,3.0,2.0000000001,2.0,2.0,2.0,1.0,3.0,3.0,4.0
+7.175555555555556,19.0,1,Travel_Rarely,Research & Development,8.0,2.0,Life Sciences,1,2.0,Sales Executive,Single,159720.0,1.0,21.0,0.0,1.0,2.0,1.0000000001,1.0,0.0,2.0,4.0,2.0,3.0,4.0
+6.735277777777778,18.0,1,Travel_Rarely,Research & Development,1.0,4.0,Life Sciences,1,1.0,Sales Executive,Single,23350.0,1.0,14.0,2.0,0.0,3.0,1e-10,0.0,0.0,3.0,3.0,3.0,2.0,3.0
+6.566111111111111,32.0,0,Travel_Rarely,Sales,10.0,3.0,Marketing,0,1.0,Human Resources,Married,30720.0,5.0,12.0,0.0,9.0,4.0,5.0000000001,1.0,3.0,3.0,3.0,2.0,1.0,3.0
+5.904444444444445,53.0,0,Travel_Rarely,Research & Development,6.0,4.0,Life Sciences,1,1.0,Research Director,Divorced,40310.0,3.0,12.0,1.0,26.0,3.0,7.0000000001,4.0,7.0,4.0,3.0,3.0,2.0,3.0
+9.959166666666668,33.0,1,Travel_Rarely,Research & Development,1.0,2.0,Medical,1,3.0,Laboratory Technician,Single,28710.0,1.0,17.0,3.0,10.0,2.0,10.0000000001,7.0,8.0,4.0,4.0,2.0,3.0,3.0
+7.943333333333333,26.0,1,Travel_Frequently,Research & Development,22.0,4.0,Other,0,1.0,Sales Executive,Married,20240.0,1.0,23.0,0.0,8.0,2.0,8.0000000001,1.0,7.0,3.0,3.0,3.0,3.0,4.0
+6.697222222222222,28.0,0,Travel_Rarely,Research & Development,7.0,3.0,Other,1,1.0,Human Resources,Single,96370.0,1.0,13.0,0.0,5.0,6.0,5.0000000001,0.0,2.0,4.0,4.0,3.0,2.0,3.0
+9.72638888888889,36.0,1,Travel_Rarely,Research & Development,10.0,3.0,Medical,1,3.0,Sales Executive,Married,22320.0,1.0,12.0,1.0,16.0,2.0,16.0000000001,3.0,7.0,3.0,4.0,3.0,3.0,3.0
+7.558055555555556,44.0,0,Travel_Frequently,Research & Development,5.0,3.0,Life Sciences,0,5.0,Manufacturing Director,Married,43820.0,7.0,16.0,2.0,11.0,2.0,1.0000000001,0.0,0.0,1.0,3.0,2.0,3.0,3.0
+6.210833333333333,38.0,0,Travel_Frequently,Research & Development,25.0,3.0,Medical,1,2.0,Manufacturing Director,Single,163280.0,1.0,17.0,3.0,10.0,2.0,10.0000000001,9.0,9.0,4.0,4.0,3.0,3.0,3.0
+6.523055555555556,32.0,0,Travel_Rarely,Research & Development,5.0,4.0,Technical Degree,1,5.0,Research Scientist,Divorced,50030.0,2.0,13.0,0.0,10.0,5.0,9.0000000001,1.0,6.0,4.0,2.0,2.0,3.0,3.0
+10.225833333333334,39.0,0,Travel_Rarely,Research & Development,17.0,4.0,Technical Degree,0,2.0,Healthcare Representative,Married,104750.0,3.0,11.0,1.0,8.0,3.0,5.0000000001,1.0,4.0,1.0,4.0,4.0,3.0,3.0
+8.134444444444444,34.0,0,Non-Travel,Research & Development,7.0,4.0,Medical,0,1.0,Research Scientist,Divorced,196260.0,1.0,21.0,0.0,15.0,5.0,15.0000000001,0.0,7.0,4.0,3.0,3.0,2.0,4.0
+7.761666666666667,29.0,0,Travel_Rarely,Research & Development,23.0,4.0,Life Sciences,0,2.0,Healthcare Representative,Married,45370.0,6.0,18.0,1.0,5.0,5.0,1.0000000001,0.0,0.0,3.0,3.0,2.0,4.0,3.0
+6.798611111111111,28.0,0,Travel_Rarely,Sales,1.0,4.0,Life Sciences,0,2.0,Sales Representative,Single,20330.0,2.0,15.0,1.0,5.0,5.0,3.0000000001,1.0,2.0,4.0,1.0,2.0,3.0,3.0
+6.045555555555556,27.0,0,Travel_Rarely,Research & Development,2.0,1.0,Life Sciences,1,4.0,Research Scientist,Divorced,44470.0,1.0,13.0,0.0,7.0,4.0,7.0000000001,0.0,7.0,4.0,1.0,3.0,3.0,3.0
+6.486944444444444,27.0,0,Travel_Frequently,Research & Development,13.0,4.0,Medical,1,1.0,Manager,Married,44010.0,5.0,13.0,0.0,6.0,4.0,2.0000000001,2.0,0.0,3.0,1.0,3.0,2.0,3.0
+7.967777777777778,45.0,0,Travel_Frequently,Sales,21.0,1.0,Marketing,1,3.0,Research Scientist,Married,22890.0,4.0,13.0,0.0,9.0,3.0,3.0000000001,0.0,2.0,1.0,3.0,3.0,2.0,3.0
+7.3775,33.0,0,Travel_Rarely,Research & Development,16.0,3.0,Medical,0,1.0,Laboratory Technician,Divorced,20900.0,4.0,16.0,0.0,10.0,2.0,6.0000000001,0.0,5.0,1.0,3.0,3.0,3.0,3.0
+9.080277777777775,50.0,0,Travel_Rarely,Sales,5.0,3.0,Medical,1,1.0,Laboratory Technician,Married,54730.0,1.0,19.0,1.0,20.0,2.0,20.0000000001,3.0,8.0,4.0,3.0,3.0,4.0,3.0
+6.873611111111111,34.0,0,Travel_Rarely,Sales,2.0,5.0,Life Sciences,1,4.0,Research Scientist,Married,23230.0,0.0,17.0,0.0,4.0,2.0,3.0000000001,0.0,2.0,3.0,4.0,1.0,3.0,3.0
+9.627777777777778,43.0,0,Travel_Rarely,Research & Development,2.0,2.0,Medical,1,1.0,Laboratory Technician,Single,78610.0,1.0,14.0,2.0,20.0,1.0,20.0000000001,1.0,8.0,1.0,3.0,1.0,3.0,3.0
+7.001666666666667,40.0,0,Travel_Rarely,Research & Development,28.0,3.0,Medical,1,2.0,Laboratory Technician,Divorced,54680.0,0.0,12.0,0.0,22.0,6.0,21.0000000001,3.0,9.0,1.0,3.0,3.0,4.0,3.0
+6.137777777777778,27.0,0,Travel_Rarely,Sales,2.0,3.0,Life Sciences,1,1.0,Sales Executive,Divorced,23670.0,2.0,12.0,1.0,5.0,2.0,5.0000000001,0.0,4.0,4.0,2.0,3.0,3.0,3.0
+6.518055555555556,30.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,1.0,Sales Executive,Single,48500.0,0.0,12.0,1.0,4.0,4.0,3.0000000001,1.0,2.0,4.0,2.0,3.0,3.0,3.0
+7.858888888888889,52.0,1,Travel_Rarely,Research & Development,7.0,1.0,Life Sciences,0,2.0,Research Scientist,Married,47740.0,2.0,18.0,1.0,11.0,2.0,8.0000000001,7.0,7.0,3.0,2.0,2.0,3.0,3.0
+6.060277777777777,27.0,0,Travel_Rarely,Research & Development,11.0,2.0,Medical,1,1.0,Manager,Married,43930.0,1.0,18.0,1.0,8.0,2.0,8.0000000001,0.0,7.0,2.0,2.0,3.0,2.0,3.0
+7.071666666666666,38.0,0,Travel_Rarely,Sales,6.0,3.0,Other,1,2.0,Sales Executive,Married,87890.0,1.0,11.0,3.0,15.0,4.0,15.0000000001,5.0,11.0,4.0,1.0,3.0,3.0,3.0
+7.465277777777778,32.0,0,Travel_Rarely,Research & Development,7.0,3.0,Technical Degree,1,2.0,Healthcare Representative,Single,24720.0,7.0,13.0,0.0,10.0,2.0,7.0000000001,0.0,7.0,1.0,4.0,2.0,3.0,3.0
+6.2941666666666665,43.0,0,Travel_Frequently,Research & Development,14.0,3.0,Medical,0,5.0,Research Director,Divorced,38860.0,1.0,17.0,2.0,9.0,2.0,9.0000000001,0.0,0.0,3.0,3.0,4.0,3.0,3.0
+10.855555555555556,57.0,0,Travel_Rarely,Research & Development,3.0,3.0,Life Sciences,1,2.0,Manufacturing Director,Divorced,20130.0,3.0,14.0,1.0,12.0,5.0,5.0000000001,1.0,4.0,3.0,4.0,1.0,3.0,3.0
+9.053333333333333,34.0,1,Non-Travel,Research & Development,7.0,3.0,Life Sciences,1,1.0,Sales Representative,Single,56170.0,8.0,25.0,1.0,9.0,3.0,5.0000000001,0.0,4.0,1.0,4.0,2.0,3.0,4.0
+7.656666666666666,28.0,0,Travel_Rarely,Research & Development,10.0,3.0,Life Sciences,0,3.0,Manager,Divorced,135910.0,5.0,20.0,1.0,6.0,2.0,2.0000000001,2.0,2.0,3.0,3.0,3.0,3.0,4.0
+7.533611111111111,27.0,0,Travel_Rarely,Research & Development,4.0,3.0,Technical Degree,1,2.0,Manufacturing Director,Single,51710.0,0.0,20.0,1.0,9.0,1.0,8.0000000001,0.0,7.0,1.0,3.0,3.0,2.0,4.0
+9.974444444444444,22.0,0,Non-Travel,Research & Development,8.0,3.0,Life Sciences,0,3.0,Sales Executive,Divorced,108510.0,1.0,16.0,1.0,1.0,2.0,1.0000000001,0.0,0.0,4.0,4.0,2.0,4.0,3.0
+5.916388888888889,35.0,0,Travel_Frequently,Research & Development,19.0,3.0,Life Sciences,0,1.0,Sales Executive,Single,21450.0,1.0,13.0,0.0,10.0,6.0,10.0000000001,0.0,8.0,3.0,3.0,4.0,2.0,3.0
+7.671388888888889,41.0,0,Travel_Rarely,Research & Development,24.0,1.0,Life Sciences,1,1.0,Research Director,Married,26610.0,7.0,14.0,1.0,22.0,2.0,18.0000000001,11.0,8.0,2.0,3.0,3.0,3.0,3.0
+8.476111111111111,33.0,1,Travel_Rarely,Research & Development,10.0,3.0,Life Sciences,0,4.0,Research Director,Married,67280.0,7.0,22.0,0.0,15.0,2.0,7.0000000001,7.0,7.0,2.0,3.0,4.0,2.0,4.0
+7.200277777777778,31.0,0,Travel_Rarely,Research & Development,10.0,4.0,Medical,0,3.0,Sales Executive,Married,61250.0,0.0,13.0,1.0,3.0,3.0,2.0000000001,1.0,2.0,1.0,3.0,3.0,3.0,3.0
+7.611944444444444,41.0,0,Travel_Rarely,Sales,2.0,2.0,Medical,1,1.0,Healthcare Representative,Married,23870.0,3.0,17.0,1.0,12.0,1.0,5.0000000001,1.0,0.0,4.0,4.0,3.0,1.0,3.0
+7.548055555555556,37.0,0,Travel_Rarely,Sales,5.0,1.0,Marketing,1,1.0,Research Scientist,Single,27050.0,1.0,11.0,0.0,17.0,2.0,17.0000000001,5.0,7.0,4.0,4.0,3.0,3.0,3.0
+7.488333333333333,28.0,0,Travel_Rarely,Sales,1.0,2.0,Life Sciences,1,3.0,Manager,Married,44770.0,1.0,15.0,0.0,3.0,6.0,3.0000000001,1.0,2.0,3.0,1.0,3.0,3.0,3.0
+7.161111111111111,31.0,0,Travel_Frequently,Research & Development,7.0,3.0,Medical,1,2.0,Research Scientist,Single,36170.0,7.0,21.0,1.0,10.0,5.0,5.0000000001,0.0,3.0,4.0,1.0,3.0,3.0,4.0
+7.46,21.0,1,Travel_Rarely,Sales,1.0,2.0,Marketing,1,5.0,Healthcare Representative,Single,27910.0,1.0,14.0,0.0,1.0,3.0,1.0000000001,1.0,0.0,2.0,2.0,3.0,4.0,3.0
+6.674444444444444,35.0,0,Non-Travel,Sales,10.0,1.0,Life Sciences,0,2.0,Research Director,Divorced,43230.0,2.0,18.0,3.0,15.0,3.0,7.0000000001,1.0,7.0,2.0,4.0,3.0,3.0,3.0
+7.739722222222222,41.0,0,Travel_Rarely,Research & Development,3.0,3.0,Life Sciences,1,3.0,Research Scientist,Single,35970.0,3.0,13.0,1.0,11.0,2.0,3.0000000001,1.0,2.0,2.0,2.0,1.0,1.0,3.0
+7.81,54.0,0,Travel_Rarely,Research & Development,14.0,3.0,Other,1,3.0,Research Scientist,Married,66740.0,3.0,17.0,1.0,9.0,2.0,4.0000000001,2.0,3.0,1.0,3.0,2.0,3.0,3.0
+9.767777777777775,35.0,0,Non-Travel,Research & Development,1.0,1.0,Life Sciences,1,2.0,Sales Executive,Married,136100.0,4.0,22.0,2.0,16.0,4.0,13.0000000001,4.0,12.0,3.0,4.0,2.0,2.0,4.0
+9.525,36.0,0,Travel_Rarely,Research & Development,27.0,3.0,Technical Degree,0,4.0,Research Scientist,Married,50560.0,7.0,12.0,0.0,15.0,2.0,12.0000000001,5.0,7.0,4.0,1.0,3.0,2.0,3.0
+6.646944444444444,30.0,0,Non-Travel,Research & Development,2.0,4.0,Life Sciences,0,3.0,Research Scientist,Married,51310.0,0.0,15.0,1.0,10.0,2.0,9.0000000001,7.0,8.0,3.0,1.0,3.0,3.0,3.0
+8.621944444444445,37.0,0,Travel_Rarely,Research & Development,7.0,2.0,Medical,1,1.0,Manufacturing Director,Married,20110.0,5.0,13.0,0.0,16.0,4.0,5.0000000001,0.0,4.0,4.0,1.0,3.0,4.0,3.0
+8.498055555555556,35.0,0,Travel_Rarely,Sales,4.0,4.0,Marketing,1,1.0,Laboratory Technician,Married,180410.0,3.0,20.0,1.0,15.0,3.0,7.0000000001,1.0,7.0,3.0,1.0,3.0,2.0,4.0
+7.603055555555556,34.0,0,Travel_Rarely,Research & Development,1.0,4.0,Other,1,4.0,Laboratory Technician,Single,41980.0,1.0,22.0,1.0,16.0,2.0,16.0000000001,2.0,10.0,1.0,3.0,3.0,2.0,4.0
+6.696944444444444,29.0,1,Travel_Rarely,Sales,10.0,2.0,Life Sciences,0,2.0,Research Scientist,Married,15550.0,1.0,19.0,2.0,10.0,2.0,10.0000000001,1.0,9.0,2.0,4.0,2.0,3.0,3.0
+6.879444444444444,44.0,0,Travel_Rarely,Research & Development,5.0,1.0,Other,1,3.0,Research Scientist,Single,52280.0,1.0,13.0,0.0,6.0,2.0,5.0000000001,1.0,3.0,4.0,2.0,2.0,4.0,3.0
+7.671944444444445,26.0,0,Travel_Frequently,Research & Development,3.0,3.0,Medical,1,2.0,Laboratory Technician,Divorced,139640.0,1.0,11.0,2.0,5.0,1.0,5.0000000001,1.0,3.0,1.0,3.0,3.0,2.0,3.0
+9.2175,55.0,0,Travel_Rarely,Research & Development,14.0,4.0,Life Sciences,0,1.0,Sales Executive,Single,55380.0,0.0,17.0,0.0,37.0,2.0,36.0000000001,4.0,13.0,4.0,1.0,3.0,3.0,3.0
+7.136111111111111,35.0,0,Travel_Rarely,Research & Development,1.0,4.0,Other,0,2.0,Research Director,Married,81200.0,0.0,13.0,0.0,10.0,2.0,9.0000000001,0.0,0.0,4.0,4.0,3.0,2.0,3.0
+6.667222222222223,30.0,1,Travel_Frequently,Research & Development,10.0,3.0,Life Sciences,0,1.0,Human Resources,Divorced,22070.0,6.0,14.0,0.0,6.0,4.0,4.0000000001,1.0,2.0,3.0,4.0,2.0,3.0,3.0
+9.691944444444443,24.0,0,Travel_Rarely,Research & Development,5.0,1.0,Other,1,1.0,Manufacturing Director,Married,43350.0,1.0,15.0,1.0,5.0,5.0,5.0000000001,0.0,3.0,4.0,3.0,3.0,3.0,3.0
+6.309444444444445,44.0,0,Travel_Rarely,Sales,24.0,5.0,Medical,0,1.0,Sales Executive,Single,25660.0,9.0,11.0,1.0,10.0,3.0,5.0000000001,2.0,3.0,4.0,2.0,2.0,3.0,3.0
+9.201944444444443,46.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,1.0,Healthcare Representative,Married,88370.0,2.0,18.0,0.0,15.0,3.0,3.0000000001,1.0,2.0,3.0,4.0,3.0,2.0,3.0
+9.616666666666667,50.0,0,Travel_Frequently,Research & Development,3.0,4.0,Medical,1,4.0,Research Scientist,Married,61420.0,3.0,13.0,2.0,28.0,3.0,8.0000000001,0.0,7.0,1.0,2.0,2.0,2.0,3.0
+5.950555555555556,36.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,0,2.0,Healthcare Representative,Single,10510.0,2.0,14.0,0.0,15.0,2.0,4.0000000001,1.0,3.0,1.0,2.0,3.0,3.0,3.0
+7.986666666666666,35.0,0,Travel_Rarely,Research & Development,9.0,3.0,Medical,0,2.0,Sales Executive,Single,131420.0,1.0,25.0,2.0,10.0,4.0,10.0000000001,0.0,8.0,2.0,3.0,3.0,3.0,4.0
+6.718611111111112,36.0,0,Non-Travel,Sales,28.0,1.0,Life Sciences,1,2.0,Research Scientist,Divorced,48980.0,4.0,13.0,1.0,12.0,3.0,7.0000000001,0.0,7.0,1.0,4.0,3.0,3.0,3.0
+5.940555555555555,50.0,0,Travel_Rarely,Sales,8.0,4.0,Life Sciences,1,1.0,Research Scientist,Divorced,96670.0,3.0,23.0,0.0,28.0,2.0,10.0000000001,1.0,6.0,1.0,2.0,2.0,2.0,4.0
+9.91388888888889,42.0,1,Travel_Frequently,Research & Development,10.0,1.0,Life Sciences,0,1.0,Sales Executive,Divorced,50100.0,6.0,21.0,3.0,7.0,3.0,2.0000000001,2.0,2.0,3.0,3.0,3.0,3.0,4.0
+7.737222222222222,32.0,1,Travel_Rarely,Research & Development,5.0,3.0,Medical,1,1.0,Healthcare Representative,Married,34770.0,1.0,11.0,0.0,14.0,2.0,14.0000000001,9.0,8.0,4.0,4.0,2.0,4.0,3.0
+7.565277777777778,34.0,0,Travel_Rarely,Research & Development,28.0,3.0,Technical Degree,1,1.0,Laboratory Technician,Divorced,107930.0,0.0,11.0,3.0,3.0,1.0,2.0000000001,1.0,2.0,2.0,4.0,3.0,2.0,3.0
+6.062222222222222,30.0,0,Travel_Rarely,Research & Development,1.0,2.0,Life Sciences,1,3.0,Sales Executive,Divorced,102210.0,0.0,19.0,1.0,6.0,2.0,5.0000000001,1.0,3.0,3.0,3.0,4.0,3.0,3.0
+9.232222222222225,43.0,0,Travel_Rarely,Sales,1.0,3.0,Marketing,0,2.0,Manufacturing Director,Married,29320.0,5.0,24.0,0.0,22.0,3.0,17.0000000001,1.0,9.0,4.0,4.0,3.0,3.0,4.0
+7.383888888888888,32.0,0,Travel_Rarely,Research & Development,7.0,3.0,Life Sciences,0,3.0,Laboratory Technician,Single,44030.0,2.0,20.0,0.0,10.0,3.0,5.0000000001,0.0,0.0,3.0,4.0,4.0,2.0,4.0
+6.3741666666666665,34.0,0,Travel_Rarely,Research & Development,26.0,3.0,Medical,1,1.0,Laboratory Technician,Single,52370.0,1.0,19.0,1.0,10.0,3.0,10.0000000001,5.0,7.0,4.0,4.0,3.0,2.0,3.0
+7.547777777777778,30.0,0,Travel_Rarely,Sales,8.0,2.0,Technical Degree,1,1.0,Sales Representative,Married,63920.0,1.0,21.0,1.0,11.0,2.0,11.0000000001,10.0,8.0,3.0,4.0,3.0,4.0,4.0
+6.6594444444444445,31.0,0,Travel_Rarely,Research & Development,16.0,4.0,Life Sciences,1,3.0,Human Resources,Single,42440.0,9.0,13.0,0.0,8.0,3.0,3.0000000001,0.0,2.0,4.0,2.0,3.0,3.0,3.0
+7.369722222222222,36.0,0,Travel_Rarely,Human Resources,1.0,3.0,Human Resources,1,1.0,Research Scientist,Single,23770.0,6.0,13.0,2.0,15.0,3.0,1.0000000001,0.0,0.0,2.0,3.0,3.0,3.0,3.0
+9.26388888888889,55.0,0,Travel_Rarely,Research & Development,14.0,4.0,Life Sciences,0,1.0,Sales Executive,Single,55380.0,0.0,17.0,0.0,37.0,2.0,36.0000000001,4.0,13.0,4.0,1.0,3.0,3.0,3.0
+10.591944444444444,33.0,0,Travel_Rarely,Research & Development,9.0,3.0,Medical,0,2.0,Manufacturing Director,Married,28990.0,1.0,17.0,0.0,15.0,3.0,15.0000000001,5.0,7.0,2.0,3.0,3.0,2.0,3.0
+6.846666666666667,35.0,0,Travel_Rarely,Sales,6.0,4.0,Medical,0,2.0,Manager,Single,94190.0,1.0,24.0,1.0,6.0,5.0,6.0000000001,1.0,1.0,3.0,1.0,2.0,2.0,4.0
+7.839166666666666,26.0,0,Travel_Rarely,Research & Development,17.0,4.0,Life Sciences,1,2.0,Sales Executive,Married,48770.0,1.0,13.0,1.0,8.0,5.0,8.0000000001,5.0,7.0,3.0,3.0,3.0,4.0,3.0
+8.836666666666666,54.0,0,Travel_Rarely,Research & Development,18.0,4.0,Medical,0,2.0,Laboratory Technician,Divorced,49630.0,9.0,15.0,1.0,9.0,2.0,5.0000000001,1.0,4.0,4.0,1.0,3.0,3.0,3.0
+9.2825,26.0,0,Travel_Rarely,Research & Development,26.0,2.0,Life Sciences,1,2.0,Human Resources,Married,68120.0,1.0,13.0,0.0,1.0,2.0,1.0000000001,1.0,0.0,2.0,3.0,2.0,2.0,3.0
+6.336388888888889,34.0,0,Travel_Rarely,Research & Development,2.0,5.0,Technical Degree,1,2.0,Healthcare Representative,Single,49990.0,3.0,12.0,2.0,10.0,2.0,5.0000000001,4.0,3.0,2.0,3.0,3.0,4.0,3.0
+6.751666666666667,32.0,0,Travel_Rarely,Research & Development,10.0,4.0,Other,0,1.0,Sales Executive,Married,42330.0,1.0,11.0,0.0,10.0,5.0,10.0000000001,0.0,8.0,3.0,4.0,4.0,3.0,3.0
+7.57,26.0,0,Travel_Frequently,Sales,11.0,3.0,Marketing,1,2.0,Healthcare Representative,Single,22670.0,1.0,19.0,3.0,7.0,2.0,7.0000000001,0.0,7.0,3.0,1.0,3.0,2.0,3.0
+9.95861111111111,50.0,0,Travel_Frequently,Research & Development,6.0,3.0,Medical,1,1.0,Manager,Single,23420.0,1.0,12.0,1.0,32.0,2.0,32.0000000001,13.0,9.0,3.0,4.0,3.0,2.0,3.0
+8.8725,34.0,0,Travel_Frequently,Research & Development,9.0,4.0,Life Sciences,0,2.0,Manufacturing Director,Married,26250.0,1.0,12.0,3.0,16.0,4.0,15.0000000001,6.0,11.0,3.0,4.0,3.0,3.0,3.0
+8.34,35.0,0,Travel_Frequently,Sales,7.0,2.0,Life Sciences,1,2.0,Manufacturing Director,Married,32290.0,1.0,25.0,0.0,10.0,2.0,10.0000000001,0.0,2.0,3.0,3.0,4.0,2.0,4.0
+7.114166666666667,35.0,0,Travel_Rarely,Research & Development,1.0,4.0,Other,0,2.0,Research Director,Married,81200.0,0.0,13.0,0.0,10.0,2.0,9.0000000001,0.0,0.0,4.0,4.0,3.0,2.0,3.0
+7.814166666666667,36.0,0,Travel_Rarely,Research & Development,24.0,3.0,Life Sciences,0,2.0,Laboratory Technician,Married,61200.0,0.0,19.0,0.0,10.0,2.0,9.0000000001,3.0,4.0,1.0,4.0,3.0,3.0,3.0
+7.745555555555556,47.0,0,Travel_Rarely,Research & Development,1.0,3.0,Technical Degree,1,5.0,Manufacturing Director,Divorced,135700.0,5.0,16.0,2.0,20.0,2.0,5.0000000001,0.0,4.0,1.0,4.0,3.0,2.0,3.0
+6.918611111111111,45.0,0,Travel_Rarely,Research & Development,26.0,1.0,Medical,0,3.0,Healthcare Representative,Divorced,27940.0,3.0,19.0,1.0,8.0,2.0,5.0000000001,0.0,2.0,4.0,4.0,3.0,3.0,3.0
+6.4325,38.0,0,Travel_Rarely,Research & Development,1.0,3.0,Medical,0,1.0,Human Resources,Married,38160.0,1.0,13.0,2.0,7.0,2.0,7.0000000001,5.0,0.0,3.0,3.0,4.0,2.0,3.0
+9.915555555555557,58.0,0,Travel_Rarely,Sales,5.0,3.0,Marketing,1,5.0,Sales Representative,Married,21540.0,4.0,21.0,1.0,29.0,3.0,1.0000000001,0.0,0.0,4.0,4.0,2.0,3.0,4.0
+9.78138888888889,40.0,1,Travel_Rarely,Sales,8.0,1.0,Other,1,1.0,Laboratory Technician,Single,59850.0,2.0,13.0,3.0,9.0,1.0,5.0000000001,1.0,0.0,4.0,2.0,3.0,2.0,3.0
+9.482222222222225,50.0,0,Travel_Rarely,Sales,2.0,4.0,Marketing,0,4.0,Research Scientist,Divorced,83760.0,5.0,14.0,3.0,29.0,2.0,27.0000000001,13.0,8.0,2.0,3.0,2.0,3.0,3.0
+6.939444444444445,52.0,0,Travel_Rarely,Research & Development,5.0,4.0,Other,1,1.0,Laboratory Technician,Married,29110.0,2.0,17.0,2.0,26.0,3.0,9.0000000001,7.0,8.0,4.0,4.0,2.0,3.0,3.0
+9.049166666666666,31.0,1,Travel_Frequently,Research & Development,3.0,1.0,Life Sciences,1,1.0,Sales Executive,Single,71040.0,1.0,14.0,1.0,3.0,3.0,3.0000000001,2.0,2.0,4.0,2.0,4.0,3.0,3.0
+8.450555555555555,30.0,1,Travel_Rarely,Research & Development,10.0,4.0,Life Sciences,0,2.0,Research Scientist,Single,55620.0,5.0,13.0,0.0,8.0,3.0,5.0000000001,0.0,4.0,4.0,1.0,3.0,2.0,3.0
+7.759444444444444,49.0,0,Travel_Rarely,Sales,4.0,2.0,Life Sciences,1,2.0,Research Director,Married,108450.0,3.0,24.0,0.0,27.0,4.0,4.0000000001,1.0,2.0,1.0,2.0,3.0,2.0,4.0
+6.553888888888889,60.0,0,Travel_Rarely,Research & Development,8.0,2.0,Life Sciences,0,5.0,Laboratory Technician,Single,53290.0,8.0,20.0,0.0,10.0,3.0,2.0000000001,2.0,2.0,1.0,1.0,3.0,4.0,4.0
+8.96888888888889,56.0,1,Travel_Rarely,Research & Development,15.0,3.0,Life Sciences,1,2.0,Laboratory Technician,Married,33120.0,9.0,19.0,0.0,7.0,1.0,5.0000000001,4.0,3.0,2.0,2.0,3.0,1.0,3.0
+5.969722222222222,45.0,0,Non-Travel,Research & Development,1.0,3.0,Medical,0,2.0,Human Resources,Married,125040.0,1.0,12.0,1.0,15.0,2.0,15.0000000001,4.0,12.0,2.0,3.0,3.0,3.0,3.0
+10.403333333333334,28.0,0,Travel_Frequently,Research & Development,2.0,3.0,Other,0,1.0,Manager,Single,55770.0,0.0,19.0,0.0,5.0,3.0,4.0000000001,0.0,2.0,4.0,3.0,2.0,3.0,3.0
+5.940277777777778,36.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,0,2.0,Healthcare Representative,Single,10510.0,2.0,14.0,0.0,15.0,2.0,4.0000000001,1.0,3.0,1.0,2.0,3.0,3.0,3.0
+9.160555555555556,36.0,0,Travel_Frequently,Sales,21.0,3.0,Life Sciences,1,2.0,Human Resources,Married,23290.0,3.0,15.0,0.0,9.0,2.0,3.0000000001,0.0,2.0,1.0,1.0,3.0,3.0,3.0
+8.387222222222222,45.0,0,Travel_Rarely,Research & Development,17.0,2.0,Medical,1,2.0,Laboratory Technician,Married,79910.0,0.0,13.0,2.0,21.0,2.0,20.0000000001,4.0,10.0,3.0,4.0,3.0,2.0,3.0
+7.61,31.0,1,Travel_Frequently,Research & Development,10.0,1.0,Life Sciences,0,1.0,Research Scientist,Single,41890.0,0.0,23.0,1.0,6.0,3.0,5.0000000001,1.0,4.0,3.0,2.0,4.0,2.0,4.0
+6.932222222222222,43.0,0,Travel_Rarely,Research & Development,1.0,1.0,Other,1,1.0,Manager,Divorced,46780.0,5.0,25.0,1.0,8.0,0.0,6.0000000001,0.0,2.0,4.0,2.0,3.0,4.0,4.0
+7.841944444444445,41.0,0,Travel_Rarely,Sales,1.0,4.0,Life Sciences,0,1.0,Research Director,Married,52570.0,1.0,14.0,0.0,10.0,2.0,10.0000000001,0.0,8.0,2.0,3.0,3.0,4.0,3.0
+6.304722222222222,22.0,0,Travel_Rarely,Sales,29.0,4.0,Technical Degree,1,1.0,Sales Executive,Married,46630.0,0.0,13.0,1.0,3.0,1.0,2.0000000001,2.0,1.0,3.0,4.0,3.0,3.0,3.0
+10.616944444444444,39.0,1,Travel_Rarely,Research & Development,10.0,4.0,Life Sciences,0,4.0,Human Resources,Married,66960.0,7.0,11.0,0.0,8.0,3.0,2.0000000001,2.0,2.0,4.0,1.0,1.0,3.0,3.0
+10.043055555555556,51.0,0,Travel_Rarely,Research & Development,8.0,4.0,Life Sciences,0,5.0,Sales Representative,Single,24500.0,0.0,12.0,1.0,11.0,2.0,10.0000000001,1.0,0.0,3.0,4.0,1.0,3.0,3.0
+7.589722222222222,43.0,0,Travel_Frequently,Research & Development,1.0,3.0,Medical,1,1.0,Laboratory Technician,Married,52650.0,4.0,11.0,1.0,12.0,4.0,5.0000000001,2.0,2.0,4.0,4.0,2.0,3.0,3.0
+6.456111111111111,42.0,0,Non-Travel,Research & Development,11.0,3.0,Medical,1,1.0,Manager,Married,178560.0,3.0,18.0,0.0,10.0,2.0,6.0000000001,3.0,3.0,3.0,3.0,2.0,3.0,3.0
+6.535833333333334,42.0,0,Non-Travel,Research & Development,10.0,4.0,Life Sciences,0,2.0,Research Scientist,Single,61510.0,1.0,13.0,1.0,20.0,3.0,20.0000000001,3.0,7.0,4.0,3.0,3.0,3.0,3.0
+5.866666666666666,36.0,0,Travel_Rarely,Research & Development,2.0,2.0,Technical Degree,1,3.0,Sales Executive,Married,199730.0,6.0,12.0,0.0,10.0,2.0,3.0000000001,0.0,2.0,1.0,3.0,2.0,3.0,3.0
+7.676944444444445,34.0,0,Travel_Rarely,Research & Development,12.0,2.0,Technical Degree,1,2.0,Human Resources,Divorced,88650.0,1.0,11.0,1.0,1.0,0.0,1.0000000001,1.0,0.0,2.0,2.0,3.0,3.0,3.0
+7.3125,40.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,1.0,Manufacturing Director,Divorced,27180.0,1.0,14.0,1.0,9.0,4.0,9.0000000001,4.0,7.0,3.0,4.0,3.0,2.0,3.0
+6.778888888888889,36.0,0,Non-Travel,Sales,28.0,1.0,Life Sciences,1,2.0,Research Scientist,Divorced,48980.0,4.0,13.0,1.0,12.0,3.0,7.0000000001,0.0,7.0,1.0,4.0,3.0,3.0,3.0
+6.189166666666667,37.0,0,Travel_Rarely,Sales,6.0,1.0,Technical Degree,1,1.0,Laboratory Technician,Single,46390.0,2.0,12.0,2.0,12.0,3.0,5.0000000001,1.0,3.0,3.0,4.0,3.0,3.0,3.0
+10.868055555555555,38.0,0,Travel_Rarely,Sales,10.0,3.0,Medical,1,4.0,Laboratory Technician,Married,181720.0,6.0,12.0,2.0,6.0,5.0,1.0000000001,0.0,1.0,4.0,3.0,1.0,3.0,3.0
+7.838055555555556,38.0,0,Travel_Rarely,Sales,4.0,4.0,Life Sciences,1,1.0,Manufacturing Director,Single,70820.0,1.0,14.0,0.0,2.0,3.0,2.0000000001,2.0,1.0,3.0,4.0,3.0,4.0,3.0
+6.9525,38.0,0,Travel_Rarely,Sales,14.0,2.0,Marketing,0,1.0,Sales Executive,Married,41710.0,0.0,23.0,0.0,10.0,4.0,9.0000000001,7.0,7.0,3.0,2.0,3.0,4.0,4.0
+6.091388888888889,34.0,0,Travel_Rarely,Research & Development,9.0,2.0,Medical,1,1.0,Sales Executive,Married,32800.0,5.0,13.0,0.0,7.0,3.0,5.0000000001,0.0,2.0,4.0,2.0,2.0,3.0,3.0
+5.9783333333333335,33.0,0,Travel_Frequently,Research & Development,9.0,2.0,Medical,0,1.0,Sales Executive,Married,20970.0,1.0,14.0,2.0,10.0,5.0,10.0000000001,0.0,1.0,2.0,3.0,2.0,2.0,3.0
+9.445277777777775,50.0,0,Travel_Rarely,Research & Development,1.0,3.0,Technical Degree,0,2.0,Sales Executive,Married,134960.0,3.0,18.0,1.0,22.0,3.0,12.0000000001,1.0,5.0,4.0,3.0,3.0,3.0,3.0
+6.480555555555555,43.0,0,Travel_Rarely,Sales,9.0,5.0,Technical Degree,0,1.0,Research Director,Divorced,12740.0,1.0,19.0,0.0,6.0,3.0,5.0000000001,1.0,4.0,4.0,3.0,2.0,2.0,3.0
+8.383888888888889,53.0,0,Travel_Rarely,Research & Development,11.0,4.0,Life Sciences,0,2.0,Research Scientist,Married,21480.0,3.0,11.0,0.0,21.0,2.0,5.0000000001,1.0,3.0,3.0,3.0,2.0,3.0,3.0
+7.935277777777777,23.0,1,Travel_Rarely,Sales,2.0,3.0,Medical,0,4.0,Manufacturing Director,Married,45590.0,1.0,18.0,1.0,1.0,2.0,1e-10,0.0,0.0,3.0,1.0,3.0,2.0,3.0
+6.677222222222222,20.0,0,Travel_Rarely,Research & Development,6.0,3.0,Medical,1,5.0,Research Director,Single,83920.0,1.0,17.0,0.0,2.0,5.0,2.0000000001,1.0,2.0,1.0,3.0,2.0,3.0,3.0
+7.189166666666667,40.0,0,Travel_Rarely,Research & Development,1.0,4.0,Life Sciences,1,2.0,Manager,Divorced,199430.0,2.0,13.0,1.0,15.0,3.0,7.0000000001,7.0,7.0,2.0,1.0,3.0,3.0,3.0
+6.346111111111111,30.0,0,Travel_Rarely,Research & Development,11.0,4.0,Medical,1,2.0,Laboratory Technician,Divorced,171690.0,1.0,17.0,2.0,1.0,2.0,1.0000000001,0.0,0.0,4.0,3.0,3.0,3.0,3.0
+9.176944444444445,23.0,1,Travel_Rarely,Research & Development,12.0,2.0,Medical,1,2.0,Research Scientist,Divorced,75250.0,1.0,14.0,2.0,3.0,2.0,3.0000000001,0.0,2.0,3.0,4.0,3.0,3.0,3.0
+6.053333333333334,25.0,0,Travel_Frequently,Sales,5.0,1.0,Marketing,1,4.0,Manufacturing Director,Divorced,139730.0,1.0,14.0,0.0,7.0,3.0,7.0000000001,0.0,7.0,4.0,3.0,3.0,2.0,3.0
+7.118888888888889,50.0,0,Travel_Frequently,Research & Development,25.0,4.0,Life Sciences,0,2.0,Healthcare Representative,Married,32020.0,2.0,24.0,1.0,32.0,2.0,2.0000000001,2.0,2.0,4.0,1.0,3.0,3.0,4.0
+7.248333333333333,37.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,1,1.0,Laboratory Technician,Single,170680.0,3.0,23.0,0.0,8.0,6.0,4.0000000001,0.0,1.0,4.0,2.0,2.0,3.0,4.0
+7.059166666666667,38.0,0,Travel_Rarely,Sales,6.0,3.0,Other,1,2.0,Sales Executive,Married,87890.0,1.0,11.0,3.0,15.0,4.0,15.0000000001,5.0,11.0,4.0,1.0,3.0,3.0,3.0
+8.180833333333334,50.0,1,Travel_Frequently,Research & Development,4.0,2.0,Medical,1,4.0,Sales Representative,Married,44240.0,3.0,14.0,1.0,18.0,2.0,4.0000000001,1.0,3.0,2.0,3.0,3.0,2.0,3.0
+6.776944444444444,27.0,0,Travel_Frequently,Sales,24.0,3.0,Life Sciences,1,4.0,Healthcare Representative,Single,31720.0,1.0,20.0,1.0,9.0,1.0,9.0000000001,1.0,7.0,4.0,3.0,3.0,3.0,4.0
+9.749444444444444,38.0,0,Travel_Rarely,Research & Development,1.0,3.0,Medical,0,3.0,Manager,Single,96190.0,4.0,13.0,1.0,10.0,2.0,1.0000000001,0.0,0.0,3.0,3.0,4.0,3.0,3.0
+6.660277777777778,37.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,1,2.0,Healthcare Representative,Married,53460.0,4.0,11.0,0.0,7.0,2.0,5.0000000001,0.0,1.0,3.0,4.0,4.0,3.0,3.0
+5.946666666666666,24.0,0,Travel_Rarely,Research & Development,3.0,3.0,Life Sciences,0,1.0,Research Scientist,Divorced,14160.0,1.0,15.0,1.0,6.0,3.0,6.0000000001,1.0,2.0,2.0,1.0,4.0,2.0,3.0
+6.74,45.0,0,Travel_Rarely,Research & Development,2.0,3.0,Medical,0,1.0,Sales Executive,Married,50980.0,3.0,14.0,1.0,8.0,4.0,2.0000000001,0.0,2.0,1.0,4.0,2.0,3.0,3.0
+7.365555555555556,38.0,0,Travel_Rarely,Research & Development,11.0,2.0,Life Sciences,1,1.0,Sales Executive,Married,198450.0,7.0,11.0,1.0,7.0,3.0,1e-10,0.0,0.0,4.0,3.0,2.0,3.0,3.0
+9.5475,49.0,0,Non-Travel,Research & Development,23.0,1.0,Other,0,2.0,Sales Executive,Divorced,92410.0,1.0,19.0,1.0,7.0,5.0,7.0000000001,1.0,7.0,4.0,4.0,3.0,3.0,3.0
+9.240277777777775,35.0,0,Travel_Rarely,Sales,12.0,2.0,Life Sciences,0,2.0,Sales Executive,Single,23180.0,3.0,19.0,0.0,10.0,4.0,5.0000000001,0.0,4.0,1.0,3.0,3.0,4.0,3.0
+6.276944444444444,29.0,0,Non-Travel,Sales,22.0,4.0,Marketing,1,2.0,Human Resources,Married,57360.0,1.0,22.0,0.0,4.0,1.0,4.0000000001,0.0,2.0,4.0,3.0,2.0,2.0,4.0
+7.062777777777778,31.0,0,Travel_Rarely,Research & Development,24.0,1.0,Medical,1,3.0,Laboratory Technician,Married,44400.0,1.0,13.0,1.0,4.0,2.0,4.0000000001,3.0,2.0,4.0,1.0,3.0,3.0,3.0
+7.3694444444444445,45.0,0,Travel_Rarely,Research & Development,7.0,2.0,Other,1,1.0,Human Resources,Married,56610.0,3.0,12.0,0.0,26.0,2.0,9.0000000001,1.0,1.0,4.0,4.0,4.0,2.0,3.0
+9.556111111111113,38.0,0,Travel_Rarely,Research & Development,2.0,4.0,Life Sciences,0,3.0,Sales Executive,Married,50790.0,3.0,11.0,0.0,10.0,3.0,5.0000000001,0.0,2.0,4.0,3.0,4.0,3.0,3.0
+10.265,28.0,1,Travel_Rarely,Research & Development,15.0,4.0,Life Sciences,1,2.0,Sales Executive,Married,41970.0,1.0,13.0,0.0,1.0,3.0,1.0000000001,0.0,0.0,3.0,4.0,2.0,1.0,3.0
+6.274444444444445,28.0,1,Travel_Frequently,Research & Development,7.0,3.0,Life Sciences,1,2.0,Manager,Divorced,29760.0,1.0,14.0,0.0,1.0,3.0,1.0000000001,0.0,0.0,1.0,2.0,3.0,3.0,3.0
+6.979722222222223,32.0,1,Travel_Rarely,Research & Development,26.0,3.0,Medical,0,2.0,Research Director,Single,88230.0,6.0,13.0,2.0,10.0,3.0,1e-10,0.0,0.0,1.0,2.0,3.0,3.0,3.0
+9.33361111111111,39.0,1,Non-Travel,Research & Development,2.0,4.0,Medical,1,2.0,Manufacturing Director,Single,43810.0,2.0,15.0,2.0,11.0,1.0,1.0000000001,0.0,0.0,1.0,1.0,4.0,2.0,3.0
+9.664166666666668,24.0,1,Travel_Rarely,Human Resources,2.0,5.0,Human Resources,1,3.0,Sales Executive,Married,47680.0,2.0,11.0,1.0,6.0,2.0,2.0000000001,2.0,0.0,2.0,4.0,2.0,2.0,3.0
+6.816944444444444,30.0,0,Travel_Rarely,Research & Development,3.0,3.0,Life Sciences,0,2.0,Manager,Married,59680.0,2.0,13.0,0.0,1.0,3.0,1.0000000001,0.0,0.0,3.0,2.0,3.0,3.0,3.0
+6.544444444444444,54.0,0,Travel_Rarely,Sales,23.0,3.0,Medical,0,1.0,Laboratory Technician,Married,136030.0,8.0,13.0,1.0,22.0,2.0,10.0000000001,0.0,8.0,3.0,3.0,3.0,3.0,3.0
+6.726111111111111,34.0,0,Travel_Rarely,Research & Development,18.0,1.0,Medical,1,1.0,Healthcare Representative,Single,27030.0,1.0,21.0,1.0,9.0,2.0,8.0000000001,7.0,7.0,4.0,2.0,4.0,3.0,4.0
+7.907222222222222,34.0,0,Travel_Rarely,Research & Development,8.0,2.0,Medical,1,1.0,Research Scientist,Married,58780.0,1.0,14.0,0.0,5.0,1.0,5.0000000001,1.0,3.0,1.0,2.0,3.0,3.0,3.0
+5.936111111111111,44.0,1,Travel_Rarely,Research & Development,21.0,4.0,Life Sciences,0,2.0,Laboratory Technician,Married,62720.0,1.0,19.0,1.0,10.0,3.0,10.0000000001,0.0,5.0,1.0,4.0,3.0,3.0,3.0
+6.039166666666667,29.0,0,Non-Travel,Research & Development,10.0,4.0,Technical Degree,1,3.0,Healthcare Representative,Married,58690.0,1.0,11.0,1.0,10.0,6.0,10.0000000001,0.0,9.0,4.0,3.0,3.0,4.0,3.0
+9.4675,35.0,0,Non-Travel,Research & Development,5.0,4.0,Technical Degree,0,3.0,Manufacturing Director,Married,48980.0,2.0,15.0,2.0,10.0,2.0,4.0000000001,2.0,3.0,3.0,1.0,3.0,3.0,3.0
+9.055555555555555,36.0,0,Travel_Rarely,Research & Development,25.0,1.0,Life Sciences,0,4.0,Sales Executive,Married,170070.0,9.0,12.0,1.0,6.0,2.0,1.0000000001,0.0,0.0,2.0,1.0,4.0,2.0,3.0
+6.776388888888889,47.0,1,Travel_Frequently,Research & Development,1.0,3.0,Medical,0,2.0,Sales Executive,Married,196270.0,7.0,11.0,2.0,25.0,1.0,23.0000000001,14.0,10.0,3.0,3.0,1.0,3.0,3.0
+10.648333333333332,38.0,0,Travel_Rarely,Research & Development,6.0,2.0,Medical,1,1.0,Research Scientist,Divorced,47360.0,0.0,11.0,1.0,9.0,3.0,8.0000000001,2.0,7.0,3.0,3.0,3.0,2.0,3.0
+6.925,30.0,1,Travel_Frequently,Sales,3.0,2.0,Medical,1,2.0,Healthcare Representative,Single,28620.0,5.0,14.0,0.0,9.0,2.0,6.0000000001,0.0,1.0,3.0,1.0,2.0,2.0,3.0
+6.724444444444444,53.0,0,Travel_Rarely,Research & Development,7.0,1.0,Life Sciences,1,2.0,Laboratory Technician,Married,28590.0,3.0,18.0,1.0,32.0,2.0,5.0000000001,1.0,3.0,3.0,3.0,3.0,3.0,3.0
+7.6530555555555555,42.0,0,Travel_Rarely,Research & Development,1.0,2.0,Life Sciences,1,4.0,Laboratory Technician,Single,30340.0,7.0,21.0,1.0,9.0,3.0,6.0000000001,1.0,5.0,2.0,1.0,4.0,2.0,4.0
+7.523611111111111,58.0,1,Travel_Rarely,Sales,2.0,2.0,Medical,0,1.0,Research Scientist,Married,43850.0,1.0,13.0,1.0,40.0,2.0,40.0000000001,15.0,6.0,4.0,4.0,2.0,2.0,3.0
+6.095555555555555,59.0,0,Travel_Rarely,Research & Development,5.0,3.0,Life Sciences,0,3.0,Manager,Married,198330.0,3.0,13.0,0.0,7.0,2.0,1.0000000001,0.0,0.0,3.0,4.0,3.0,3.0,3.0
+7.832777777777777,48.0,0,Travel_Rarely,Research & Development,12.0,4.0,Medical,1,1.0,Laboratory Technician,Divorced,55620.0,8.0,13.0,1.0,18.0,2.0,8.0000000001,7.0,7.0,3.0,3.0,3.0,3.0,3.0
+6.408611111111111,22.0,0,Travel_Rarely,Research & Development,2.0,2.0,Life Sciences,1,1.0,Sales Representative,Married,11020.0,6.0,19.0,0.0,4.0,3.0,2.0000000001,2.0,2.0,4.0,4.0,1.0,2.0,3.0
+6.5375,32.0,0,Non-Travel,Research & Development,11.0,2.0,Other,0,2.0,Research Scientist,Divorced,44870.0,1.0,11.0,0.0,1.0,5.0,1.0000000001,0.0,0.0,3.0,1.0,3.0,2.0,3.0
+7.472222222222222,35.0,0,Travel_Rarely,Human Resources,3.0,4.0,Human Resources,1,2.0,Manager,Married,32940.0,0.0,11.0,0.0,6.0,2.0,5.0000000001,0.0,3.0,1.0,2.0,3.0,3.0,3.0
+6.172222222222223,59.0,0,Travel_Rarely,Research & Development,5.0,3.0,Life Sciences,0,3.0,Manager,Married,198330.0,3.0,13.0,0.0,7.0,2.0,1.0000000001,0.0,0.0,3.0,4.0,3.0,3.0,3.0
+8.463611111111112,34.0,1,Travel_Rarely,Research & Development,7.0,1.0,Medical,1,1.0,Research Scientist,Single,62880.0,0.0,15.0,1.0,16.0,2.0,15.0000000001,10.0,10.0,1.0,2.0,4.0,3.0,3.0
+8.46861111111111,37.0,1,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,1.0,Sales Executive,Single,56470.0,6.0,19.0,0.0,7.0,2.0,1e-10,0.0,0.0,4.0,3.0,3.0,3.0,3.0
+6.467777777777778,24.0,0,Travel_Rarely,Research & Development,2.0,1.0,Life Sciences,1,2.0,Laboratory Technician,Married,34070.0,0.0,13.0,1.0,6.0,4.0,5.0000000001,1.0,2.0,2.0,3.0,3.0,3.0,3.0
+6.278888888888889,28.0,0,Travel_Rarely,Research & Development,21.0,4.0,Life Sciences,0,1.0,Healthcare Representative,Divorced,25000.0,1.0,16.0,2.0,6.0,3.0,5.0000000001,0.0,4.0,2.0,4.0,3.0,3.0,3.0
+8.68138888888889,26.0,0,Travel_Rarely,Human Resources,9.0,3.0,Life Sciences,1,2.0,Research Scientist,Single,68110.0,1.0,11.0,1.0,8.0,4.0,8.0000000001,2.0,2.0,3.0,4.0,2.0,3.0,3.0
+9.258888888888889,48.0,1,Travel_Rarely,Research & Development,2.0,4.0,Technical Degree,0,1.0,Sales Executive,Single,45910.0,9.0,16.0,0.0,23.0,6.0,1.0000000001,0.0,0.0,1.0,3.0,3.0,1.0,3.0
+7.963888888888889,32.0,0,Travel_Rarely,Research & Development,3.0,1.0,Medical,1,2.0,Manufacturing Director,Married,171810.0,1.0,14.0,0.0,14.0,2.0,14.0000000001,6.0,8.0,3.0,3.0,3.0,2.0,3.0
+6.765833333333333,26.0,0,Travel_Rarely,Research & Development,29.0,4.0,Life Sciences,1,1.0,Research Scientist,Single,63890.0,0.0,22.0,0.0,8.0,2.0,7.0000000001,0.0,7.0,3.0,1.0,3.0,2.0,4.0
+6.559444444444445,37.0,1,Travel_Rarely,Sales,15.0,3.0,Marketing,1,2.0,Laboratory Technician,Married,44850.0,5.0,11.0,1.0,15.0,2.0,1.0000000001,0.0,0.0,1.0,2.0,1.0,4.0,3.0
+7.238611111111111,38.0,0,Travel_Rarely,Human Resources,25.0,1.0,Human Resources,0,1.0,Manufacturing Director,Married,78470.0,3.0,14.0,1.0,9.0,3.0,7.0000000001,1.0,7.0,4.0,4.0,1.0,4.0,3.0
+8.623611111111112,55.0,1,Travel_Rarely,Research & Development,19.0,3.0,Technical Degree,1,1.0,Human Resources,Single,46800.0,6.0,14.0,3.0,24.0,0.0,19.0000000001,3.0,8.0,1.0,3.0,2.0,4.0,3.0
+6.366388888888889,54.0,0,Travel_Rarely,Research & Development,5.0,2.0,Life Sciences,0,2.0,Sales Executive,Married,40140.0,2.0,19.0,1.0,16.0,4.0,9.0000000001,7.0,1.0,3.0,2.0,4.0,2.0,3.0
+6.483611111111111,40.0,0,Travel_Rarely,Research & Development,3.0,3.0,Life Sciences,1,2.0,Sales Executive,Divorced,45770.0,5.0,11.0,1.0,15.0,3.0,12.0000000001,11.0,8.0,2.0,3.0,3.0,2.0,3.0
+6.2775,45.0,0,Non-Travel,Sales,2.0,3.0,Life Sciences,0,2.0,Manufacturing Director,Married,83960.0,3.0,15.0,2.0,25.0,3.0,23.0000000001,14.0,4.0,3.0,3.0,2.0,2.0,3.0
+9.989444444444445,30.0,0,Travel_Rarely,Research & Development,21.0,1.0,Medical,1,2.0,Laboratory Technician,Married,104350.0,0.0,11.0,0.0,12.0,5.0,11.0000000001,4.0,7.0,3.0,4.0,1.0,3.0,3.0
+10.459166666666668,34.0,0,Travel_Rarely,Sales,25.0,5.0,Marketing,0,1.0,Research Scientist,Married,41940.0,0.0,17.0,2.0,12.0,3.0,11.0000000001,5.0,7.0,2.0,3.0,3.0,3.0,3.0
+9.066666666666666,52.0,0,Travel_Rarely,Sales,2.0,1.0,Medical,1,1.0,Laboratory Technician,Divorced,99800.0,3.0,11.0,1.0,18.0,2.0,10.0000000001,6.0,9.0,4.0,1.0,3.0,3.0,3.0
+6.669444444444444,51.0,0,Travel_Rarely,Research & Development,1.0,4.0,Life Sciences,0,1.0,Manager,Married,40330.0,2.0,14.0,0.0,15.0,2.0,2.0000000001,2.0,2.0,1.0,3.0,3.0,3.0,3.0
+7.626944444444445,25.0,0,Travel_Rarely,Research & Development,11.0,3.0,Medical,1,2.0,Manufacturing Director,Married,100960.0,0.0,11.0,1.0,4.0,3.0,3.0000000001,1.0,2.0,4.0,2.0,3.0,3.0,3.0
+7.947777777777778,31.0,1,Travel_Rarely,Sales,20.0,3.0,Technical Degree,1,1.0,Research Scientist,Single,61800.0,1.0,14.0,1.0,1.0,2.0,1.0000000001,0.0,0.0,1.0,2.0,4.0,1.0,3.0
+10.358055555555556,33.0,1,Travel_Frequently,Research & Development,15.0,4.0,Medical,0,1.0,Laboratory Technician,Single,24060.0,1.0,11.0,0.0,10.0,3.0,10.0000000001,9.0,7.0,1.0,1.0,3.0,3.0,3.0
+8.599166666666667,44.0,0,Travel_Frequently,Sales,2.0,2.0,Marketing,1,1.0,Laboratory Technician,Married,34520.0,4.0,11.0,1.0,14.0,2.0,10.0000000001,0.0,2.0,1.0,4.0,3.0,2.0,3.0
+10.419444444444444,58.0,1,Travel_Frequently,Sales,9.0,2.0,Technical Degree,1,1.0,Sales Executive,Divorced,21530.0,9.0,11.0,0.0,3.0,3.0,1.0000000001,0.0,0.0,4.0,4.0,2.0,3.0,3.0
+10.46527777777778,21.0,0,Travel_Rarely,Research & Development,1.0,4.0,Life Sciences,0,1.0,Research Scientist,Single,26100.0,1.0,11.0,1.0,2.0,3.0,2.0000000001,2.0,2.0,4.0,2.0,4.0,2.0,3.0
+6.193611111111111,22.0,0,Travel_Rarely,Research & Development,16.0,5.0,Other,1,1.0,Research Scientist,Married,29910.0,1.0,19.0,2.0,2.0,3.0,2.0000000001,1.0,2.0,1.0,2.0,3.0,2.0,3.0
+9.99388888888889,59.0,0,Travel_Rarely,Sales,2.0,2.0,Marketing,0,5.0,Sales Representative,Married,20660.0,4.0,12.0,1.0,12.0,3.0,1.0000000001,0.0,0.0,3.0,1.0,2.0,3.0,3.0
+6.7425,24.0,0,Travel_Rarely,Sales,7.0,3.0,Medical,0,1.0,Laboratory Technician,Married,12320.0,1.0,12.0,0.0,1.0,4.0,1.0000000001,0.0,0.0,4.0,2.0,3.0,1.0,3.0
+6.462777777777778,40.0,0,Travel_Rarely,Research & Development,3.0,3.0,Life Sciences,1,2.0,Sales Executive,Divorced,45770.0,5.0,11.0,1.0,15.0,3.0,12.0000000001,11.0,8.0,2.0,3.0,3.0,2.0,3.0
+6.565555555555555,30.0,0,Travel_Rarely,Research & Development,4.0,3.0,Medical,0,1.0,Research Director,Married,21210.0,1.0,13.0,1.0,6.0,2.0,6.0000000001,1.0,1.0,2.0,2.0,2.0,3.0,3.0
+7.455555555555556,31.0,0,Travel_Rarely,Research & Development,2.0,4.0,Life Sciences,0,5.0,Manager,Divorced,103770.0,1.0,14.0,0.0,10.0,2.0,10.0000000001,0.0,2.0,2.0,3.0,3.0,3.0,3.0
+5.9158333333333335,28.0,0,Non-Travel,Sales,9.0,4.0,Medical,1,2.0,Laboratory Technician,Married,23670.0,1.0,13.0,0.0,5.0,2.0,5.0000000001,0.0,4.0,2.0,3.0,4.0,2.0,3.0
+8.787777777777778,44.0,0,Travel_Rarely,Research & Development,10.0,3.0,Technical Degree,1,3.0,Manager,Divorced,25190.0,0.0,21.0,2.0,23.0,2.0,22.0000000001,1.0,10.0,2.0,4.0,2.0,3.0,4.0
+8.653611111111111,43.0,0,Travel_Rarely,Research & Development,10.0,5.0,Technical Degree,0,2.0,Sales Executive,Divorced,26830.0,4.0,11.0,0.0,21.0,3.0,1.0000000001,0.0,0.0,2.0,4.0,2.0,3.0,3.0
+6.8025,42.0,0,Travel_Frequently,Sales,10.0,3.0,Marketing,0,2.0,Healthcare Representative,Divorced,28370.0,2.0,13.0,1.0,19.0,0.0,5.0000000001,0.0,2.0,1.0,3.0,3.0,2.0,3.0
+9.0525,20.0,1,Travel_Frequently,Sales,8.0,3.0,Marketing,1,3.0,Sales Executive,Single,34640.0,1.0,20.0,0.0,2.0,3.0,2.0000000001,0.0,2.0,4.0,4.0,3.0,2.0,4.0
+6.890833333333333,56.0,0,Travel_Frequently,Research & Development,1.0,2.0,Life Sciences,0,2.0,Manufacturing Director,Married,52280.0,2.0,11.0,0.0,18.0,4.0,5.0000000001,0.0,3.0,1.0,3.0,3.0,3.0,3.0
+7.091666666666667,33.0,0,Travel_Rarely,Research & Development,9.0,1.0,Medical,1,1.0,Healthcare Representative,Married,76420.0,2.0,20.0,1.0,8.0,2.0,2.0000000001,2.0,2.0,1.0,1.0,1.0,2.0,4.0
+9.105555555555556,43.0,0,Travel_Frequently,Sales,4.0,3.0,Medical,0,2.0,Healthcare Representative,Divorced,34190.0,3.0,11.0,1.0,10.0,5.0,8.0000000001,4.0,7.0,4.0,3.0,3.0,3.0,3.0
+7.949722222222222,34.0,0,Travel_Frequently,Sales,9.0,1.0,Technical Degree,1,2.0,Sales Executive,Single,26570.0,2.0,13.0,1.0,5.0,3.0,3.0000000001,0.0,2.0,4.0,3.0,2.0,2.0,3.0
+6.442777777777778,35.0,0,Travel_Frequently,Research & Development,15.0,3.0,Medical,1,3.0,Manufacturing Director,Married,65490.0,1.0,20.0,0.0,9.0,3.0,9.0000000001,1.0,8.0,2.0,1.0,2.0,3.0,4.0
+6.446944444444444,28.0,1,Travel_Frequently,Research & Development,2.0,3.0,Medical,1,1.0,Research Scientist,Married,22740.0,3.0,20.0,1.0,5.0,5.0,3.0000000001,1.0,2.0,1.0,3.0,4.0,3.0,4.0
+7.406666666666666,58.0,1,Travel_Rarely,Sales,9.0,2.0,Medical,0,4.0,Sales Executive,Single,59570.0,4.0,14.0,1.0,7.0,2.0,1.0000000001,0.0,0.0,4.0,3.0,3.0,1.0,3.0
+7.083888888888889,43.0,0,Travel_Frequently,Research & Development,5.0,3.0,Medical,0,2.0,Laboratory Technician,Married,96990.0,8.0,19.0,1.0,18.0,3.0,8.0000000001,0.0,1.0,3.0,1.0,3.0,3.0,3.0
+7.847777777777778,36.0,0,Travel_Rarely,Research & Development,23.0,3.0,Life Sciences,0,3.0,Sales Executive,Married,21320.0,4.0,20.0,0.0,9.0,1.0,3.0000000001,0.0,2.0,2.0,1.0,3.0,2.0,4.0
+7.948333333333333,46.0,0,Travel_Rarely,Sales,2.0,3.0,Life Sciences,0,1.0,Research Scientist,Single,34200.0,3.0,13.0,2.0,22.0,3.0,2.0000000001,2.0,1.0,2.0,1.0,2.0,1.0,3.0
+8.750833333333333,35.0,0,Travel_Rarely,Research & Development,5.0,3.0,Life Sciences,1,2.0,Sales Representative,Married,48830.0,1.0,18.0,1.0,10.0,1.0,10.0000000001,0.0,9.0,3.0,4.0,3.0,1.0,3.0
+7.843055555555556,33.0,0,Non-Travel,Sales,15.0,3.0,Other,1,4.0,Research Director,Single,194360.0,1.0,19.0,2.0,10.0,4.0,10.0000000001,6.0,0.0,4.0,3.0,3.0,3.0,3.0
+7.459444444444444,36.0,0,Travel_Frequently,Research & Development,1.0,3.0,Life Sciences,0,2.0,Laboratory Technician,Single,23050.0,1.0,17.0,0.0,8.0,3.0,8.0000000001,1.0,7.0,2.0,4.0,3.0,3.0,3.0
+7.063888888888889,30.0,0,Travel_Rarely,Sales,26.0,3.0,Marketing,0,2.0,Manager,Single,44200.0,9.0,11.0,0.0,9.0,3.0,7.0000000001,0.0,2.0,1.0,3.0,3.0,3.0,3.0
+7.211666666666667,26.0,0,Travel_Rarely,Research & Development,4.0,3.0,Life Sciences,1,1.0,Research Director,Married,32940.0,1.0,11.0,0.0,1.0,6.0,1.0000000001,0.0,0.0,1.0,4.0,3.0,3.0,3.0
+6.844166666666666,35.0,0,Travel_Rarely,Human Resources,14.0,1.0,Life Sciences,1,2.0,Research Scientist,Married,79880.0,1.0,18.0,0.0,4.0,3.0,4.0000000001,1.0,1.0,3.0,4.0,3.0,3.0,3.0
+7.198611111111111,27.0,0,Non-Travel,Sales,1.0,3.0,Technical Degree,0,1.0,Sales Executive,Married,27130.0,1.0,11.0,0.0,0.0,2.0,1e-10,0.0,0.0,4.0,4.0,2.0,3.0,3.0
+7.776111111111111,29.0,1,Travel_Frequently,Research & Development,28.0,3.0,Medical,0,5.0,Research Scientist,Single,44340.0,5.0,17.0,3.0,7.0,1.0,5.0000000001,0.0,0.0,1.0,2.0,1.0,3.0,3.0
+7.4527777777777775,34.0,0,Travel_Frequently,Sales,1.0,3.0,Life Sciences,1,2.0,Sales Executive,Married,24000.0,4.0,18.0,1.0,14.0,3.0,10.0000000001,1.0,8.0,3.0,2.0,4.0,3.0,3.0
+10.296666666666669,36.0,0,Travel_Rarely,Research & Development,26.0,4.0,Medical,1,1.0,Laboratory Technician,Married,84740.0,0.0,14.0,0.0,17.0,3.0,16.0000000001,4.0,11.0,3.0,4.0,2.0,3.0,3.0
+6.1369444444444445,28.0,0,Travel_Rarely,Research & Development,7.0,3.0,Medical,1,3.0,Healthcare Representative,Divorced,119570.0,1.0,13.0,0.0,10.0,2.0,10.0000000001,1.0,8.0,3.0,1.0,3.0,2.0,3.0
+6.166944444444445,30.0,0,Travel_Rarely,Sales,9.0,1.0,Marketing,1,4.0,Research Director,Married,40890.0,0.0,18.0,0.0,10.0,2.0,9.0000000001,6.0,7.0,1.0,4.0,3.0,4.0,3.0
+9.88888888888889,48.0,1,Travel_Frequently,Sales,10.0,2.0,Marketing,1,1.0,Healthcare Representative,Married,63470.0,2.0,12.0,1.0,19.0,3.0,9.0000000001,7.0,7.0,4.0,3.0,3.0,1.0,3.0
+7.751666666666667,45.0,0,Travel_Frequently,Research & Development,8.0,4.0,Life Sciences,0,2.0,Manager,Single,29940.0,4.0,18.0,1.0,12.0,2.0,4.0000000001,0.0,3.0,2.0,3.0,3.0,3.0,3.0
+6.346666666666667,42.0,0,Travel_Rarely,Research & Development,7.0,4.0,Life Sciences,0,2.0,Sales Executive,Married,34450.0,1.0,11.0,2.0,22.0,2.0,22.0000000001,11.0,15.0,3.0,4.0,3.0,3.0,3.0
+6.773888888888889,38.0,0,Travel_Rarely,Human Resources,2.0,4.0,Medical,1,1.0,Human Resources,Single,20140.0,3.0,17.0,1.0,8.0,5.0,1e-10,0.0,0.0,3.0,1.0,2.0,4.0,3.0
+7.385555555555555,34.0,1,Travel_Rarely,Research & Development,7.0,4.0,Medical,1,2.0,Research Scientist,Married,26940.0,1.0,16.0,1.0,2.0,3.0,2.0000000001,2.0,2.0,1.0,3.0,3.0,3.0,3.0
+7.663611111111111,26.0,0,Travel_Rarely,Sales,17.0,3.0,Medical,0,2.0,Manager,Married,57690.0,1.0,19.0,0.0,5.0,4.0,5.0000000001,4.0,3.0,3.0,2.0,2.0,2.0,3.0
+9.40611111111111,47.0,1,Non-Travel,Research & Development,1.0,1.0,Medical,1,1.0,Research Scientist,Married,57620.0,1.0,11.0,2.0,10.0,4.0,10.0000000001,9.0,9.0,1.0,2.0,2.0,2.0,3.0
+6.137777777777778,35.0,0,Non-Travel,Research & Development,29.0,3.0,Medical,0,2.0,Sales Executive,Married,78230.0,1.0,13.0,1.0,15.0,3.0,14.0000000001,2.0,9.0,3.0,3.0,3.0,3.0,3.0
+7.604166666666667,36.0,0,Travel_Rarely,Research & Development,16.0,4.0,Life Sciences,1,1.0,Healthcare Representative,Single,67350.0,8.0,25.0,2.0,16.0,3.0,13.0000000001,3.0,7.0,4.0,2.0,4.0,2.0,4.0
+6.356388888888889,33.0,0,Travel_Rarely,Research & Development,7.0,3.0,Medical,1,5.0,Sales Executive,Divorced,109990.0,1.0,18.0,3.0,6.0,3.0,6.0000000001,0.0,4.0,4.0,4.0,3.0,2.0,3.0
+6.526666666666666,39.0,0,Travel_Rarely,Research & Development,6.0,2.0,Life Sciences,1,3.0,Research Scientist,Married,106090.0,2.0,17.0,1.0,10.0,2.0,7.0000000001,7.0,7.0,2.0,1.0,3.0,3.0,3.0
+10.618333333333334,36.0,0,Travel_Rarely,Research & Development,2.0,4.0,Medical,1,1.0,Healthcare Representative,Single,27250.0,9.0,21.0,1.0,18.0,4.0,16.0000000001,5.0,12.0,3.0,2.0,3.0,2.0,4.0
+8.373055555555556,29.0,1,Travel_Rarely,Research & Development,29.0,4.0,Technical Degree,0,1.0,Sales Representative,Divorced,28860.0,3.0,13.0,0.0,10.0,4.0,7.0000000001,7.0,7.0,2.0,3.0,3.0,3.0,3.0
+7.764444444444444,41.0,0,Non-Travel,Sales,6.0,3.0,Life Sciences,0,1.0,Research Director,Single,27730.0,1.0,11.0,0.0,19.0,3.0,19.0000000001,11.0,9.0,3.0,2.0,3.0,3.0,3.0
+8.053333333333333,41.0,0,Travel_Rarely,Research & Development,4.0,2.0,Medical,1,2.0,Research Scientist,Married,25430.0,3.0,12.0,0.0,6.0,3.0,1.0000000001,0.0,0.0,2.0,4.0,3.0,3.0,3.0
+7.146388888888889,49.0,0,Travel_Rarely,Sales,2.0,2.0,Medical,0,1.0,Sales Executive,Married,63800.0,6.0,23.0,1.0,22.0,1.0,9.0000000001,2.0,3.0,4.0,2.0,3.0,2.0,4.0
+6.069166666666667,34.0,0,Travel_Rarely,Research & Development,2.0,2.0,Life Sciences,1,2.0,Research Scientist,Married,65860.0,9.0,18.0,1.0,9.0,3.0,2.0000000001,2.0,1.0,2.0,4.0,2.0,3.0,3.0
+10.791944444444445,31.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,1,4.0,Human Resources,Single,28670.0,0.0,24.0,0.0,3.0,5.0,2.0000000001,2.0,2.0,3.0,2.0,3.0,3.0,4.0
+7.467222222222222,36.0,0,Travel_Frequently,Research & Development,1.0,3.0,Life Sciences,0,2.0,Laboratory Technician,Single,23050.0,1.0,17.0,0.0,8.0,3.0,8.0000000001,1.0,7.0,2.0,4.0,3.0,3.0,3.0
+6.16,50.0,0,Travel_Rarely,Research & Development,4.0,3.0,Life Sciences,0,2.0,Manufacturing Director,Single,43740.0,3.0,15.0,1.0,21.0,5.0,5.0000000001,4.0,4.0,3.0,2.0,3.0,4.0,3.0
+6.044722222222222,45.0,0,Travel_Rarely,Sales,24.0,3.0,Life Sciences,1,1.0,Laboratory Technician,Single,36290.0,8.0,16.0,1.0,8.0,2.0,5.0000000001,0.0,1.0,4.0,3.0,3.0,4.0,3.0
+6.75,50.0,0,Travel_Frequently,Sales,2.0,2.0,Marketing,1,1.0,Sales Executive,Married,29600.0,1.0,14.0,3.0,32.0,2.0,32.0000000001,10.0,7.0,1.0,2.0,3.0,3.0,3.0
+6.247222222222222,29.0,0,Travel_Frequently,Sales,15.0,4.0,Medical,0,1.0,Sales Executive,Married,49680.0,1.0,19.0,3.0,11.0,4.0,11.0000000001,4.0,1.0,2.0,4.0,3.0,3.0,3.0
+6.379166666666666,49.0,0,Travel_Rarely,Research & Development,5.0,4.0,Life Sciences,0,1.0,Research Scientist,Married,34240.0,4.0,11.0,0.0,10.0,3.0,3.0000000001,1.0,2.0,3.0,1.0,3.0,3.0,3.0
+6.204444444444444,38.0,0,Travel_Frequently,Research & Development,25.0,3.0,Medical,1,2.0,Manufacturing Director,Single,163280.0,1.0,17.0,3.0,10.0,2.0,10.0000000001,9.0,9.0,4.0,4.0,3.0,3.0,3.0
+7.951944444444444,28.0,0,Non-Travel,Research & Development,1.0,3.0,Medical,1,5.0,Sales Executive,Married,56790.0,0.0,13.0,0.0,10.0,2.0,9.0000000001,7.0,5.0,3.0,4.0,3.0,2.0,3.0
+7.354166666666667,50.0,0,Travel_Rarely,Sales,9.0,3.0,Life Sciences,1,2.0,Research Scientist,Married,23220.0,7.0,25.0,1.0,4.0,0.0,2.0000000001,2.0,2.0,4.0,2.0,3.0,4.0,4.0
+6.086666666666667,32.0,0,Non-Travel,Sales,2.0,4.0,Marketing,1,4.0,Research Scientist,Married,21090.0,0.0,13.0,1.0,4.0,3.0,3.0000000001,2.0,2.0,3.0,4.0,3.0,2.0,3.0
+7.3469444444444445,28.0,1,Non-Travel,Research & Development,19.0,4.0,Life Sciences,0,4.0,Laboratory Technician,Single,52380.0,1.0,17.0,1.0,10.0,4.0,10.0000000001,1.0,9.0,2.0,1.0,2.0,2.0,3.0
+6.228888888888889,45.0,0,Non-Travel,Research & Development,8.0,1.0,Life Sciences,1,2.0,Sales Executive,Married,33190.0,1.0,12.0,1.0,9.0,3.0,9.0000000001,0.0,8.0,3.0,2.0,2.0,3.0,3.0
+7.279722222222222,35.0,0,Travel_Rarely,Sales,1.0,2.0,Life Sciences,0,2.0,Healthcare Representative,Divorced,109380.0,6.0,14.0,2.0,12.0,2.0,10.0000000001,0.0,8.0,4.0,4.0,3.0,1.0,3.0
+7.258333333333334,52.0,0,Travel_Rarely,Research & Development,12.0,3.0,Medical,1,2.0,Research Scientist,Married,48780.0,2.0,11.0,1.0,31.0,3.0,5.0000000001,1.0,4.0,4.0,4.0,1.0,3.0,3.0
+6.228055555555556,30.0,0,Travel_Rarely,Research & Development,8.0,3.0,Medical,0,1.0,Sales Executive,Married,183000.0,0.0,14.0,0.0,7.0,6.0,6.0000000001,0.0,2.0,3.0,1.0,2.0,3.0,3.0
+6.354722222222223,54.0,0,Travel_Rarely,Research & Development,5.0,2.0,Life Sciences,0,2.0,Sales Executive,Married,40140.0,2.0,19.0,1.0,16.0,4.0,9.0000000001,7.0,1.0,3.0,2.0,3.0,2.0,3.0
+8.960555555555555,38.0,0,Travel_Rarely,Research & Development,8.0,2.0,Technical Degree,0,1.0,Manufacturing Director,Married,25140.0,3.0,11.0,0.0,15.0,2.0,1.0000000001,1.0,0.0,2.0,4.0,3.0,2.0,3.0
+6.164166666666667,60.0,0,Travel_Rarely,Research & Development,10.0,3.0,Life Sciences,0,1.0,Manufacturing Director,Married,22690.0,5.0,18.0,1.0,33.0,4.0,29.0000000001,11.0,10.0,1.0,1.0,1.0,3.0,3.0
+6.343611111111112,30.0,0,Travel_Rarely,Sales,9.0,3.0,Medical,1,2.0,Research Scientist,Single,39360.0,0.0,11.0,1.0,6.0,3.0,5.0000000001,1.0,2.0,2.0,4.0,3.0,3.0,3.0
+7.346666666666667,43.0,0,Non-Travel,Human Resources,8.0,5.0,Medical,0,3.0,Sales Executive,Single,22580.0,4.0,18.0,0.0,7.0,2.0,3.0000000001,1.0,2.0,1.0,3.0,2.0,3.0,3.0
+7.123888888888889,20.0,0,Travel_Rarely,Research & Development,17.0,4.0,Medical,0,1.0,Sales Representative,Single,22930.0,1.0,13.0,2.0,1.0,3.0,1.0000000001,0.0,0.0,4.0,2.0,4.0,1.0,3.0
+10.456111111111111,41.0,0,Travel_Rarely,Research & Development,26.0,3.0,Medical,0,3.0,Sales Executive,Married,54850.0,2.0,17.0,2.0,7.0,2.0,4.0000000001,0.0,3.0,2.0,3.0,2.0,3.0,3.0
+7.485555555555556,33.0,0,Travel_Rarely,Research & Development,4.0,3.0,Life Sciences,1,1.0,Human Resources,Married,33060.0,1.0,11.0,3.0,8.0,6.0,8.0000000001,1.0,6.0,4.0,2.0,3.0,1.0,3.0
+6.115555555555556,35.0,0,Travel_Rarely,Research & Development,23.0,4.0,Life Sciences,1,2.0,Research Scientist,Single,63340.0,1.0,14.0,0.0,11.0,2.0,11.0000000001,3.0,3.0,4.0,2.0,1.0,4.0,3.0
+6.553611111111112,37.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,0,3.0,Sales Executive,Single,52070.0,4.0,17.0,3.0,16.0,3.0,5.0000000001,0.0,2.0,1.0,3.0,4.0,3.0,3.0
+8.059444444444445,41.0,0,Travel_Rarely,Research & Development,4.0,2.0,Medical,1,2.0,Research Scientist,Married,25430.0,3.0,12.0,0.0,6.0,3.0,1.0000000001,0.0,0.0,2.0,4.0,3.0,3.0,3.0
+8.048333333333334,23.0,1,Travel_Rarely,Human Resources,6.0,3.0,Life Sciences,0,3.0,Laboratory Technician,Single,49690.0,1.0,12.0,0.0,5.0,3.0,5.0000000001,1.0,2.0,4.0,3.0,3.0,3.0,3.0
+7.734444444444445,36.0,0,Travel_Rarely,Research & Development,7.0,3.0,Life Sciences,1,1.0,Sales Executive,Married,92040.0,6.0,23.0,1.0,17.0,2.0,7.0000000001,7.0,7.0,3.0,3.0,2.0,3.0,4.0
+6.848888888888889,24.0,0,Travel_Rarely,Research & Development,5.0,4.0,Other,1,1.0,Manufacturing Director,Single,178610.0,1.0,11.0,2.0,4.0,5.0,4.0000000001,1.0,2.0,2.0,3.0,2.0,1.0,3.0
+8.296666666666667,58.0,0,Travel_Rarely,Research & Development,2.0,4.0,Life Sciences,1,1.0,Research Scientist,Divorced,26220.0,2.0,23.0,0.0,24.0,3.0,6.0000000001,0.0,4.0,3.0,2.0,3.0,3.0,4.0
+7.8725,39.0,0,Travel_Rarely,Research & Development,7.0,3.0,Life Sciences,0,1.0,Research Scientist,Married,196580.0,4.0,13.0,1.0,17.0,3.0,15.0000000001,5.0,9.0,4.0,3.0,4.0,4.0,3.0
+6.786111111111111,32.0,0,Travel_Rarely,Research & Development,10.0,4.0,Other,0,1.0,Sales Executive,Married,42330.0,1.0,11.0,0.0,10.0,5.0,10.0000000001,0.0,8.0,3.0,4.0,4.0,3.0,3.0
+7.593888888888888,36.0,0,Travel_Rarely,Research & Development,14.0,3.0,Other,1,2.0,Research Scientist,Married,39290.0,0.0,24.0,0.0,6.0,6.0,5.0000000001,0.0,3.0,1.0,1.0,3.0,2.0,4.0
+8.504166666666666,44.0,0,Travel_Rarely,Human Resources,26.0,3.0,Life Sciences,1,5.0,Healthcare Representative,Married,47590.0,2.0,21.0,0.0,9.0,2.0,4.0000000001,1.0,3.0,4.0,4.0,4.0,3.0,4.0
+7.2122222222222225,27.0,0,Travel_Rarely,Sales,10.0,4.0,Life Sciences,1,3.0,Sales Executive,Married,194190.0,7.0,14.0,1.0,5.0,2.0,3.0000000001,0.0,2.0,2.0,3.0,3.0,1.0,3.0
+7.528611111111111,26.0,0,Travel_Frequently,Research & Development,1.0,4.0,Other,1,2.0,Laboratory Technician,Divorced,104470.0,1.0,18.0,0.0,6.0,3.0,6.0000000001,1.0,4.0,3.0,2.0,1.0,3.0,3.0
+10.962222222222222,34.0,1,Travel_Frequently,Sales,17.0,1.0,Marketing,1,1.0,Research Director,Divorced,20010.0,9.0,22.0,1.0,11.0,5.0,3.0000000001,0.0,2.0,2.0,1.0,3.0,4.0,4.0
+7.461944444444445,42.0,0,Non-Travel,Research & Development,5.0,4.0,Medical,1,5.0,Sales Executive,Married,170460.0,7.0,11.0,0.0,10.0,3.0,4.0000000001,0.0,3.0,4.0,1.0,4.0,2.0,3.0
+6.1225,41.0,0,Travel_Rarely,Sales,29.0,3.0,Life Sciences,0,2.0,Laboratory Technician,Divorced,52940.0,2.0,15.0,0.0,17.0,3.0,1.0000000001,0.0,0.0,3.0,1.0,2.0,2.0,3.0
+8.162222222222223,26.0,1,Travel_Frequently,Sales,2.0,3.0,Life Sciences,1,2.0,Research Scientist,Married,48210.0,6.0,14.0,2.0,6.0,2.0,3.0000000001,1.0,2.0,1.0,1.0,3.0,3.0,3.0
+7.1738888888888885,31.0,0,Travel_Rarely,Research & Development,10.0,4.0,Medical,0,3.0,Sales Executive,Married,61250.0,0.0,13.0,1.0,3.0,3.0,2.0000000001,1.0,2.0,1.0,3.0,3.0,3.0,3.0
+6.075555555555556,31.0,0,Non-Travel,Research & Development,14.0,2.0,Life Sciences,1,2.0,Healthcare Representative,Married,23020.0,4.0,14.0,0.0,13.0,3.0,11.0000000001,4.0,8.0,3.0,3.0,4.0,3.0,3.0
+6.919722222222222,18.0,0,Travel_Rarely,Sales,7.0,3.0,Life Sciences,1,1.0,Research Scientist,Single,38120.0,1.0,15.0,0.0,0.0,3.0,1e-10,0.0,0.0,4.0,3.0,3.0,3.0,3.0
+6.7125,39.0,0,Travel_Rarely,Sales,10.0,3.0,Marketing,0,2.0,Research Director,Married,26840.0,4.0,12.0,0.0,7.0,2.0,5.0000000001,1.0,0.0,4.0,2.0,3.0,3.0,3.0
+7.1425,38.0,0,Travel_Rarely,Research & Development,9.0,2.0,Technical Degree,1,3.0,Sales Representative,Single,23720.0,4.0,12.0,0.0,20.0,3.0,1.0000000001,0.0,0.0,1.0,1.0,2.0,2.0,3.0
+10.770277777777778,38.0,0,Travel_Frequently,Research & Development,4.0,2.0,Medical,0,1.0,Manager,Divorced,44440.0,1.0,13.0,0.0,20.0,2.0,20.0000000001,0.0,7.0,4.0,2.0,3.0,3.0,3.0
+10.176388888888887,39.0,0,Non-Travel,Research & Development,3.0,3.0,Life Sciences,0,2.0,Manufacturing Director,Married,109760.0,1.0,11.0,0.0,9.0,3.0,9.0000000001,5.0,8.0,4.0,4.0,3.0,2.0,3.0
+7.255,33.0,0,Travel_Frequently,Human Resources,10.0,3.0,Medical,0,2.0,Sales Executive,Married,27000.0,0.0,14.0,3.0,5.0,2.0,4.0000000001,0.0,3.0,4.0,1.0,3.0,3.0,3.0
+8.540833333333333,35.0,1,Travel_Rarely,Research & Development,15.0,4.0,Life Sciences,1,2.0,Research Scientist,Single,19040.0,1.0,22.0,1.0,10.0,4.0,10.0000000001,7.0,7.0,3.0,4.0,3.0,3.0,4.0
+6.861666666666666,42.0,0,Travel_Rarely,Research & Development,10.0,3.0,Technical Degree,1,2.0,Laboratory Technician,Married,66510.0,0.0,20.0,0.0,10.0,5.0,9.0000000001,4.0,2.0,3.0,2.0,3.0,2.0,4.0
+5.925833333333333,24.0,0,Travel_Frequently,Sales,22.0,3.0,Life Sciences,0,1.0,Healthcare Representative,Married,29350.0,0.0,14.0,2.0,3.0,5.0,2.0000000001,2.0,1.0,4.0,4.0,3.0,2.0,3.0
+10.557222222222222,28.0,0,Travel_Frequently,Sales,8.0,3.0,Life Sciences,1,4.0,Research Scientist,Married,11180.0,1.0,11.0,0.0,7.0,3.0,7.0000000001,0.0,7.0,3.0,4.0,3.0,3.0,3.0
+6.470833333333333,39.0,0,Travel_Rarely,Sales,1.0,1.0,Marketing,1,2.0,Research Scientist,Single,23400.0,0.0,11.0,1.0,9.0,2.0,8.0000000001,0.0,7.0,3.0,3.0,3.0,2.0,3.0
+10.466944444444444,40.0,0,Travel_Frequently,Research & Development,26.0,4.0,Life Sciences,1,2.0,Research Scientist,Married,194060.0,3.0,20.0,3.0,16.0,2.0,1.0000000001,0.0,0.0,3.0,4.0,1.0,3.0,4.0
+6.740555555555556,29.0,1,Travel_Frequently,Human Resources,2.0,4.0,Human Resources,1,2.0,Sales Executive,Single,28750.0,1.0,11.0,0.0,1.0,3.0,1.0000000001,0.0,0.0,3.0,1.0,3.0,3.0,3.0
+6.225555555555555,39.0,0,Non-Travel,Research & Development,3.0,4.0,Life Sciences,0,2.0,Research Director,Single,47240.0,2.0,12.0,1.0,21.0,4.0,6.0000000001,1.0,3.0,4.0,4.0,2.0,4.0,3.0
+7.251944444444445,43.0,0,Travel_Rarely,Research & Development,25.0,2.0,Medical,1,2.0,Healthcare Representative,Married,61320.0,6.0,13.0,0.0,22.0,3.0,4.0000000001,1.0,0.0,2.0,1.0,3.0,2.0,3.0
+7.1325,46.0,0,Travel_Rarely,Human Resources,1.0,3.0,Life Sciences,0,1.0,Laboratory Technician,Divorced,190810.0,3.0,21.0,0.0,12.0,2.0,9.0000000001,4.0,7.0,4.0,4.0,2.0,3.0,4.0
+6.191111111111111,46.0,0,Travel_Frequently,Research & Development,4.0,1.0,Medical,1,5.0,Human Resources,Married,29110.0,5.0,13.0,0.0,28.0,3.0,2.0000000001,1.0,2.0,1.0,3.0,2.0,3.0,3.0
+7.666388888888889,22.0,0,Travel_Rarely,Research & Development,3.0,3.0,Medical,1,1.0,Laboratory Technician,Married,132690.0,1.0,25.0,1.0,2.0,2.0,2.0000000001,2.0,2.0,3.0,4.0,3.0,3.0,4.0
+8.165277777777778,30.0,1,Travel_Frequently,Sales,3.0,2.0,Marketing,1,3.0,Research Scientist,Single,11290.0,9.0,19.0,0.0,3.0,2.0,1.0000000001,0.0,0.0,3.0,4.0,3.0,2.0,3.0
+6.901111111111111,35.0,0,Travel_Rarely,Sales,24.0,3.0,Medical,1,5.0,Sales Executive,Divorced,57450.0,1.0,17.0,3.0,3.0,4.0,3.0000000001,1.0,2.0,2.0,4.0,2.0,3.0,3.0
+7.754722222222222,53.0,0,Travel_Frequently,Sales,8.0,2.0,Medical,1,2.0,Research Scientist,Married,120610.0,2.0,20.0,1.0,30.0,2.0,15.0000000001,6.0,12.0,3.0,2.0,3.0,4.0,4.0
+7.3775,52.0,0,Travel_Rarely,Research & Development,1.0,2.0,Medical,0,4.0,Manager,Single,83460.0,7.0,14.0,0.0,6.0,5.0,2.0000000001,2.0,2.0,3.0,4.0,2.0,3.0,3.0
+10.378333333333334,30.0,0,Non-Travel,Sales,25.0,4.0,Other,1,1.0,Healthcare Representative,Married,53800.0,7.0,21.0,1.0,4.0,0.0,2.0000000001,2.0,2.0,4.0,3.0,4.0,3.0,4.0
+7.9302777777777775,46.0,0,Travel_Rarely,Sales,2.0,3.0,Life Sciences,0,1.0,Research Scientist,Single,34200.0,3.0,13.0,2.0,22.0,3.0,2.0000000001,2.0,1.0,2.0,1.0,2.0,1.0,3.0
+6.691666666666666,55.0,0,Travel_Frequently,Research & Development,23.0,5.0,Life Sciences,1,3.0,Laboratory Technician,Married,36970.0,3.0,13.0,1.0,23.0,1.0,3.0000000001,1.0,2.0,4.0,2.0,3.0,3.0,3.0
+6.571111111111111,20.0,0,Travel_Rarely,Research & Development,18.0,4.0,Medical,0,2.0,Sales Executive,Single,37430.0,1.0,13.0,1.0,2.0,2.0,2.0000000001,2.0,2.0,3.0,3.0,3.0,3.0,3.0
+6.803055555555556,56.0,1,Travel_Rarely,Human Resources,1.0,2.0,Medical,0,5.0,Sales Executive,Single,25590.0,1.0,21.0,0.0,5.0,3.0,4.0000000001,1.0,0.0,1.0,4.0,3.0,3.0,4.0
+7.506666666666667,32.0,1,Travel_Rarely,Sales,1.0,3.0,Life Sciences,1,2.0,Research Scientist,Single,27430.0,1.0,19.0,1.0,1.0,2.0,1.0000000001,0.0,0.0,4.0,2.0,3.0,3.0,3.0
+6.0875,48.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,0,2.0,Manager,Married,62720.0,4.0,14.0,0.0,29.0,3.0,22.0000000001,12.0,9.0,4.0,2.0,3.0,2.0,3.0
+6.848611111111111,35.0,0,Travel_Rarely,Research & Development,18.0,5.0,Medical,0,2.0,Research Scientist,Divorced,65380.0,2.0,16.0,1.0,15.0,3.0,7.0000000001,6.0,4.0,3.0,2.0,4.0,3.0,3.0
+7.528611111111111,34.0,0,Travel_Frequently,Research & Development,6.0,2.0,Life Sciences,1,1.0,Research Director,Single,43060.0,0.0,11.0,0.0,14.0,2.0,13.0000000001,4.0,9.0,4.0,1.0,3.0,3.0,3.0
+7.390555555555555,36.0,0,Travel_Frequently,Sales,25.0,3.0,Marketing,0,2.0,Research Director,Single,55050.0,4.0,21.0,2.0,13.0,3.0,8.0000000001,7.0,2.0,4.0,2.0,2.0,3.0,4.0
+7.670277777777778,29.0,0,Travel_Frequently,Research & Development,6.0,2.0,Medical,1,1.0,Human Resources,Married,41150.0,1.0,11.0,0.0,11.0,1.0,11.0000000001,3.0,10.0,4.0,4.0,4.0,3.0,3.0
+7.344166666666666,59.0,0,Travel_Rarely,Research & Development,3.0,4.0,Technical Degree,1,1.0,Research Scientist,Single,40510.0,5.0,16.0,3.0,13.0,3.0,6.0000000001,0.0,5.0,3.0,4.0,3.0,3.0,3.0
+6.746944444444445,49.0,0,Travel_Rarely,Research & Development,7.0,3.0,Life Sciences,1,3.0,Laboratory Technician,Married,53240.0,2.0,19.0,0.0,20.0,2.0,3.0000000001,1.0,2.0,1.0,3.0,2.0,1.0,3.0
+7.370555555555556,32.0,0,Travel_Rarely,Research & Development,7.0,3.0,Life Sciences,0,3.0,Laboratory Technician,Single,44030.0,2.0,20.0,0.0,10.0,3.0,5.0000000001,0.0,0.0,3.0,4.0,4.0,2.0,4.0
+8.865833333333333,50.0,1,Travel_Rarely,Research & Development,12.0,4.0,Medical,1,1.0,Research Director,Married,49000.0,1.0,11.0,0.0,3.0,3.0,3.0000000001,0.0,2.0,1.0,3.0,3.0,2.0,3.0
+7.453333333333333,37.0,0,Non-Travel,Research & Development,7.0,2.0,Medical,1,1.0,Sales Executive,Divorced,20280.0,1.0,16.0,1.0,9.0,3.0,9.0000000001,7.0,7.0,1.0,2.0,3.0,3.0,3.0
+6.902222222222222,50.0,0,Travel_Rarely,Research & Development,9.0,3.0,Medical,0,3.0,Laboratory Technician,Single,98880.0,6.0,15.0,0.0,20.0,2.0,4.0000000001,1.0,3.0,4.0,4.0,3.0,3.0,3.0
+7.1625,50.0,1,Travel_Frequently,Sales,4.0,2.0,Life Sciences,0,2.0,Laboratory Technician,Divorced,167990.0,7.0,14.0,1.0,12.0,2.0,6.0000000001,0.0,1.0,2.0,3.0,3.0,2.0,3.0
+7.0938888888888885,34.0,0,Travel_Rarely,Research & Development,7.0,2.0,Life Sciences,1,1.0,Healthcare Representative,Married,21770.0,1.0,13.0,0.0,10.0,5.0,10.0000000001,8.0,7.0,2.0,4.0,3.0,3.0,3.0
+7.568611111111111,18.0,0,Non-Travel,Research & Development,2.0,3.0,Life Sciences,1,3.0,Sales Representative,Single,186060.0,1.0,24.0,2.0,0.0,4.0,1e-10,0.0,0.0,2.0,3.0,1.0,3.0,4.0
+6.65,42.0,0,Travel_Rarely,Human Resources,1.0,3.0,Other,0,1.0,Healthcare Representative,Divorced,174650.0,8.0,13.0,1.0,7.0,3.0,5.0000000001,0.0,4.0,2.0,2.0,2.0,3.0,3.0
+6.524722222222223,28.0,1,Travel_Frequently,Research & Development,2.0,3.0,Medical,1,1.0,Research Scientist,Married,22740.0,3.0,20.0,1.0,5.0,5.0,3.0000000001,1.0,2.0,1.0,3.0,4.0,3.0,4.0
+8.57611111111111,35.0,1,Travel_Rarely,Research & Development,15.0,4.0,Life Sciences,1,2.0,Research Scientist,Single,19040.0,1.0,22.0,1.0,10.0,4.0,10.0000000001,7.0,7.0,3.0,4.0,3.0,3.0,4.0
+8.730277777777777,38.0,0,Non-Travel,Sales,11.0,1.0,Marketing,1,2.0,Laboratory Technician,Divorced,24300.0,7.0,13.0,2.0,17.0,2.0,13.0000000001,1.0,9.0,2.0,4.0,3.0,4.0,3.0
+8.446666666666667,42.0,0,Travel_Rarely,Research & Development,5.0,4.0,Medical,0,1.0,Research Scientist,Single,60290.0,3.0,17.0,1.0,10.0,5.0,3.0000000001,0.0,2.0,4.0,1.0,3.0,3.0,3.0
+6.1594444444444445,40.0,0,Travel_Rarely,Research & Development,1.0,4.0,Medical,1,2.0,Research Director,Married,50710.0,8.0,17.0,1.0,8.0,3.0,1.0000000001,0.0,0.0,1.0,4.0,2.0,2.0,3.0
+7.557777777777778,21.0,1,Travel_Frequently,Research & Development,20.0,2.0,Medical,0,4.0,Research Scientist,Single,53370.0,1.0,14.0,1.0,2.0,2.0,2.0000000001,2.0,2.0,1.0,3.0,1.0,3.0,3.0
+7.62,35.0,0,Travel_Frequently,Research & Development,6.0,4.0,Medical,0,2.0,Research Director,Single,61420.0,2.0,15.0,1.0,10.0,2.0,2.0000000001,2.0,2.0,3.0,4.0,3.0,3.0,3.0
+7.624444444444444,54.0,0,Travel_Rarely,Research & Development,2.0,4.0,Medical,1,2.0,Human Resources,Single,89380.0,7.0,11.0,3.0,19.0,2.0,1.0000000001,0.0,0.0,3.0,3.0,3.0,3.0,3.0
+6.850833333333333,29.0,0,Travel_Rarely,Research & Development,3.0,3.0,Technical Degree,0,2.0,Healthcare Representative,Divorced,48050.0,3.0,16.0,1.0,9.0,2.0,7.0000000001,1.0,7.0,4.0,4.0,2.0,3.0,3.0
+6.524722222222223,42.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,0,1.0,Manufacturing Director,Married,106850.0,4.0,11.0,3.0,4.0,2.0,1.0000000001,0.0,0.0,3.0,2.0,3.0,3.0,3.0
+6.1425,48.0,0,Non-Travel,Sales,2.0,1.0,Life Sciences,1,2.0,Sales Executive,Single,23700.0,2.0,11.0,0.0,27.0,3.0,5.0000000001,2.0,1.0,1.0,4.0,2.0,3.0,3.0
+7.053333333333334,23.0,0,Travel_Rarely,Research & Development,2.0,3.0,Life Sciences,1,1.0,Healthcare Representative,Married,76370.0,2.0,11.0,1.0,5.0,3.0,3.0000000001,0.0,2.0,1.0,1.0,4.0,3.0,3.0
+7.414166666666667,51.0,0,Travel_Rarely,Research & Development,4.0,1.0,Medical,0,3.0,Manufacturing Director,Single,40280.0,3.0,14.0,0.0,29.0,3.0,5.0000000001,0.0,3.0,4.0,2.0,2.0,3.0,3.0
+7.789166666666667,36.0,0,Travel_Rarely,Research & Development,7.0,3.0,Life Sciences,1,1.0,Sales Executive,Married,92040.0,6.0,23.0,1.0,17.0,2.0,7.0000000001,7.0,7.0,3.0,3.0,2.0,3.0,4.0
+6.158888888888889,34.0,0,Travel_Rarely,Research & Development,20.0,3.0,Medical,0,3.0,Laboratory Technician,Divorced,57440.0,3.0,19.0,1.0,7.0,4.0,1e-10,0.0,0.0,2.0,1.0,3.0,2.0,3.0
+6.611666666666666,41.0,0,Travel_Rarely,Research & Development,7.0,3.0,Technical Degree,0,3.0,Research Scientist,Married,27820.0,1.0,14.0,0.0,10.0,2.0,10.0000000001,0.0,7.0,2.0,1.0,3.0,2.0,3.0
+7.617222222222222,44.0,0,Travel_Rarely,Research & Development,3.0,4.0,Medical,1,2.0,Research Scientist,Single,25640.0,1.0,12.0,3.0,20.0,3.0,20.0000000001,13.0,17.0,4.0,4.0,3.0,1.0,3.0
+6.917222222222223,29.0,0,Travel_Rarely,Sales,10.0,2.0,Life Sciences,0,1.0,Sales Executive,Divorced,128080.0,1.0,13.0,0.0,10.0,6.0,10.0000000001,0.0,4.0,3.0,3.0,3.0,3.0,3.0
+6.195,50.0,0,Travel_Rarely,Sales,27.0,3.0,Medical,1,2.0,Sales Executive,Married,33100.0,4.0,22.0,1.0,8.0,3.0,1.0000000001,0.0,0.0,1.0,4.0,3.0,4.0,4.0
+10.873888888888889,29.0,0,Travel_Rarely,Sales,4.0,2.0,Other,0,2.0,Healthcare Representative,Married,65400.0,1.0,22.0,0.0,10.0,2.0,10.0000000001,1.0,2.0,2.0,4.0,2.0,1.0,4.0
+10.3325,28.0,1,Travel_Rarely,Research & Development,15.0,4.0,Life Sciences,1,2.0,Sales Executive,Married,41970.0,1.0,13.0,0.0,1.0,3.0,1.0000000001,0.0,0.0,3.0,4.0,2.0,1.0,3.0
+6.015555555555555,39.0,0,Travel_Rarely,Research & Development,4.0,3.0,Life Sciences,1,2.0,Sales Executive,Single,98520.0,0.0,12.0,1.0,21.0,5.0,20.0000000001,11.0,10.0,2.0,1.0,3.0,2.0,3.0
+7.266666666666667,29.0,0,Travel_Rarely,Sales,4.0,3.0,Other,0,2.0,Human Resources,Single,35390.0,1.0,18.0,0.0,6.0,2.0,6.0000000001,1.0,5.0,3.0,4.0,3.0,2.0,3.0
+6.6627777777777775,51.0,0,Travel_Rarely,Research & Development,1.0,4.0,Life Sciences,0,1.0,Manager,Married,40330.0,2.0,14.0,0.0,15.0,2.0,2.0000000001,2.0,2.0,1.0,3.0,3.0,3.0,3.0
+7.597777777777778,30.0,0,Travel_Rarely,Research & Development,10.0,3.0,Life Sciences,1,2.0,Research Scientist,Divorced,55070.0,1.0,12.0,2.0,10.0,2.0,10.0000000001,1.0,2.0,4.0,3.0,3.0,2.0,3.0
+6.216944444444445,29.0,0,Travel_Rarely,Sales,9.0,3.0,Life Sciences,1,1.0,Laboratory Technician,Single,111030.0,1.0,12.0,0.0,10.0,5.0,10.0000000001,0.0,9.0,2.0,1.0,2.0,2.0,3.0
+6.607222222222222,42.0,0,Travel_Frequently,Research & Development,18.0,4.0,Technical Degree,1,4.0,Sales Executive,Married,132060.0,0.0,13.0,2.0,7.0,2.0,6.0000000001,0.0,4.0,4.0,4.0,4.0,3.0,3.0
+6.698333333333333,48.0,0,Travel_Rarely,Research & Development,1.0,4.0,Medical,1,1.0,Research Scientist,Married,21770.0,4.0,18.0,0.0,13.0,4.0,1e-10,0.0,0.0,4.0,3.0,2.0,3.0,3.0
+7.745,33.0,1,Travel_Frequently,Research & Development,1.0,2.0,Life Sciences,0,1.0,Sales Executive,Single,62140.0,1.0,19.0,2.0,14.0,3.0,13.0000000001,3.0,8.0,1.0,3.0,3.0,3.0,3.0
+7.147222222222222,21.0,0,Travel_Rarely,Sales,16.0,2.0,Life Sciences,1,3.0,Sales Executive,Single,87260.0,1.0,11.0,1.0,3.0,2.0,3.0000000001,1.0,2.0,3.0,3.0,3.0,1.0,3.0
+5.962222222222223,36.0,0,Non-Travel,Research & Development,10.0,4.0,Technical Degree,0,2.0,Research Scientist,Married,41520.0,9.0,19.0,1.0,10.0,3.0,8.0000000001,0.0,5.0,1.0,1.0,3.0,3.0,3.0
+7.648888888888889,36.0,0,Travel_Rarely,Sales,6.0,3.0,Medical,0,2.0,Sales Executive,Married,42000.0,0.0,22.0,0.0,10.0,3.0,9.0000000001,0.0,5.0,3.0,2.0,3.0,3.0,4.0
+7.057222222222222,29.0,0,Travel_Frequently,Research & Development,1.0,4.0,Medical,1,3.0,Research Scientist,Divorced,27160.0,0.0,18.0,0.0,8.0,2.0,7.0000000001,1.0,1.0,4.0,2.0,2.0,1.0,3.0
+6.284166666666667,31.0,0,Travel_Frequently,Research & Development,5.0,2.0,Technical Degree,1,2.0,Sales Executive,Married,65020.0,1.0,12.0,0.0,4.0,3.0,4.0000000001,0.0,3.0,3.0,1.0,3.0,3.0,3.0
+6.963055555555556,27.0,0,Travel_Rarely,Sales,9.0,3.0,Marketing,1,5.0,Research Director,Single,59930.0,0.0,14.0,1.0,5.0,3.0,4.0000000001,1.0,1.0,1.0,4.0,3.0,1.0,3.0
+7.345833333333333,34.0,0,Travel_Rarely,Research & Development,3.0,2.0,Technical Degree,1,2.0,Research Director,Divorced,26590.0,0.0,24.0,3.0,10.0,2.0,9.0000000001,1.0,6.0,4.0,4.0,2.0,3.0,4.0
+5.988888888888889,40.0,0,Travel_Rarely,Sales,26.0,4.0,Marketing,0,1.0,Sales Executive,Married,34820.0,0.0,18.0,1.0,21.0,2.0,20.0000000001,1.0,12.0,3.0,3.0,3.0,2.0,3.0
+9.053055555555556,36.0,0,Travel_Rarely,Sales,9.0,3.0,Marketing,0,4.0,Research Scientist,Single,142750.0,3.0,18.0,1.0,7.0,5.0,3.0000000001,1.0,2.0,3.0,4.0,2.0,2.0,3.0
+7.571666666666666,37.0,0,Travel_Rarely,Sales,5.0,1.0,Marketing,1,1.0,Research Scientist,Single,27050.0,1.0,11.0,0.0,17.0,2.0,17.0000000001,5.0,7.0,4.0,4.0,3.0,3.0,3.0
+6.767777777777778,48.0,0,Travel_Rarely,Research & Development,6.0,3.0,Medical,1,1.0,Laboratory Technician,Married,108540.0,2.0,14.0,1.0,14.0,6.0,9.0000000001,6.0,7.0,2.0,4.0,3.0,3.0,3.0
+10.188055555555556,26.0,0,Travel_Rarely,Research & Development,4.0,4.0,Life Sciences,0,3.0,Sales Executive,Married,47890.0,7.0,20.0,1.0,5.0,2.0,2.0000000001,0.0,0.0,3.0,4.0,2.0,3.0,4.0
+7.778333333333333,45.0,0,Travel_Rarely,Research & Development,19.0,4.0,Medical,1,1.0,Sales Representative,Married,71190.0,4.0,15.0,0.0,9.0,2.0,5.0000000001,0.0,3.0,3.0,3.0,4.0,3.0,3.0
+6.433333333333334,36.0,1,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,1,1.0,Research Director,Single,54860.0,7.0,12.0,1.0,10.0,2.0,5.0000000001,0.0,3.0,3.0,1.0,3.0,3.0,3.0
+5.99,44.0,1,Travel_Rarely,Sales,5.0,3.0,Life Sciences,1,1.0,Laboratory Technician,Married,63220.0,4.0,11.0,1.0,10.0,2.0,3.0000000001,1.0,2.0,1.0,1.0,4.0,3.0,3.0
+6.347222222222222,54.0,0,Travel_Frequently,Research & Development,9.0,2.0,Medical,1,2.0,Sales Representative,Divorced,29830.0,7.0,14.0,1.0,33.0,2.0,5.0000000001,1.0,4.0,4.0,3.0,1.0,2.0,3.0
+10.878333333333334,58.0,0,Non-Travel,Research & Development,2.0,3.0,Life Sciences,1,2.0,Manufacturing Director,Divorced,39680.0,2.0,13.0,2.0,12.0,3.0,5.0000000001,1.0,2.0,4.0,3.0,3.0,2.0,3.0
+7.114444444444445,20.0,1,Travel_Rarely,Research & Development,11.0,3.0,Medical,1,2.0,Sales Executive,Single,93960.0,1.0,12.0,0.0,2.0,6.0,2.0000000001,0.0,2.0,3.0,3.0,2.0,1.0,3.0
+6.881111111111111,34.0,0,Travel_Frequently,Research & Development,7.0,4.0,Life Sciences,1,3.0,Laboratory Technician,Single,23480.0,1.0,14.0,1.0,6.0,3.0,5.0000000001,1.0,3.0,3.0,4.0,3.0,3.0,3.0
+6.748333333333333,42.0,0,Travel_Rarely,Research & Development,4.0,4.0,Life Sciences,1,1.0,Manufacturing Director,Married,89260.0,1.0,14.0,0.0,20.0,4.0,20.0000000001,11.0,6.0,2.0,3.0,3.0,1.0,3.0
+9.35388888888889,44.0,0,Travel_Rarely,Research & Development,1.0,1.0,Medical,0,3.0,Research Scientist,Divorced,15630.0,5.0,12.0,2.0,9.0,3.0,4.0000000001,1.0,3.0,2.0,1.0,2.0,3.0,3.0
+10.649444444444445,28.0,0,Travel_Frequently,Sales,6.0,4.0,Life Sciences,1,1.0,Manager,Divorced,52530.0,1.0,15.0,0.0,3.0,2.0,3.0000000001,0.0,2.0,3.0,3.0,3.0,3.0,3.0
+9.39638888888889,29.0,1,Travel_Rarely,Sales,3.0,3.0,Marketing,1,3.0,Laboratory Technician,Divorced,59160.0,6.0,12.0,0.0,5.0,2.0,3.0000000001,0.0,2.0,2.0,3.0,3.0,3.0,3.0
+7.789444444444444,25.0,0,Travel_Rarely,Sales,5.0,3.0,Marketing,0,4.0,Research Scientist,Married,27560.0,1.0,12.0,2.0,5.0,2.0,5.0000000001,0.0,3.0,3.0,1.0,4.0,3.0,3.0
+8.738333333333333,29.0,0,Travel_Rarely,Sales,17.0,4.0,Medical,1,1.0,Laboratory Technician,Divorced,65820.0,1.0,19.0,1.0,6.0,3.0,6.0000000001,1.0,0.0,3.0,4.0,3.0,3.0,3.0
+7.454722222222222,31.0,0,Travel_Frequently,Sales,8.0,4.0,Other,0,3.0,Manufacturing Director,Married,25520.0,2.0,18.0,0.0,9.0,2.0,3.0000000001,2.0,2.0,1.0,1.0,3.0,3.0,3.0
+10.45,50.0,1,Travel_Frequently,Research & Development,1.0,4.0,Medical,1,2.0,Research Scientist,Single,159920.0,3.0,14.0,0.0,5.0,3.0,1e-10,0.0,0.0,4.0,3.0,3.0,3.0,3.0
+9.974444444444444,42.0,1,Travel_Frequently,Research & Development,10.0,1.0,Life Sciences,0,1.0,Sales Executive,Divorced,50100.0,6.0,21.0,3.0,7.0,3.0,2.0000000001,2.0,2.0,3.0,3.0,3.0,3.0,4.0
+9.498888888888889,35.0,0,Travel_Frequently,Sales,1.0,2.0,Technical Degree,1,2.0,Manager,Single,66460.0,1.0,13.0,1.0,9.0,2.0,9.0000000001,1.0,1.0,3.0,3.0,3.0,2.0,3.0
+10.243333333333334,34.0,0,Travel_Rarely,Human Resources,2.0,3.0,Human Resources,1,2.0,Manufacturing Director,Married,28180.0,1.0,13.0,1.0,10.0,2.0,10.0000000001,8.0,6.0,4.0,3.0,3.0,3.0,3.0
+6.338888888888889,42.0,0,Non-Travel,Research & Development,1.0,1.0,Technical Degree,1,2.0,Sales Executive,Divorced,78790.0,2.0,11.0,1.0,11.0,2.0,5.0000000001,0.0,2.0,3.0,3.0,3.0,3.0,3.0
+7.795277777777778,29.0,0,Travel_Rarely,Research & Development,28.0,4.0,Life Sciences,0,1.0,Sales Representative,Married,48410.0,0.0,11.0,0.0,6.0,3.0,5.0000000001,0.0,4.0,3.0,2.0,3.0,3.0,3.0
+7.225,31.0,0,Travel_Rarely,Sales,24.0,1.0,Marketing,0,1.0,Sales Executive,Single,38940.0,1.0,12.0,0.0,10.0,3.0,10.0000000001,1.0,8.0,3.0,1.0,3.0,4.0,3.0
+6.818888888888889,30.0,0,Non-Travel,Sales,1.0,3.0,Medical,0,1.0,Sales Executive,Divorced,54700.0,1.0,18.0,1.0,12.0,2.0,12.0000000001,6.0,10.0,3.0,1.0,3.0,3.0,3.0
+7.6325,20.0,0,Travel_Rarely,Research & Development,1.0,3.0,Life Sciences,1,1.0,Sales Representative,Single,47770.0,1.0,18.0,1.0,2.0,3.0,2.0000000001,0.0,2.0,4.0,1.0,3.0,3.0,3.0
+6.212222222222223,39.0,0,Non-Travel,Research & Development,8.0,5.0,Medical,0,2.0,Sales Representative,Married,188240.0,6.0,19.0,1.0,10.0,4.0,3.0000000001,1.0,2.0,1.0,3.0,3.0,3.0,3.0
+7.5825,46.0,0,Travel_Rarely,Research & Development,6.0,3.0,Medical,1,4.0,Sales Executive,Single,46150.0,6.0,12.0,0.0,19.0,3.0,10.0000000001,0.0,9.0,3.0,2.0,3.0,2.0,3.0

@@ -1,0 +1,1 @@
+{"flow_id": "TrainTestFlow", "run_number": "1660330062231756", "step_name": "join_build_shifted_df", "task_id": "3", "field_name": "ds-root", "type": "ds-root", "value": "/home/skyolia/JupyterProjects/time_series/mmm/.metaflow", "tags": ["attempt_id:0"], "user_name": "skyolia", "ts_epoch": 1660330065353}
