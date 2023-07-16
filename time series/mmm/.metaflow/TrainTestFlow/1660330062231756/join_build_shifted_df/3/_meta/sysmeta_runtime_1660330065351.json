@@ -1,1 +1,0 @@
-{"flow_id": "TrainTestFlow", "run_number": "1660330062231756", "step_name": "join_build_shifted_df", "task_id": "3", "field_name": "runtime", "type": "runtime", "value": "dev", "tags": ["attempt_id:0"], "user_name": "skyolia", "ts_epoch": 1660330065351}

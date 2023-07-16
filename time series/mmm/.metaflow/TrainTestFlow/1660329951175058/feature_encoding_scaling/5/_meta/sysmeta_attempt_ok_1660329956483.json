@@ -1,1 +1,0 @@
-{"flow_id": "TrainTestFlow", "run_number": "1660329951175058", "step_name": "feature_encoding_scaling", "task_id": "5", "field_name": "attempt_ok", "type": "internal_attempt_status", "value": "False", "tags": ["attempt_id:0"], "user_name": "skyolia", "ts_epoch": 1660329956483}
